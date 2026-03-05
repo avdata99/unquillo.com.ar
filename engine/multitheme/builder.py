@@ -5,6 +5,7 @@ from pathlib import Path
 
 from .config import load_config
 from .article_store import ArticleStore
+from .image_cache import process_articles as cache_images
 from .renderer import Renderer
 from .sources.rss import RSSSource
 from .sources.youtube import YouTubeSource
@@ -80,6 +81,11 @@ def build(config_path, output_dir, engine_dir=None):
 
     # 5. Prepare output directory
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    # 5b. Cache images as local thumbnails
+    all_stored_for_cache = store.get_all()
+    cache_images(all_stored_for_cache, output_dir)
+    store.save()
 
     # 6. Render site
     template_name = site.get('template', 'starter')
