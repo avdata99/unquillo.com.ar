@@ -23,12 +23,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install -r engine/requirements.txt
+      - name: Install engine
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.ENGINE_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          pip install git+ssh://git@github.com/avdata99/multisite-engine.git
 
       - name: Build site
-        working-directory: engine
-        run: python -m multitheme.cli build --config ../site.yaml --output ../docs/
+        run: multitheme build --config site.yaml --output docs/
 
       - name: Commit and push changes
         run: |
