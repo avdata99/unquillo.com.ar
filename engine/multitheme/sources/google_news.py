@@ -6,7 +6,10 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 
 from .base import Source
-from ..utils import clean_html, format_rss_date, parse_rss_date, truncate
+from ..utils import (
+    clean_html, extract_first_image, fetch_og_image,
+    format_rss_date, parse_rss_date, truncate
+)
 
 
 class GoogleNewsSource(Source):
@@ -81,13 +84,29 @@ class GoogleNewsSource(Source):
 
             dt = parse_rss_date(pub_date_raw)
 
+            # Try to extract image from description HTML or fetch og:image
+            short_title = title[:50]
+            desc_raw = desc_elem.text if desc_elem is not None else ''
+            image = extract_first_image(desc_raw)
+            if image:
+                print(f"      [img] '{short_title}' -> description")
+            if not image and link:
+                print(f"      [img] '{short_title}' -> trying og:image")
+                image = fetch_og_image(link)
+                if image:
+                    print(f"      [img]   -> og:image OK")
+                else:
+                    print(f"      [img]   -> og:image: not found")
+            if not image:
+                print(f"      [img] '{short_title}' -> NO IMAGE FOUND")
+
             articles.append({
                 'title': title,
                 'link': link,
                 'description': description,
                 'pub_date': format_rss_date(pub_date_raw),
                 'pub_date_raw': dt.isoformat(),
-                'image': None,
+                'image': image,
                 'source_name': source_name,
                 'source_type': 'google_news',
                 'video_id': None,

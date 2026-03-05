@@ -66,10 +66,14 @@ class ArticleStore:
                 self.articles[slug] = article
                 added += 1
             else:
-                # Update if same slug but potentially fresher data
                 existing = self.articles[slug]
+                # Update if fresher data
                 if article.get('pub_date_raw', '') > existing.get('pub_date_raw', ''):
                     self.articles[slug] = article
+                # Enrich: fill in image if existing has none but new one does
+                elif not existing.get('image') and article.get('image'):
+                    existing['image'] = article['image']
+                    print(f"  [enrich] Image added for: {slug[:60]}")
 
         return added
 

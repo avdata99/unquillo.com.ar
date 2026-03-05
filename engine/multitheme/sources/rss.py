@@ -6,9 +6,10 @@ import xml.etree.ElementTree as ET
 
 from .base import Source
 from ..utils import (
-    clean_html, extract_first_image, format_rss_date,
-    parse_rss_date, truncate
+    clean_html, extract_first_image, extract_media_image,
+    fetch_og_image, format_rss_date, parse_rss_date, truncate
 )
+from ..wordpress import extract_wp_post_id, extract_wp_site_url, fetch_wp_featured_image
 
 
 class RSSSource(Source):
@@ -65,14 +66,49 @@ class RSSSource(Source):
             pub_date_elem = item.find('pubDate')
             pub_date_raw = pub_date_elem.text if pub_date_elem is not None else ''
 
-            # Extract image from content:encoded or description
+            # Extract image with fallback chain
+            short_title = title[:50]
             content_elem = item.find(
                 './/{http://purl.org/rss/1.0/modules/content/}encoded'
             )
             html_content = content_elem.text if content_elem is not None else ''
-            image = extract_first_image(html_content) or extract_first_image(
-                desc_elem.text if desc_elem is not None else ''
-            )
+
+            # 1. Media elements (media:thumbnail, media:content, enclosure)
+            image = extract_media_image(item)
+            if image:
+                print(f"      [img] '{short_title}' -> media element")
+            # 2. content:encoded HTML
+            if not image:
+                image = extract_first_image(html_content)
+                if image:
+                    print(f"      [img] '{short_title}' -> content:encoded")
+            # 3. description HTML
+            if not image:
+                desc_raw = desc_elem.text if desc_elem is not None else ''
+                image = extract_first_image(desc_raw)
+                if image:
+                    print(f"      [img] '{short_title}' -> description")
+            # 4. WordPress REST API
+            if not image:
+                wp_post_id = extract_wp_post_id(item)
+                if wp_post_id:
+                    site_url = extract_wp_site_url(link)
+                    print(f"      [img] '{short_title}' -> trying WP API (post {wp_post_id})")
+                    image = fetch_wp_featured_image(site_url, wp_post_id)
+                    if image:
+                        print(f"      [img]   -> WP API OK")
+                    else:
+                        print(f"      [img]   -> WP API: no image found")
+            # 5. og:image from article page
+            if not image and link:
+                print(f"      [img] '{short_title}' -> trying og:image")
+                image = fetch_og_image(link)
+                if image:
+                    print(f"      [img]   -> og:image OK")
+                else:
+                    print(f"      [img]   -> og:image: not found")
+            if not image:
+                print(f"      [img] '{short_title}' -> NO IMAGE FOUND")
 
             # Parse date for sorting
             dt = parse_rss_date(pub_date_raw)
