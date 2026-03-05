@@ -1,0 +1,92 @@
+site:
+  title: "Unquillo"
+  subtitle: "Noticias y novedades de nuestra ciudad"
+  description: "Portal de noticias de Unquillo, Cordoba, Argentina"
+  url: "https://unquillo.com.ar"
+  email: "info@unquillo.com.ar"
+  language: "es"
+  country: "AR"
+  template: "magazine"
+
+content:
+  articles_on_homepage: 20
+  max_description_length: 250
+  max_article_age_days: 30
+
+sources:
+  - type: rss
+    name: "Municipalidad de Unquillo"
+    url: "https://unquillo.gov.ar/feed/"
+    keywords: []
+    limit: 10
+
+  - type: youtube
+    name: "Canal Municipal Unquillo"
+    channel: "@MunicipalidaddeUnquillo"
+    keywords: []
+    limit: 5
+
+  - type: google_news
+    name: "Noticias de Unquillo"
+    query: "Unquillo Cordoba"
+    limit: 15
+
+  - type: rss
+    name: "El Milenio"
+    url: "https://elmilenio.info/secciones/unquillo/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "La Unión Regional"
+    url: "https://www.launionregional.com.ar/category/unquillo/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "Sierras Chicas Vivo"
+    url: "https://www.sierraschicasvivo.com/feed/"
+    keywords: ["unquillo"]
+    limit: 10
+
+  - type: rss
+    name: "Info Sierras"
+    url: "https://infosierras.com/feed/"
+    keywords: ["unquillo"]
+    limit: 10
+
+  - type: youtube
+    name: "Telefe Córdoba"
+    channel: "@telefecordoba"
+    keywords: ["unquillo"]
+    limit: 5
+
+  - type: youtube
+    name: "lagarto Show"
+    channel: "@LagartoShowOk"
+    keywords: ["unquillo"]
+    limit: 5
+
+  - type: youtube
+    name: "Canal 10"
+    channel: "@canal10cordoba"
+    keywords: ["unquillo"]
+    limit: 5
+
+  - type: youtube
+    name: "La Voz"
+    channel: "@lavozcomar"
+    keywords: ["unquillo"]
+    limit: 5
+
+  - type: youtube
+    name: "El Doce"
+    channel: "@eldoce"
+    keywords: ["unquillo"]
+    limit: 5
+
+  - type: youtube
+    name: "El Milenio"
+    channel: "@elmileniook"
+    keywords: ["unquillo"]
+    limit: 5

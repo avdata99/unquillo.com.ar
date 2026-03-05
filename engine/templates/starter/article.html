@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ site.title }}{% endblock %}
+{% block description %}{{ article.description }}{% endblock %}
+
+{% block content %}
+<div class="container py-4">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <a href="/" class="btn btn-outline-secondary btn-sm mb-4">&larr; Volver al inicio</a>
+
+            {% if article.video_id %}
+            <!-- YouTube embed -->
+            <div class="ratio ratio-16x9 mb-4 rounded overflow-hidden shadow">
+                <iframe
+                    src="https://www.youtube.com/embed/{{ article.video_id }}?rel=0"
+                    title="{{ article.title }}"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            {% elif article.image %}
+            <img src="{{ article.image }}" class="img-fluid rounded mb-4 shadow" alt="{{ article.title }}">
+            {% endif %}
+
+            <article>
+                <h1 class="mb-3">{{ article.title }}</h1>
+                <div class="text-muted mb-4">
+                    <span>{{ article.pub_date }}</span>
+                    <span class="mx-2">&middot;</span>
+                    <span>{{ article.source_name }}</span>
+                </div>
+                <p class="lead">{{ article.description }}</p>
+
+                <hr class="my-4">
+                <div class="d-flex gap-2">
+                    <a href="{{ article.link }}" class="btn btn-primary" target="_blank" rel="noopener">
+                        {% if article.video_id %}Ver en YouTube{% else %}Leer nota completa{% endif %} &rarr;
+                    </a>
+                    <a href="/" class="btn btn-outline-secondary">Volver al inicio</a>
+                </div>
+            </article>
+        </div>
+    </div>
+</div>
+{% endblock %}

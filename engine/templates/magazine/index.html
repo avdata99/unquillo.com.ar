@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %}{{ site.title }} - Noticias{% endblock %}
+
+{% block content %}
+<div class="container py-4">
+    <!-- Hero card: first article -->
+    {% if articles %}
+    {% set hero = articles[0] %}
+    <div class="hero-card mb-5">
+        {% if hero.image %}
+        <img src="{{ hero.image }}" class="hero-image" alt="{{ hero.title }}">
+        {% endif %}
+        <div class="hero-overlay">
+            <div class="hero-body">
+                <span class="hero-badge">{{ hero.source_name }}</span>
+                <h1 class="hero-title">
+                    <a href="/articles/{{ hero.slug }}/">{{ hero.title }}</a>
+                </h1>
+                <p class="hero-desc">{{ hero.description }}</p>
+                <div class="hero-meta">
+                    <span>{{ hero.pub_date }}</span>
+                    <a href="/articles/{{ hero.slug }}/" class="hero-link">
+                        {% if hero.video_id %}Ver video{% else %}Leer más{% endif %} &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Grid -->
+    <div class="row g-4">
+        {% for article in articles[1:] %}
+        <div class="col-md-6 col-lg-4">
+            <div class="mag-card h-100">
+                {% if article.image %}
+                <div class="mag-card-img-wrapper">
+                    <img src="{{ article.image }}" class="mag-card-img" alt="{{ article.title }}" loading="lazy">
+                    {% if article.video_id %}
+                    <span class="play-badge">&#9654;</span>
+                    {% endif %}
+                </div>
+                {% else %}
+                <div class="mag-card-no-img">
+                    <span class="source-badge">{{ article.source_name }}</span>
+                </div>
+                {% endif %}
+                <div class="mag-card-body">
+                    <small class="mag-card-meta">{{ article.pub_date }} &middot; {{ article.source_name }}</small>
+                    <h5 class="mag-card-title">
+                        <a href="/articles/{{ article.slug }}/">{{ article.title }}</a>
+                    </h5>
+                    <p class="mag-card-desc">{{ article.description | truncate_text(250) }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if not articles %}
+    <div class="text-center py-5">
+        <p class="text-muted">No hay noticias recientes.</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

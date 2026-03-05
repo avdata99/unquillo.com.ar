@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.language | default('es') }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ site.title }}{% endblock %}</title>
+    <meta name="description" content="{% block description %}{{ site.description | default('') }}{% endblock %}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/style.css">
+    {% block head_extra %}{% endblock %}
+</head>
+<body>
+    <!-- Header -->
+    <header class="magazine-header">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <a href="/" class="header-brand">{{ site.title }}</a>
+                    {% if site.subtitle %}
+                    <span class="header-tagline d-none d-md-inline-block">{{ site.subtitle }}</span>
+                    {% endif %}
+                </div>
+                {% if site.email %}
+                <a href="mailto:{{ site.email }}" class="header-contact d-none d-md-block">{{ site.email }}</a>
+                {% endif %}
+            </div>
+        </div>
+    </header>
+
+    <!-- Accent bar -->
+    <div class="accent-bar"></div>
+
+    {% block content %}{% endblock %}
+
+    <!-- Footer -->
+    <footer class="magazine-footer">
+        <div class="accent-bar"></div>
+        <div class="container py-4">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h5 class="footer-brand">{{ site.title }}</h5>
+                    <p class="mb-0 opacity-75">{{ site.description | default('') }}</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    {% if site.email %}
+                    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+                    {% endif %}
+                    <p class="small opacity-50 mb-0">Generado el {{ build_date }}</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

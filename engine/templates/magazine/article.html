@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ site.title }}{% endblock %}
+{% block description %}{{ article.description }}{% endblock %}
+
+{% block content %}
+<div class="container py-4">
+    <div class="row">
+        <div class="col-lg-10 offset-lg-1">
+            <a href="/" class="btn btn-sm btn-outline-light mb-4 back-btn">&larr; Volver al inicio</a>
+
+            {% if article.video_id %}
+            <div class="ratio ratio-16x9 mb-4 rounded overflow-hidden shadow-lg">
+                <iframe
+                    src="https://www.youtube.com/embed/{{ article.video_id }}?rel=0"
+                    title="{{ article.title }}"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            {% elif article.image %}
+            <img src="{{ article.image }}" class="img-fluid rounded mb-4 shadow-lg" alt="{{ article.title }}">
+            {% endif %}
+
+            <article class="article-content">
+                <span class="hero-badge mb-3 d-inline-block">{{ article.source_name }}</span>
+                <h1 class="article-title">{{ article.title }}</h1>
+                <p class="article-meta">{{ article.pub_date }}</p>
+                <p class="lead">{{ article.description }}</p>
+
+                <hr class="my-4" style="border-color: rgba(255,255,255,0.1);">
+                <div class="d-flex gap-2 flex-wrap">
+                    <a href="{{ article.link }}" class="btn btn-accent" target="_blank" rel="noopener">
+                        {% if article.video_id %}Ver en YouTube{% else %}Leer nota completa{% endif %} &rarr;
+                    </a>
+                    <a href="/" class="btn btn-outline-light">Volver al inicio</a>
+                </div>
+            </article>
+        </div>
+    </div>
+</div>
+{% endblock %}
