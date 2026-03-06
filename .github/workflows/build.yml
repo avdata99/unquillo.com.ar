@@ -2,7 +2,7 @@ name: Build and Deploy Site
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Once a day at 08:00 UTC
+    - cron: '0 8,16 * * *'  # Twice a day at 08:00 and 16:00 UTC
   push:
     branches: [main]
   workflow_dispatch:
