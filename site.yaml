@@ -1,12 +1,17 @@
 site:
   title: "Unquillo"
   subtitle: "Noticias y novedades de nuestra ciudad"
-  description: "Portal de noticias de Unquillo, Cordoba, Argentina"
+  description: "Portal de noticias de Unquillo, Córdoba, Argentina"
   url: "https://unquillo.com.ar"
   email: "info@unquillo.com.ar"
   language: "es"
   country: "AR"
   template: "magazine"
+  map:
+    latitude: -31.234125
+    longitude: -64.316418
+    title: "¿Dónde queda Unquillo?"
+    zoom: 13
 
 content:
   articles_on_homepage: 20
