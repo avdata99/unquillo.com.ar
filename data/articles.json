@@ -1415,13 +1415,13 @@
     "slug": "comunicacion-oficial-obra-de-gas-natural-barrio-residencial"
   },
   "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel": {
-    "title": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel - novacordoba.com",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iRjE2Vjl2bXM0YUJEUTc1Y2R6akhOQmlKZEVoVEU4a3pXU010a3B1WEhnVmFXaDNHdTlFRVlCbjQzZ0xsRzFDRzUtR19wa2xCWUF0VUxlM3JjVk16TndnTXNQR3h2M0kzelg1Q1Q3c3pFYUZLQmV1NWVRTQ?oc=5",
-    "description": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel novacordoba.com",
-    "pub_date": "27/03/2026",
-    "pub_date_raw": "2026-03-27T05:44:57",
+    "title": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel - NOVA Córdoba",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ycUFrRDZwRS1TZktyN2pCamVrQnVWcGFidXV6SlkxS0lPX1p4Wm9kaVJ6R0wyZXJkMVN2UkQyRlBSTzZKN1AxbGo0Tl9GZVFqQS11aHl4dEpicUhYYlF0am5lajV4RHNsZndKdlh0bkNkUHVQOUMxMG5B?oc=5",
+    "description": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel NOVA Córdoba",
+    "pub_date": "07/04/2026",
+    "pub_date_raw": "2026-04-07T21:32:26",
     "image": null,
-    "source_name": "novacordoba.com",
+    "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel"
@@ -2118,5 +2118,18 @@
     "video_id": null,
     "slug": "unquillo-luego-de-recibir-denuncias-por-ruidos-molestos-la-policia-clausuro-una-fiesta-clandestina",
     "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/04/fiesta.jpg?fit=648%2C800&ssl=1"
+  },
+  "el-arte-contemporaneo-dejo-su-huella-en-unquillo": {
+    "title": "EL ARTE CONTEMPORÁNEO DEJÓ SU HUELLA EN UNQUILLO",
+    "link": "https://unquillo.gov.ar/el-arte-contemporaneo-dejo-su-huella-en-unquillo/",
+    "description": "Durante cinco días, el FACU!!!! reunió a más de 30 artistas de todo el país con intervenciones, performances y actividades gratuitas en distintos puntos de la ciudad.",
+    "pub_date": "07/04/2026",
+    "pub_date_raw": "2026-04-07T23:44:43",
+    "image": "/img/b66bb9e7f65aeb98.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "el-arte-contemporaneo-dejo-su-huella-en-unquillo",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/04/Gracias-por-interesarse-en-el-arte-argentino-Intervencion-Urbana-de-Hans-Petersen-OK-1-1024x576.png"
   }
 }
