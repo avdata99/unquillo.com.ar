@@ -7,6 +7,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-este-domingo-llega-la-segunda-edicion-del-desafio-buffo/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-indignacion-en-el-barrio-privado-las-corzuelas-por-la-matanza-de-lechuzas/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-este-viernes-llega-la-charla-sobre-la-individuacion-a-cargo-del-dr-vicente-rubino/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/unquillo-se-viene-la-2-edicion-de-desafio-buffo/</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,6 +32,12 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/la-universidad-popular-de-unquillo-ya-cuenta-con-sitio-web-propio/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/fauna-autoctona-matanza-de-lechuzas-indignacion-en-un-country-de-cordoba-por-la-destruccion-de-nidos/</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
