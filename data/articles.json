@@ -1898,10 +1898,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ORUpJNTdEUy1aVl9KYy1wck5YWU9jWEJtU2lwRl9WOWtIQ2lpUkhCX19rNUk5b1l0NFAyTnlyeTYwZWR2WVBieExuUE1VZFYtYWZJNTROb0tDbDN5N2NJbHpFZFJIUHpZTHJuOW1PSUliMzFqTUEtUkp6RnhXZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80b3NscHhPc2lGdUFnaTdiWm40cDloWFpOSjBiWDJHb29EbUMzdkp3RmN5Ym81QTdRc2Z6NXNtcHkxbXNRemJXdTYwWjBvRHAwa3l4ZzYtbVBFTGNVU3ZTYXQ2Uzl6bWlzSE1Dby1XazZpbEpnYURKRzdXSW8wdw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "11/04/2026",
-    "pub_date_raw": "2026-04-11T20:34:19",
+    "pub_date": "12/04/2026",
+    "pub_date_raw": "2026-04-12T22:38:27",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
@@ -2413,5 +2413,31 @@
     "video_id": null,
     "slug": "detienen-a-un-hombre-acusado-de-agredir-y-amenazar-a-su-pareja-en-unquillo",
     "image_original": "https://www.sierraschicasvivo.com/wp/wp-content/uploads/2025/04/policia.jpg"
+  },
+  "unquillo-escenario-de-la-segunda-edicion-de-desafio-buffo": {
+    "title": "UNQUILLO ESCENARIO DE LA SEGUNDA EDICIÓN DE DESAFÍO BUFFO",
+    "link": "https://unquillo.gov.ar/unquillo-escenario-de-la-segunda-edicion-de-desafio-buffo/",
+    "description": "La ciudad de Unquillo fue escenario de la segunda edición del Desafío Buffo. El evento deportivo de running se desarrolló en la mañana de este domingo 12 de abril, con un escenario especial debido a la presencia de neblina. Contó con distancias de 5, 14 y 30 kilómetros que recorrieron espacios urbanos y naturales locales.",
+    "pub_date": "13/04/2026",
+    "pub_date_raw": "2026-04-13T15:17:41",
+    "image": "/img/c1bac1aa1fe9e822.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-escenario-de-la-segunda-edicion-de-desafio-buffo",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/04/IMG_6009-1024x682.jpg"
+  },
+  "unquillo-detuvieron-a-un-vecino-por-comercializar-marihuana-en-el-bo-gobernador-pizarro": {
+    "title": "Unquillo: detuvieron a un vecino por comercializar marihuana en el Bº Gobernador Pizarro",
+    "link": "https://elmilenio.info/2026/04/13/cayo-un-narcomenudista-con-antecedentes-en-unquillo-lo-detuvieron-por-comercializar-marihuana-en-el-barrio-gobernador-pizarro/",
+    "description": "Federica Ordoñez (IMVA) El pasado domingo 11 de abril, en la ciudad de Unquillo, oficiales...",
+    "pub_date": "13/04/2026",
+    "pub_date_raw": "2026-04-13T13:15:35",
+    "image": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-22.08.25-768x658-1.jpeg?fit=768%2C658&ssl=1",
+    "source_name": "El Milenio",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-detuvieron-a-un-vecino-por-comercializar-marihuana-en-el-bo-gobernador-pizarro",
+    "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-22.08.25-768x658-1.jpeg?fit=768%2C658&ssl=1"
   }
 }
