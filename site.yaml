@@ -43,6 +43,12 @@ sources:
     limit: 10
 
   - type: rss
+    name: "Nexo FM"
+    url: "https://nexofm.com.ar/category/seleccionar-20/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
     name: "La Unión Regional"
     url: "https://www.launionregional.com.ar/category/unquillo/feed/"
     keywords: []
