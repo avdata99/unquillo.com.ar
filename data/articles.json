@@ -1898,10 +1898,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80b3NscHhPc2lGdUFnaTdiWm40cDloWFpOSjBiWDJHb29EbUMzdkp3RmN5Ym81QTdRc2Z6NXNtcHkxbXNRemJXdTYwWjBvRHAwa3l4ZzYtbVBFTGNVU3ZTYXQ2Uzl6bWlzSE1Dby1XazZpbEpnYURKRzdXSW8wdw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wdHNoTVo3SUE1UTVjSTVxeTNQQlpIWVN3OWh4RlhzVkpabnQtUURmYV9XQ3ZwWjRSTE1UM245eV83OElZaTRzMnExR2l6OU5UUUY4VUc4T1BmRG5LRmZWNkxkNldYc3l3QlhGS2FKaTJsSEdtaDl3Z0k4NDQ2Zw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "12/04/2026",
-    "pub_date_raw": "2026-04-12T22:38:27",
+    "pub_date": "21/04/2026",
+    "pub_date_raw": "2026-04-21T09:05:54",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
@@ -2910,5 +2910,18 @@
     "video_id": null,
     "slug": "talleres-culturales-para-todas-las-edades",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/04/talleres-culturales-unquillo-819x1024.jpg"
+  },
+  "se-viene-unquillo-corre-y-camina-2026": {
+    "title": "SE VIENE UNQUILLO CORRE Y CAMINA 2026",
+    "link": "https://unquillo.gov.ar/se-viene-unquillo-corre-y-camina-2026/",
+    "description": "El evento deportivo tiene un propósito solidario y se realizará el domingo 10 de mayo con largada desde la explanada de la Municipalidad de Unquillo.",
+    "pub_date": "21/04/2026",
+    "pub_date_raw": "2026-04-21T17:00:07",
+    "image": "/img/7f86c99348c7624f.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "se-viene-unquillo-corre-y-camina-2026",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/04/Portada_Unquillo-Corre-y-Camina-2026-1-1024x576.png"
   }
 }
