@@ -1898,10 +1898,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wdHNoTVo3SUE1UTVjSTVxeTNQQlpIWVN3OWh4RlhzVkpabnQtUURmYV9XQ3ZwWjRSTE1UM245eV83OElZaTRzMnExR2l6OU5UUUY4VUc4T1BmRG5LRmZWNkxkNldYc3l3QlhGS2FKaTJsSEdtaDl3Z0k4NDQ2Zw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Cei1TTWpzOG9XYjhubm9Db1dPWVZYcF9XR1lyQnlobDlHZjQwc080aGpMUDE2VlMzcUlvd2VWLXRhWjR0NnFWbXJJaDdpU0NfeGxrcHZfeFh6cDZISURIMXNrX2xHNlVjc1hmdDdqTmRfa2ZGVElDVFFNdm5Hdw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "21/04/2026",
-    "pub_date_raw": "2026-04-21T09:05:54",
+    "pub_date": "24/04/2026",
+    "pub_date_raw": "2026-04-24T18:09:09",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
@@ -3078,5 +3078,17 @@
     "video_id": null,
     "slug": "unquillo-se-prepara-para-una-nueva-edicion-de-corre-y-camina-con-perfil-solidario",
     "image_original": "https://infosierras.com/wp-content/uploads/2026/04/Portada_Unquillo-Corre-y-Camina-2026-1-1024x576-1.png"
+  },
+  "unquillo-la-nueva-escuela-proa-tendra-capacidad-para-180-estudiantes-con-orientacion-en-desarrollo-s": {
+    "title": "Unquillo: la nueva escuela ProA tendrá capacidad para 180 estudiantes con orientación en desarrollo software - cba.gov.ar",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGtWSHN4WlFBa3FRU2ZDZjRUYVVZZENhRWxFM0pBc1BaZHNmQ2FNcE1wWWVLSUY3a0Nrb2htM1VrZEpmWTlIbXltZVBocGJVS2tTUG4zVjNfTnFZUEEyMFBNN212LVlOVkEySXdnZGcyOUFNU3NVSGVlNnFnNFY5R3ZiNFp4SEcwcmJRQXRxWWZpOHpCWnNNNWFIaEs4d0tkZ1Fkb0ZGMjE5N2lnS0c1bHMyaG4xMGlKWHZENUpOVUg5bE5aSmdsc3B4Ykw0QVVZZEpnbzRrR2txUkE?oc=5",
+    "description": "Unquillo: la nueva escuela ProA tendrá capacidad para 180 estudiantes con orientación en desarrollo software cba.gov.ar",
+    "pub_date": "30/10/2025",
+    "pub_date_raw": "2025-10-30T08:20:06",
+    "image": null,
+    "source_name": "cba.gov.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-la-nueva-escuela-proa-tendra-capacidad-para-180-estudiantes-con-orientacion-en-desarrollo-s"
   }
 }
