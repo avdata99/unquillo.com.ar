@@ -1898,10 +1898,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMnJfbklmQ25CbG9vNU0zb0I5dzNDblZ2bjh0RVdpTktZLU9hdmxiY2gwcnJ2Q2NmS2ZBYlVma05JT2E2Z2Mybmhrdkh5bTQ2R3RCWmF5VXhycEU0ZGtLMU0yak5jS25qdTIwUFFGZ1JtVHRrMDQxYXVoaTRfUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KVTVyT0FIcGNjRXpxWGlxaEozZWF1OGZlS0lFM0kxdm0xSnNtT2d3N2szNG41Qkx3V0xLRU5TVlZCZTFXN2lsbDVJTGNxeXk4NFdDc3NCOFBRLWtqbmFsTENrOUgzakpDc3k4YnpsMkhhUnpTWXg1dzdPb0hZQQ?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "10/05/2026",
-    "pub_date_raw": "2026-05-10T10:34:05",
+    "pub_date": "13/05/2026",
+    "pub_date_raw": "2026-05-13T07:16:44",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
@@ -3579,5 +3579,18 @@
     "video_id": null,
     "slug": "unquillo-se-suma-a-la-ley-sonia-torres-y-refuerza-la-formacion-en-derechos-humanos",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/05/Unquillo-adhesion-sonia-torres-II.png"
+  },
+  "arreglen-la-escuela": {
+    "title": "¡Arreglen la escuela!",
+    "link": "https://www.launionregional.com.ar/arreglen-la-escuela-2/",
+    "description": "La comunidad estudiantil del IPEM 431 Guido Buffo de Cabana hizo su cuarta peña para conseguir fondos y avanzar con una obra paralizada desde hace cuatro años. La entrada ¡Arreglen la escuela! se publicó primero en La Unión Regional.",
+    "pub_date": "13/05/2026",
+    "pub_date_raw": "2026-05-13T21:05:41",
+    "image": "/img/2d0eb9459b87c09a.jpg",
+    "source_name": "La Unión Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "arreglen-la-escuela",
+    "image_original": "https://www.launionregional.com.ar/wp-content/uploads/2026/05/Portada_Unquillo_IPEM431.png"
   }
 }
