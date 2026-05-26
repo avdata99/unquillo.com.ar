@@ -184,7 +184,7 @@
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkJrSURlUHV1b0JWa2hGQThQUTBmUGthN0UwNlRlYlROLVd6RVE5OVY1QWhJSWljaG9zTGlEZFFQckoyRjJGY2wxclU5eHk0WVFGRjFYMEhiOGVCbWE1aUlIczJzMHN1TXJyVEJ2NUd2bzBEU2U5TkZhekM2b2ZicHhn?oc=5",
     "description": "UNQUILLO: PAREJA DETENIDA POR VENTA DE COCAÍNA Ministerio Público Fiscal Córdoba",
     "pub_date": "26/11/2025",
-    "pub_date_raw": "2025-11-26T08:00:00",
+    "pub_date_raw": "2025-11-26T09:54:02",
     "image": null,
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
@@ -4011,5 +4011,31 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "nueva-edicion-del-paseo-de-artesanos-de-unquillo-cordoba-interior-informa"
+  },
+  "unquillo-un-incendio-dejo-al-descubierto-un-desarmadero-clandestino-en-barrio-villa-tortosa": {
+    "title": "Unquillo: un incendio dejó al descubierto un desarmadero clandestino en Barrio Villa Tortosa",
+    "link": "https://elmilenio.info/2026/05/26/unquillo-un-incendio-dejo-al-descubierto-un-desarmadero-clandestino-en-barrio-villa-tortosa/",
+    "description": "Albertengo Josefina y Astegiano Paloma (IMVA) El pasado sábado 23 de mayo a las 23...",
+    "pub_date": "26/05/2026",
+    "pub_date_raw": "2026-05-26T15:45:42",
+    "image": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2025/08/Policia.webp?fit=1024%2C563&ssl=1",
+    "source_name": "El Milenio",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-un-incendio-dejo-al-descubierto-un-desarmadero-clandestino-en-barrio-villa-tortosa",
+    "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2025/08/Policia.webp?fit=1024%2C563&ssl=1"
+  },
+  "unquillo-charla-sobre-alvaro-izurieta": {
+    "title": "Unquillo: Charla sobre Álvaro Izurieta",
+    "link": "https://elmilenio.info/2026/05/26/unquillo-charla-sobre-alvaro-izurieta/",
+    "description": "Albertengo Josefina y Astegiano Paloma (IMVA) Este sábado 30 de mayo, a las 15 horas...",
+    "pub_date": "26/05/2026",
+    "pub_date_raw": "2026-05-26T12:12:47",
+    "image": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/05/La_Loma1_obra.jpg?fit=600%2C468&ssl=1",
+    "source_name": "El Milenio",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-charla-sobre-alvaro-izurieta",
+    "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/05/La_Loma1_obra.jpg?fit=600%2C468&ssl=1"
   }
 }
