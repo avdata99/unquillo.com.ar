@@ -4312,7 +4312,7 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjJmNThKZ0NNTGtUWnQ1SG9PY3RYaFBYdWlaMWdGMGZIblFYdl9BU2tFX2hRX2sybC1iVDh2aU9Bc2d4dlpyXzRjazU3UUdVbkxST2xJWUF2VVFIX2FJVUtBMVQ5S3ZRMGFZX2JPNkNqQXloMV9NcHpTTEdqQ19wdko1Q01zNi0zdUVmYUd3bTE5Unk5aUZqUHdLbGMwYTBObGQwUnNHNktrdXhvVy1ZeEFielJlTUltT0FmNW1MM0loU3pBLVoyVA?oc=5",
     "description": "En Unquillo celebrarán el Día del Ambiente con una caminata por la Reserva Natural Córdoba Interior Informa",
     "pub_date": "02/06/2026",
-    "pub_date_raw": "2026-06-02T09:08:29",
+    "pub_date_raw": "2026-06-02T09:38:18",
     "image": null,
     "source_name": "Córdoba Interior Informa",
     "source_type": "google_news",
@@ -4383,5 +4383,43 @@
     "video_id": null,
     "slug": "unquillo-abre-las-puertas-de-su-arte",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/06/spili.jpg"
+  },
+  "se-viene-la-4ta-pena-siete-colorida-en-unquillo-elmilenioinfo": {
+    "title": "¡Se viene la 4ta Peña Siete Colorida en Unquillo! - elmilenio.info",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclJ6MnNMQXNhMnBvMkQ2ZEtpOVNNMlE3ZmJMRUExd2NzQnYydm5pQkNla0hTQlpxeTZ0V3o5aXp2SWV4OWdiRmx1MEZ2aTV1aXhabGo5dTBuc3NUMWJsUzZvNHAwWXdncHdFSG5Yb1ZIOTRnWlFNYTktZXZyVWJfMXh1RzRSeWZJZXc?oc=5",
+    "description": "¡Se viene la 4ta Peña Siete Colorida en Unquillo! elmilenio.info",
+    "pub_date": "02/06/2026",
+    "pub_date_raw": "2026-06-02T15:38:54",
+    "image": null,
+    "source_name": "elmilenio.info",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "se-viene-la-4ta-pena-siete-colorida-en-unquillo-elmilenioinfo"
+  },
+  "se-viene-la-4ta-pena-siete-colorida-en-unquillo": {
+    "title": "¡Se viene la 4ta Peña Siete Colorida en Unquillo!",
+    "link": "https://elmilenio.info/2026/06/02/se-viene-la-4ta-pena-siete-colorida-en-unquillo/",
+    "description": "Luciano Cacho y Lautaro Abregu (IENM) El próximo sábado 6 de junio se llevará a...",
+    "pub_date": "02/06/2026",
+    "pub_date_raw": "2026-06-02T15:35:17",
+    "image": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/06/IMG-20260602-WA0009.jpg?fit=1600%2C1059&ssl=1",
+    "source_name": "El Milenio",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "se-viene-la-4ta-pena-siete-colorida-en-unquillo",
+    "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/06/IMG-20260602-WA0009.jpg?fit=1600%2C1059&ssl=1"
+  },
+  "unquillo-se-inauguro-el-cenma-papa-francisco-en-cabana": {
+    "title": "Unquillo: se inauguró el CENMA “Papa Francisco” en Cabana",
+    "link": "https://elmilenio.info/2026/06/02/unquillo-se-inauguro-el-cenma-papa-francisco-en-cabana/",
+    "description": "Jeremias Suarez (IMVA) El pasado lunes 1 de junio se inauguró el CENMA Unquillo “Papa...",
+    "pub_date": "02/06/2026",
+    "pub_date_raw": "2026-06-02T12:45:52",
+    "image": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/06/713123841_18001262615943743_8879123555325011294_n-1.jpg?fit=1080%2C1350&ssl=1",
+    "source_name": "El Milenio",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-se-inauguro-el-cenma-papa-francisco-en-cabana",
+    "image_original": "https://i0.wp.com/elmilenio.info/wp-content/uploads/2026/06/713123841_18001262615943743_8879123555325011294_n-1.jpg?fit=1080%2C1350&ssl=1"
   }
 }
