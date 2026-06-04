@@ -4451,11 +4451,24 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTFraUFGZ1BzOS02aUI5WDNOUXRGcU04Wmlzc2gwQjdUVG44WWJlbTB3NUdEOTd3bXkta2M4Sm9jcXhMOWJkM196S2RRQ24wZEZfLS1xa2pqSzI0RTkzTWVLZnFGSU96d3dhRmhEUUY2RGVrRkd1QmVCTkVMaHcwSmVWMGp2d081VnhZVS1QWUdOcUE4TVNkc24wUVFnN2g1eHZDTzRlVHE2WVBsaVVCckFJb2h4REE?oc=5",
     "description": "Unquillo: El sábado limpiarán las orillas y el cauce del arroyo Cabana Córdoba Interior Informa",
     "pub_date": "03/06/2026",
-    "pub_date_raw": "2026-06-03T12:23:54",
+    "pub_date_raw": "2026-06-03T13:24:03",
     "image": null,
     "source_name": "Córdoba Interior Informa",
     "source_type": "google_news",
     "video_id": null,
     "slug": "unquillo-el-sabado-limpiaran-las-orillas-y-el-cauce-del-arroyo-cabana-cordoba-interior-informa"
+  },
+  "unquillo-celebra-la-lectura-dentro-y-fuera-de-sus-aulas": {
+    "title": "Unquillo celebra la lectura dentro y fuera de sus aulas",
+    "link": "https://nexofm.com.ar/unquillo-celebra-la-lectura-dentro-y-fuera-de-sus-aulas/",
+    "description": "La ciudad vivió una nueva edición de la Noche de las Lecturas y celebró además la incorporación de obras de una editorial local al catálogo recomendado para escuelas secundarias de toda Córdoba. La entrada Unquillo celebra la lectura dentro y fuera de sus aulas se publicó primero en NEXO FM.",
+    "pub_date": "03/06/2026",
+    "pub_date_raw": "2026-06-03T14:18:56",
+    "image": "/img/b21ffe0cbf237143.jpg",
+    "source_name": "Nexo FM",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-celebra-la-lectura-dentro-y-fuera-de-sus-aulas",
+    "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/06/noche-lecturas-Unquillo-3-1024x558.png"
   }
 }
