@@ -7,6 +7,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-una-familia-perdio-todo-en-un-incendio-y-pide-donaciones-para-salir-adelante/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-se-invita-a-la-segunda-presentacion-del-libro-los-hermanos-invisibles/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/camino-de-artesanos-conoce-talleres-y-espacios-de-produccion-unquillenses/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/precios-de-la-tienda-oficial-fifa-en-el-fan-fest/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -674,12 +692,6 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/club-union-estrena-parquet-y-suena-en-grande/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://unquillo.com.ar/articles/camino-de-artesanos-conoce-talleres-y-espacios-de-produccion-unquillenses/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1808,6 +1820,12 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/cenma-unquillo-abre-inscripciones-para-terminar-el-secundario-en-tres-anos/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-frena-el-cierre-del-banco-y-gana-tiempo-en-medio-del-recorte-de-cajeros-nexofmcomar/</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
