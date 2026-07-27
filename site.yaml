@@ -18,6 +18,20 @@ content:
   max_description_length: 250
   max_article_age_days: 30
 
+ads:
+  # Publicidad para las paginas internas de cada noticia: usar el "name"
+  # de un item de la lista de abajo. Comentado = sin publicidad interna.
+  # article_ad: "La nueva app"
+  items:
+    - name: "La nueva app"
+      horizontal: "/pub/la-nueva-app-horiz.mp4"
+      vertical: "/pub/la-nueva-app-400x680.mp4"
+      url: "https://loteriadecordoba.com.ar/"
+    - name: "Loteria de Cordoba"
+      horizontal: "/pub/LOGO-900x90.mp4"
+      vertical: "/pub/LOGO-400x680.mp4"
+      url: "https://loteriadecordoba.com.ar/"
+
 sources:
   - type: rss
     name: "Municipalidad de Unquillo"

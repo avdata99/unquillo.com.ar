@@ -278,6 +278,53 @@ body {
     color: white;
 }
 
+/* Ad slots */
+.ad-slot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.ad-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: rgba(255,255,255,0.4);
+}
+
+.ad-slot a {
+    display: block;
+    width: 100%;
+}
+
+.ad-slot video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.ad-banner {
+    max-width: 900px;
+    margin: 1.5rem auto 2rem;
+}
+
+/* Vertical ad lives inside the card grid as one more column */
+.ad-vertical {
+    justify-content: center;
+    background: var(--mag-card-bg);
+    border-radius: 12px;
+    padding: 0.75rem;
+}
+
+.ad-vertical a,
+.ad-vertical video {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
 /* Map (homepage) */
 .map-section {
     display: block;
