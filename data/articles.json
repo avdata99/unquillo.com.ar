@@ -1898,10 +1898,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zc3FGX3REaE5reHJDVXgzZ2pobzQtRWYtRkJmZkZSWkxsaXRVZ3VlNV9wVTVHaWJMUWlkZnBxWTZpQ3hNUF95X3JOUTlJeEx0NEFSbDFMMVNjTmtQTG9vdTJIM0NORTNfX21fZjZPcUNFM0JYMUJmZE5hUE0?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaUg2c1lMY2M2cVdVUGo4RmNhWGhQVHhpek9saFYtb1Y3UGpqeVE3dHVTQTduWURqV0RLN3hId04zb2pmVFREdU5mY1JqaW5SZHU5OEpMNjQyME11QkxJWnVMX1JyeTZDOHJFM1JwbXNhVEpjZmctUUxsdFVnQQ?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "05/08/2026",
-    "pub_date_raw": "2026-08-05T07:00:00",
+    "pub_date": "12/08/2026",
+    "pub_date_raw": "2026-08-12T13:35:46",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
@@ -6575,5 +6575,18 @@
     "video_id": null,
     "slug": "unquillo-teje-una-red-para-cuidar-la-salud-mental",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/05/Hospital-Unquillo-1024x614.webp"
+  },
+  "que-pasa-en-el-ave-maria": {
+    "title": "¿Qué pasa en el Ave María?",
+    "link": "https://www.launionregional.com.ar/que-pasa-en-el-ave-maria/",
+    "description": "Un grupo de residentes de Cabana, pidió visibilizar la situación de un hogar para rehabilitación de adicciones. Plantean inseguridad y falta de información. El cura a cargo defendió la causa: “recibimos la vida como viene”. Por Victor Valente “Preocupación y un poco de miedo”. Esas son las palabras que subyacen tras la charla con un […] La entrada ¿Qué pasa en el Ave María? se publicó primero en La Unión Regional.",
+    "pub_date": "13/08/2026",
+    "pub_date_raw": "2026-08-13T18:36:07",
+    "image": "/img/41d4f356d1f0f267.jpg",
+    "source_name": "La Unión Regional",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "que-pasa-en-el-ave-maria",
+    "image_original": "https://www.launionregional.com.ar/wp-content/uploads/2026/08/unquillo.png"
   }
 }
