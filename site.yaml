@@ -23,6 +23,10 @@ ads:
   # de un item de la lista de abajo. Comentado = sin publicidad interna.
   # article_ad: "La nueva app"
   items:
+    - name: "Taller de Creacion Literaria - Raiz de Tres"
+      horizontal: "/pub/LIT26-900x90.mp4"
+      vertical: "/pub/LIT26-400x680.mp4"
+      url: "https://raizdetres.com.ar/cursos/l/LIT26/"
     - name: "La nueva app"
       horizontal: "/pub/la-nueva-app-horiz.mp4"
       vertical: "/pub/la-nueva-app-400x680.mp4"
