@@ -7241,8 +7241,8 @@
     "title": "ESTUDIANTINA UNQUILLO 2026 - COREOGRAFIAS",
     "link": "https://www.youtube.com/watch?v=u-xF7Vm4jMU",
     "description": "",
-    "pub_date": "08/09/2026",
-    "pub_date_raw": "2026-09-08T19:46:59",
+    "pub_date": "10/09/2026",
+    "pub_date_raw": "2026-09-10T13:46:03",
     "image": "https://i2.ytimg.com/vi/u-xF7Vm4jMU/hqdefault.jpg",
     "source_name": "Municipalidad de Unquillo",
     "source_type": "youtube",
@@ -7309,5 +7309,18 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "desarmadero-ilegal-en-unquillo-secuestran-motores-robados-y-hay-dos-detenidos-nexo-fm"
+  },
+  "unquillo-recordo-a-eleonora-vendramina-buffo-allende-a-85-anos-de-su-fallecimiento": {
+    "title": "Unquillo recordó a Eleonora Vendramina Buffo Allende a 85 años de su fallecimiento",
+    "link": "https://infosierras.com/unquillo-recordo-a-eleonora-vendramina-buffo-allende-a-85-anos-de-su-fallecimiento/",
+    "description": "La actividad se realizó el pasado 6 de septiembre y reunió a vecinos, visitantes, representantes de la Fundación Guido Buffo y al director de Cultura de la Municipalidad de Unquillo, Jorge Álvarez. Como cada año, la ceremonia estuvo atravesada por la particular conexión entre la arquitectura de la capilla, la trayectoria del Sol y la […] La entrada Unquillo recordó a Eleonora Vendramina Buffo Allende a 85 años de su fallecimiento aparece primero en InfoSierras.",
+    "pub_date": "10/09/2026",
+    "pub_date_raw": "2026-09-10T23:01:12",
+    "image": "/img/7a2aebb1085ef391.jpg",
+    "source_name": "Info Sierras",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-recordo-a-eleonora-vendramina-buffo-allende-a-85-anos-de-su-fallecimiento",
+    "image_original": "https://infosierras.com/wp-content/uploads/2026/09/eleonora-buffo.jpg"
   }
 }
