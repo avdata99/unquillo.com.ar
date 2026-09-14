@@ -7348,5 +7348,17 @@
     "video_id": null,
     "slug": "cuarteto-y-otras-yerbas",
     "image_original": "https://www.launionregional.com.ar/wp-content/uploads/2026/09/Diseno-sin-titulo-8.png"
+  },
+  "entrevista-a-denis-castellanos": {
+    "title": "Entrevista a Denis Castellanos",
+    "link": "https://www.youtube.com/watch?v=pCj456FyP3k",
+    "description": "Denis Castellanos es unquillense, escultor y deportista de tiro con arco. Cuenta entre sus logros más importantes con el campeonato Nacional Indoor y Outdoor 2025, Campeón Panamericano Indoor SLP 2025 y el reciente campeonato en el Grand Prix de las Américas 2026.",
+    "pub_date": "14/09/2026",
+    "pub_date_raw": "2026-09-14T11:15:53",
+    "image": "https://i1.ytimg.com/vi/pCj456FyP3k/hqdefault.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "youtube",
+    "video_id": "pCj456FyP3k",
+    "slug": "entrevista-a-denis-castellanos"
   }
 }
