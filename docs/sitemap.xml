@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/en-septiembre-unquillo-se-camina/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/estudiantina-2026-instituto-nuestra-senora-de-lourdes/</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +44,12 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-cordobamitelefecom/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-telefe-cordoba/</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
