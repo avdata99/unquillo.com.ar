@@ -7470,5 +7470,17 @@
     "video_id": null,
     "slug": "agenda-del-finde-viernes-18-al-domingo-20-de-septiembre",
     "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/04/Muestra-Ceci-Galara-Vueltas-del-carnaval-1024x576.png"
+  },
+  "estudiantina-unquillo-2026-murgas": {
+    "title": "ESTUDIANTINA UNQUILLO 2026 - MURGAS",
+    "link": "https://www.youtube.com/watch?v=9TFGkXW0pns",
+    "description": "",
+    "pub_date": "19/09/2026",
+    "pub_date_raw": "2026-09-19T04:02:25",
+    "image": "https://i2.ytimg.com/vi/9TFGkXW0pns/hqdefault.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "youtube",
+    "video_id": "9TFGkXW0pns",
+    "slug": "estudiantina-unquillo-2026-murgas"
   }
 }
