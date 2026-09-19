@@ -6,6 +6,11 @@ site:
   email: "info@unquillo.com.ar"
   language: "es"
   country: "AR"
+  # Boton flotante de WhatsApp: el bot (Mostrador) atiende ese numero; el texto
+  # precargado le dice de que sitio viene la persona. No cambiarlo sin avisar.
+  whatsapp:
+    numero: "5493543609121"
+    texto: "Hola! Vengo de unquillo.com.ar"
   template: "magazine"
   map:
     latitude: -31.234125
