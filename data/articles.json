@@ -1170,7 +1170,8 @@
     "source_name": "novacordoba.com",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom"
+    "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom",
+    "link_intentos": 1
   },
   "unquillo-celebra-la-primera-fiesta-de-la-animacion-nacional-talleres-proyecciones-y-musica-cba24n": {
     "title": "Unquillo celebra la primera Fiesta de la Animación Nacional: talleres, proyecciones y música - Cba24n",
@@ -1424,7 +1425,8 @@
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel"
+    "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
+    "link_intentos": 1
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -1906,7 +1908,8 @@
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba"
+    "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
+    "link_intentos": 1
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -2357,11 +2360,12 @@
     "description": "UN DETENIDO POR COMERCIALIZAR ESTUPEFACIENTES EN UNQUILLO Ministerio Público Fiscal Córdoba",
     "pub_date": "11/04/2026",
     "pub_date_raw": "2026-04-11T05:12:40",
-    "image": null,
+    "image": "/img/2fd3a0305bd216ea.jpg",
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "un-detenido-por-comercializar-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordoba"
+    "slug": "un-detenido-por-comercializar-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordoba",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-09-at-22.08.25.jpeg"
   },
   "cae-un-reincidente-por-vender-marihuana-en-las-calles-de-unquillo-telefe-cordoba": {
     "title": "Cae un reincidente por vender marihuana en las calles de Unquillo - Telefe Córdoba",
@@ -2767,11 +2771,12 @@
     "description": "Uniendo Córdoba llega a Unquillo con una jornada imperdible en Sierras Chicas Canal C",
     "pub_date": "13/04/2026",
     "pub_date_raw": "2026-04-13T16:47:34",
-    "image": null,
+    "image": "/img/077c3a1060814020.jpg",
     "source_name": "Canal C",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "uniendo-cordoba-llega-a-unquillo-con-una-jornada-imperdible-en-sierras-chicas-canal-c"
+    "slug": "uniendo-cordoba-llega-a-unquillo-con-una-jornada-imperdible-en-sierras-chicas-canal-c",
+    "image_original": "https://canalc.com.ar/wp-content/uploads/2026/04/unquillo-1.jpeg"
   },
   "agenda-del-finde-viernes-17-al-domingo-19-de-abril": {
     "title": "AGENDA DEL FINDE: VIERNES 17 AL DOMINGO 19 DE ABRIL",
@@ -3187,11 +3192,12 @@
     "description": "El arte contemporáneo y la Semana Santa se dan la mano en Unquillo Cba24n",
     "pub_date": "01/04/2026",
     "pub_date_raw": "2026-04-01T07:00:00",
-    "image": null,
+    "image": "/img/721d240cb1917762.jpg",
     "source_name": "Cba24n",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "el-arte-contemporaneo-y-la-semana-santa-se-dan-la-mano-en-unquillo-cba24n"
+    "slug": "el-arte-contemporaneo-y-la-semana-santa-se-dan-la-mano-en-unquillo-cba24n",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/69cd396f6270583482a94dff/facebook?v=8d892c9084df843632a72facebe2c41b&s=ca5ec14e35fc0a42d2b425efc7f7cca9"
   },
   "locro-solidario-en-sierras-chicas-cuando-el-1-de-mayo-se-cocina-con-compromiso-y-comunidad": {
     "title": "Locro solidario en Sierras Chicas: cuando el 1° de mayo se cocina con compromiso y comunidad",
@@ -3535,11 +3541,12 @@
     "description": "Alerta sanitaria en Unquillo: denuncian robo y faena clandestina de caballos Perfil",
     "pub_date": "12/05/2026",
     "pub_date_raw": "2026-05-12T19:37:53",
-    "image": null,
+    "image": "/img/54ac2962b102691b.jpg",
     "source_name": "Perfil",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "alerta-sanitaria-en-unquillo-denuncian-robo-y-faena-clandestina-de-caballos-perfil"
+    "slug": "alerta-sanitaria-en-unquillo-denuncian-robo-y-faena-clandestina-de-caballos-perfil",
+    "image_original": "https://fotos.perfil.com/2026/05/12/trim/1140/641/caballo-2238531.jpg"
   },
   "unquillo-este-domingo-invitan-a-ver-la-obra-los-ahogados-basado-en-los-textos-de-maria-teresa-andrue": {
     "title": "Unquillo: este domingo invitan a ver la obra “Los Ahogados” basado en los textos de Maria Teresa Andruetto",
@@ -3778,11 +3785,12 @@
     "description": "UNQUILLO: FPA DESARTICULÓ TRES PUNTOS DE VENTA Y SECUESTRÓ MÁS DE 1000 DOSIS DE ESTUPEFACIENTES. TRES DETENIDOS Ministerio Público Fiscal Córdoba",
     "pub_date": "19/05/2026",
     "pub_date_raw": "2026-05-19T05:12:35",
-    "image": null,
+    "image": "/img/957706901844333f.jpg",
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-fpa-desarticulo-tres-puntos-de-venta-y-secuestro-mas-de-1000-dosis-de-estupefacientes-tres"
+    "slug": "unquillo-fpa-desarticulo-tres-puntos-de-venta-y-secuestro-mas-de-1000-dosis-de-estupefacientes-tres",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-10.38.43-AM.jpeg"
   },
   "mas-de-mil-dosis-de-droga-pesos-y-dolares-hay-tres-dealers-detenidos-tras-allanamientos-en-cordoba-e": {
     "title": "Más de mil dosis de droga, pesos y dólares: hay tres dealers detenidos tras allanamientos en Córdoba - ElDoce.tv",
@@ -4309,7 +4317,7 @@
   },
   "en-unquillo-celebraran-el-dia-del-ambiente-con-una-caminata-por-la-reserva-natural-cordoba-interior": {
     "title": "En Unquillo celebrarán el Día del Ambiente con una caminata por la Reserva Natural - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjJmNThKZ0NNTGtUWnQ1SG9PY3RYaFBYdWlaMWdGMGZIblFYdl9BU2tFX2hRX2sybC1iVDh2aU9Bc2d4dlpyXzRjazU3UUdVbkxST2xJWUF2VVFIX2FJVUtBMVQ5S3ZRMGFZX2JPNkNqQXloMV9NcHpTTEdqQ19wdko1Q01zNi0zdUVmYUd3bTE5Unk5aUZqUHdLbGMwYTBObGQwUnNHNktrdXhvVy1ZeEFielJlTUltT0FmNW1MM0loU3pBLVoyVA?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/02/en-unquillo-celebraran-el-dia-del-ambiente-con-una-caminata-por-la-reserva-natural/",
     "description": "En Unquillo celebrarán el Día del Ambiente con una caminata por la Reserva Natural Córdoba Interior Informa",
     "pub_date": "02/06/2026",
     "pub_date_raw": "2026-06-02T09:38:18",
@@ -4386,7 +4394,7 @@
   },
   "se-viene-la-4ta-pena-siete-colorida-en-unquillo-elmilenioinfo": {
     "title": "¡Se viene la 4ta Peña Siete Colorida en Unquillo! - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclJ6MnNMQXNhMnBvMkQ2ZEtpOVNNMlE3ZmJMRUExd2NzQnYydm5pQkNla0hTQlpxeTZ0V3o5aXp2SWV4OWdiRmx1MEZ2aTV1aXhabGo5dTBuc3NUMWJsUzZvNHAwWXdncHdFSG5Yb1ZIOTRnWlFNYTktZXZyVWJfMXh1RzRSeWZJZXc?oc=5",
+    "link": "https://elmilenio.info/2026/06/02/se-viene-la-4ta-pena-siete-colorida-en-unquillo/",
     "description": "¡Se viene la 4ta Peña Siete Colorida en Unquillo! elmilenio.info",
     "pub_date": "02/06/2026",
     "pub_date_raw": "2026-06-02T15:40:44",
@@ -4424,7 +4432,7 @@
   },
   "habilitaron-en-unquillo-un-cenma-para-jovenes-y-adultos-en-recuperacion-de-adicciones-cordoba-interi": {
     "title": "Habilitaron en Unquillo un CENMA para jóvenes y adultos en recuperación de adicciones - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjhZbXRTV3U5LXhBQ2ZjaDJjLUNxVlVOdG1WQzRGWV9tZWFaQklXUkpaRmZrRlZGNktfVXdxTzFyOERiaW9RSFdPV1JGdzBxWXJTdk9KUVFRZ3k5NV9MRm9FSGgySVo0UUZ2c1l4SzZyd0lrOXhQdjdISVp6blNIaWNFbXJvVERFRzVudFlGZTdHVjBjYmV5OTJXRTJMSHQ5TVJ2REYzOXdBcFhBT3RHN194R0M3aDh3cHQydzM5QlZydHBPM01XT0M5Q3k?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/02/inauguraron-en-unquillo-un-cenma-para-jovenes-y-adultos-en-recuperacion-de-adicciones/",
     "description": "Habilitaron en Unquillo un CENMA para jóvenes y adultos en recuperación de adicciones Córdoba Interior Informa",
     "pub_date": "02/06/2026",
     "pub_date_raw": "2026-06-02T19:35:43",
@@ -4448,7 +4456,7 @@
   },
   "unquillo-el-sabado-limpiaran-las-orillas-y-el-cauce-del-arroyo-cabana-cordoba-interior-informa": {
     "title": "Unquillo: El sábado limpiarán las orillas y el cauce del arroyo Cabana - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTFraUFGZ1BzOS02aUI5WDNOUXRGcU04Wmlzc2gwQjdUVG44WWJlbTB3NUdEOTd3bXkta2M4Sm9jcXhMOWJkM196S2RRQ24wZEZfLS1xa2pqSzI0RTkzTWVLZnFGSU96d3dhRmhEUUY2RGVrRkd1QmVCTkVMaHcwSmVWMGp2d081VnhZVS1QWUdOcUE4TVNkc24wUVFnN2g1eHZDTzRlVHE2WVBsaVVCckFJb2h4REE?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/03/unquillo-el-sabado-limpiaran-las-orillas-y-el-cauce-del-arroyo-cabana/",
     "description": "Unquillo: El sábado limpiarán las orillas y el cauce del arroyo Cabana Córdoba Interior Informa",
     "pub_date": "03/06/2026",
     "pub_date_raw": "2026-06-03T13:24:03",
@@ -4575,7 +4583,7 @@
   },
   "celebran-el-dia-del-ambiente-con-una-caminata-por-la-reserva-de-unquillo-cordoba-interior-informa": {
     "title": "Celebran el Día del Ambiente con una caminata por la Reserva de Unquillo - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YSFpxcTJpZldvQjE4XzZkbDQ5V3h0LVpzS2JMSlFUYnZGSk1uSkVxNnZ3Y3NTYmUtY01uTTdqRUM0MHZnaV80eDBHNUNTYzZ2VkJ3c21VTnNrMkZLVkNISlF6QQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/06/404148/",
     "description": "Celebran el Día del Ambiente con una caminata por la Reserva de Unquillo Córdoba Interior Informa",
     "pub_date": "06/06/2026",
     "pub_date_raw": "2026-06-06T09:00:17",
@@ -4613,7 +4621,7 @@
   },
   "realizan-en-unquillo-nuevo-taller-de-reconocimiento-de-plantas-de-uso-terapeutico-cordoba-interior-i": {
     "title": "Realizan en Unquillo nuevo taller de reconocimiento de plantas de uso terapéutico - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHlrMEN2aGQwRTU0b01XQVEydi1oTmhwbmYzNU5qenc3U1VvZjVmY2txRUxJakQ5ajhsdVNNVzNhcXkySHcydHBydEJKWE03QWlTYkY3QXMxcnE1MllvMGgxWnZQQzdDY1dwZ3RvYlVSWXpvcU5QbVVnOFc5MmZqdlJMcm9UVWFzcFJtQTVCaHY2am9HMXJZQUFVRWJOOElDWWF2LWJWVVFUREtBOURwaFdWVHhfcEI2VW94VDdydGJPNEswcW9r?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/09/realizan-en-unquillo-nuevo-taller-de-reconocimiento-de-plantas-de-uso-terapeutico/",
     "description": "Realizan en Unquillo nuevo taller de reconocimiento de plantas de uso terapéutico Córdoba Interior Informa",
     "pub_date": "09/06/2026",
     "pub_date_raw": "2026-06-09T08:51:12",
@@ -4690,7 +4698,7 @@
   },
   "unquillo-el-sabado-habra-una-caminata-interpretativa-por-la-reserva-natural-cordoba-interior-informa": {
     "title": "Unquillo: El sábado habrá una caminata interpretativa por la Reserva Natural - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUFZdGFRVDNKc2R5Ukl4VmJDUmg5UmZ6Y05NQ21OWlJsb2xfVlFxSmk3MTU1MTA2VU5iUlBWTTNSLUJ3bE1hTXJXRHhNbGx1Si1uSENBTTVlZDZ5ZlFCWVd0bnQxMlVwem5YMFRod1NoSjVlX0Vhcmx5SDN2TE9NdEpQVzRTOVl0UDFMajA0Nk52bU1GamVrdFV2WFdRa01zT1lSQ3R2UjdpUmpfaVpibnlaaWVGaFBuS2V0cGxxVQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/10/unquillo-el-sabado-habra-una-caminata-interpretativa-por-la-reserva-natural/",
     "description": "Unquillo: El sábado habrá una caminata interpretativa por la Reserva Natural Córdoba Interior Informa",
     "pub_date": "10/06/2026",
     "pub_date_raw": "2026-06-10T19:27:34",
@@ -4766,7 +4774,7 @@
   },
   "concretan-caminata-guiada-por-la-reserva-natural-de-unquillo-cordoba-interior-informa": {
     "title": "Concretan caminata guiada por la Reserva Natural de Unquillo - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3hLQ25rSGNNTEpzVHhhZUJYN3V0MTdMa0V0aDlQZUw0QTF0RllpZmE5bFBqVnhGWVJwemxVVDF6bHJJVEpKdUtpVFpIdFFCVVdkUGYwQ1ZPeHliQmt6NndjMVRZUnJDUmhWUERYRnNhQUpERjh5ZS1UaXVSeFNjdThSZjAwNXNJVjZHVjhqY18zMkJuQS14ck41dkt3NXgwb2ZFdEVDZlBUZGs?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/13/concretan-caminata-guiada-por-la-reserva-natural-de-unquillo/",
     "description": "Concretan caminata guiada por la Reserva Natural de Unquillo Córdoba Interior Informa",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T03:31:48",
@@ -4778,7 +4786,7 @@
   },
   "incendio-en-unquillo-fue-asistida-tras-la-destruccion-total-de-su-vivienda-cba24n": {
     "title": "Incendio en Unquillo: fue asistida tras la destrucción total de su vivienda - Cba24n",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0Z5OXdvNzJaSElad2ZBRDJnaFR6NkZBMXprd1JLQ3ZYUDNNZzBmcWVOdEJHQkdNOEFzS3NtYXlPWF9sUE5vTjRoOUFPblpSN0FGc3dUXzBnOEk3cGdoSVpKamhnS1ZVWk1feFRFSktZV1JmckFEN1dteWNlVzk5ZDN1ay1FM0lqeVZvdmFVM0NDeElLRUktWXpmcWktb2xZVXZqUWh5UVJXMVdBOTBDcm1mSDRfNFIxekU4TFk2R3U3NGU1SXF0MmNhUm1zUG5z?oc=5",
+    "link": "https://www.cba24n.com.ar/cordoba/incendio-en-unquillo--fue-asistida-tras-la-destruccion-total-de-su-vivienda_a6a2d801bf8148d8e7b8b7de9",
     "description": "Incendio en Unquillo: fue asistida tras la destrucción total de su vivienda Cba24n",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T16:33:17",
@@ -4790,7 +4798,7 @@
   },
   "incendio-en-unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda-13-d": {
     "title": "Incendio en Unquillo: una mujer fue hospitalizada por inhalación de humo tras perder su vivienda | 13 de - hoydia.com.ar",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlNNS294Z1doX0NIS0wtdzJiQXp1TXJkeVZjY1BJZW1ZOFg2WVU3b2JIRDh2b2ZhVG5ENFJ0QlFTYjMwLXBteXkxWkNDOUloaXVNc3hBcUY2T0dQSFBib0tjbnlhb052UTVhanBUQnF6NHY2dzBfaU5hN282TXp2ODkyYU5aVVFzOE5aQi1VbWVFRFIyeGpyMGtPT2pRSEozRFBlU09tZ0dNNXBWRmh4ZDhRMnhGVmZaVDhTYmlybGdUaDRsM1hsUnN30gHPAUFVX3lxTE5tM3I5ZzV2bENOdWZnbm9kc3FOa2NwUlZ2UEVNLUZhSGpzNEVQT1p5SnZURXFhZTBpRlJscGlfZGpCQldSRG5CUElhWC1YYkpiSk9QOXNTNDNiVU9ORVZYU0VXREFHak9WT3laRFZER3AxRzh6XzVCUk5JMi13Tjg2TDA2a2t1RGxHYk1GQ0dOSFIwRUlhb0dqb2JuMjBRU0ROSlpjeGdadTdXMVJZa3RJNHV3VFgyc3Y0U19fNW9VZlUxdU5YX1VtcDkzcTZEOA?oc=5",
+    "link": "https://hoydia.com.ar/hoy-cordoba/incendio-en-unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda/",
     "description": "Incendio en Unquillo: una mujer fue hospitalizada por inhalación de humo tras perder su vivienda | 13 de hoydia.com.ar",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T17:44:28",
@@ -4802,7 +4810,7 @@
   },
   "unquillo-esta-tarde-se-concretara-la-feria-de-reciclados-y-productos-sustentables-cordoba-interior-i": {
     "title": "Unquillo: Esta tarde se concretará la Feria de Reciclados y Productos Sustentables - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGl2cTgyeF9XRmNBTXB0cm1tTXhPamU5dHZIdFV5Xy1mOFJEeENSMjFtWXdJZjB6OGpZZHVTWUVYRklWRVo2YmN2UUdJaFBIVkFGX2g2Y3Y4XzdQeEZkQV9KeWVTVWNFRWF6bWY2dlItUncxU2RsaS11dXhBOEpuUTBpUFBRZTNWbXhJY1B1NGU4c1hZMjdiaW1YSHo3cTVQZmdpdFd3MXhaM1dGLUl4b1ByTlczdEpLRXU0YzdDeDNjc2xTRG80?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/14/unquillo-esta-tarde-se-concretara-la-feria-de-reciclados-y-productos-sustentables/",
     "description": "Unquillo: Esta tarde se concretará la Feria de Reciclados y Productos Sustentables Córdoba Interior Informa",
     "pub_date": "14/06/2026",
     "pub_date_raw": "2026-06-14T14:40:31",
@@ -4864,7 +4872,7 @@
   },
   "epec-anuncio-cortes-de-luz-programados-para-este-miercoles-en-rio-ceballos-y-unquillo-perfil": {
     "title": "EPEC anunció cortes de luz programados para este miércoles en Río Ceballos y Unquillo - Perfil",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0U0dm9rOGRILWlJNzBVcXFGLUh0Z0ZJb0wxbGVNU0FreS1TbU5qN2FnN1MwVWRUd282MGRLSW9BbUJRN1VDQWNmakg4NDRUSVI5SHc2c2JnQWdPMklpMlhnd3J1cFh0V2UxcHRkb0Y3VlE5SnVGZnRlLXJJYnMtN3NxZ1dtUHNTWjZ4QjVTVENBT2lWWFFkMzc0NnAtMzktSFR6aVNkY1Z4czY2Y3g0b3kyekF2TzhGMmppbFkwZUxUTUJyTnJaTDcwZ9IB0AFBVV95cUxQZGNrWUJVNDU1RUNGUG5uOURsSDJISG9Ra3IwY0IzQzN1VHY0S2laTzFEamQ1VzlWZ1dTWGExXzdIQ1VoVEtiQnp5RVEwVFhtZ3BMUXhlMnhtV0RVMXZKc2hmdXZZeEd0NTlQMXNoYXdlMEs4VXJSTjI5eXNzMWNkZWllNDFmc2VsRzVUcGdxVmV1bVZaMkRmSDJUUm1zc3QzRkgxYlZJMjlyYk4zZ0w3bEZPSldnemVyRkJzV0JEZkxLVmI2OUxZNHFqUkw0LVZn?oc=5",
+    "link": "https://www.perfil.com/noticias/cordoba/epec-anuncio-cortes-de-luz-programados-para-este-miercoles-en-rio-ceballos-y-unquillo.phtml",
     "description": "EPEC anunció cortes de luz programados para este miércoles en Río Ceballos y Unquillo Perfil",
     "pub_date": "16/06/2026",
     "pub_date_raw": "2026-06-16T22:30:00",
@@ -4876,7 +4884,7 @@
   },
   "en-unquillo-celebraran-el-domingo-la-llegada-del-solsticio-de-invierno-cordoba-interior-informa": {
     "title": "En Unquillo celebrarán el domingo la llegada del Solsticio de Invierno - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEN0YzlFMnl1WktFYUZsdUVXZHdfenlDUnpGaVRnUXd2VFBkREtjVXN5YlBFd1BxdHVFcnMzeUV4U0w2Zmk4eXhCYjlTV19LV0R4bEVIVmNnMUlfV3BMZ2VhUTlNZVYyUjdid3lQMmpaSnNYcEtoNlpndUpxX0ZVb282WjRYZVZSNUF0bjYxUGtPWUEycHBFY3FOMWhFUmZzSVYwYlp5WGlzTjlPQ3k4cERsZ3RmQjJ0?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/17/en-unquillo-celebraran-el-domingo-la-llegada-del-solsticio-de-invierno/",
     "description": "En Unquillo celebrarán el domingo la llegada del Solsticio de Invierno Córdoba Interior Informa",
     "pub_date": "17/06/2026",
     "pub_date_raw": "2026-06-17T14:46:00",
@@ -5148,7 +5156,7 @@
   },
   "unquillo-inscriben-para-dos-propuestas-del-polo-audiovisual-cordoba-interior-informa": {
     "title": "Unquillo: Inscriben para dos propuestas del Polo Audiovisual - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFVKeklvSjFHLUVidnJKNjBja0hYVXI0QXVGd3RaRmpnd3ZaMXBMVnQxeHVXb280RC1hRnV5Ti12TE5maENEeWVNYWtYc29pZHJxdnROTndjTXF2OGNPeWZnY0QzNUl5WjB6NHhmTnZPLVkwQVB4b1hNeWdvRFU3RHJ4enpSd1Q5T3ZxM0dKRVlMSVdYVUx0ejFsd2h1a2wwT3FOaTI4SmFWUQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/06/24/unquillo-inscriben-para-dos-propuestas-del-polo-audiovisual/",
     "description": "Unquillo: Inscriben para dos propuestas del Polo Audiovisual Córdoba Interior Informa",
     "pub_date": "24/06/2026",
     "pub_date_raw": "2026-06-24T18:59:39",
@@ -5341,7 +5349,7 @@
   },
   "unquillo-una-mujer-herida-tras-el-incendio-que-destruyo-su-casa-el-diario-de-carlos-paz": {
     "title": "Unquillo: una mujer herida tras el incendio que destruyó su casa - El Diario de Carlos Paz",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdnBvSE1JTm85VjNNWlNoMVpjRjJDTGxvd0dLZnNXaHpYQm10WXBfcWlIaTRtNHVlbHBIOE5nUXJKN0JwZnJkQS00MEtFQzdxRDVHMjIwQ2s5NEQxSVk5d1FmRFNYcTJQRGZMbEpqRHp5VnF1Smp5NDdMZlF0ajRodjZiZUNrX0NvSm1PWTRtR3RNbGxET0lfYkl3U3JvZkwybEE4cTZHZmpDaGd3aGZBTHgzVmhiUk1ia01leHowZWtZbEg0aUNOYUdncGo?oc=5",
+    "link": "https://www.eldiariodecarlospaz.com.ar/sucesos/2026/6/13/unquillo-una-mujer-herida-tras-el-incendio-que-destruyo-su-casa-252677.html",
     "description": "Unquillo: una mujer herida tras el incendio que destruyó su casa El Diario de Carlos Paz",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T07:00:00",
@@ -5353,7 +5361,7 @@
   },
   "unquillo-inauguraron-un-cenma-para-jovenes-y-adultos-en-recuperacion-de-consumos-problematicos-regio": {
     "title": "Unquillo: inauguraron un CENMA para jóvenes y adultos en recuperación de consumos problemáticos - Region Objetivo",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUxFVkJCU0hpbG9DNzBVZmxjV3BCWDRtZ1RYLXBPQk1HOGVjRWY1c0FuWXVqTU03UjQwdmZkUEluZXRiWnRlUkY1Y1ZqeDI1ZnFvMjR0RXF1bWt4b1o5bEdrcDBHX1lsZ2g0S1BRWXVyOVo3SjNNdC1DYUg2WWJac0p6OWJOblU2T0Mta3JCVnBFTVp6QW1DZDFuLXJUTnluTlhtbFVOWXdVS0FlNEo0SU1CdTlfNUx1UXJkNzFneWR2M0ln?oc=5",
+    "link": "https://regionobjetivo.com.ar/contenido/11427/unquillo-inauguraron-un-cenma-para-jovenes-y-adultos-en-recuperacion-de-consumos",
     "description": "Unquillo: inauguraron un CENMA para jóvenes y adultos en recuperación de consumos problemáticos Region Objetivo",
     "pub_date": "03/06/2026",
     "pub_date_raw": "2026-06-03T07:00:00",
@@ -5391,7 +5399,7 @@
   },
   "unquillo-organizan-jornadas-de-voluntariado-ambiental-en-la-reserva-los-quebrachitos-cordoba-interio": {
     "title": "Unquillo: Organizan jornadas de voluntariado ambiental en la Reserva Los Quebrachitos - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2lWcl8zUlJ5Y2p1ZDVieDI5MG1uZ0J6X3BNOUU4RmZ0VEtyd3JtSkJXcDdtTGhxcy1tbTdYNVo5UHdYRDdRYU5LVm1iVjloaG1HcDNiZjdXSnc3elJrZGI3MURsUEZWX0JDTVBoZHVDVFo4QkZCYVlvRE5PLWExeUdjeE9qTE5hejFLcFBaclJ2Uko3RkZFNDhmcTRfNFU4N21DdkN3el9VdnE3ejl2WnhkUVpENXkyWjJ5ZHNaZjh3MjQwNE1ZTURONA?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/01/unquillo-organizan-jornadas-de-voluntariado-ambiental-en-la-reserva-los-quebrachitos/",
     "description": "Unquillo: Organizan jornadas de voluntariado ambiental en la Reserva Los Quebrachitos Córdoba Interior Informa",
     "pub_date": "01/07/2026",
     "pub_date_raw": "2026-07-01T09:33:40",
@@ -5403,7 +5411,7 @@
   },
   "el-sabado-llegara-a-unquillo-el-bus-gamer-de-la-provincia-cordoba-interior-informa": {
     "title": "El sábado llegará a Unquillo el Bus Gamer de la Provincia - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanluUmhTdXBuYlpZTC1zQUVYOEZoLXlDSzZNNUMyRmFWaUNUYnZVbTRLNEhwQ25PQ2JrRFRLMHI4ZHl1TGRMVDYzQTBBQ0FIaTE5TmVNRS1oVDlQakpUVkZGY2wwNEtycW51WkVxZ19XN2FtZlh4NHhjT21tS2VGTl9ObVFmbU5TM0RJWkZoamJSbW80ZVYtYzI2TlBqYlpZMC1SMzBWUQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/02/el-sabado-llegara-a-unquillo-el-bus-gamer-de-la-provincia/",
     "description": "El sábado llegará a Unquillo el Bus Gamer de la Provincia Córdoba Interior Informa",
     "pub_date": "02/07/2026",
     "pub_date_raw": "2026-07-02T09:35:49",
@@ -5452,7 +5460,7 @@
   },
   "el-bus-gamer-brinda-sus-servicios-turisticos-en-unquillo-cordoba-interior-informa": {
     "title": "El Bus Gamer brinda sus servicios turísticos en Unquillo - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXN5Y0pzY0swYTVfVTNSY3Iwek1vRmpBcDlSenRoVmh0d1k4QXVTZEFJeklUZDE2T0h0WHN2Yk9jZ2h4cnVOSXBaZUxUbndzZFNzQ2dpUDJxbE1zOGVId0QyVEtyUmIxSko1QmJsSlJNOU9PTXduU25RNFVmQUV3WnNmcWZQdnlweVNWOEwwS3NNbmdtUEhPTGNXcUM0SDI1YnU5M1R3?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/04/el-bus-gamer-brinda-sus-servicios-turisticos-en-unquillo/",
     "description": "El Bus Gamer brinda sus servicios turísticos en Unquillo Córdoba Interior Informa",
     "pub_date": "04/07/2026",
     "pub_date_raw": "2026-07-04T09:42:25",
@@ -5464,7 +5472,7 @@
   },
   "colectivos-conectaran-unquillo-con-el-parque-industrial-punto-53-en-una-prueba-piloto-canal-c": {
     "title": "Colectivos conectarán Unquillo con el Parque Industrial Punto 53 en una prueba piloto - Canal C",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSkNpT2pqYTF4em1MRXVqeE04UHhuQlBhLVJBdnpWdGNBZTlXZ0Zvd0lWYWJCNmtXSEdKaWZNZGdsd0ZNdFVpbWRNSjVYTXAySFNPdDMzYTA1N1NxdUJXZ2FnSTB4S2hrMjBEaVNxZm44YjRLNm1GQ1pFenZQT28?oc=5",
+    "link": "https://canalc.com.ar/transporte-unquillo-inter-cordoba-parque-industrial/",
     "description": "Colectivos conectarán Unquillo con el Parque Industrial Punto 53 en una prueba piloto Canal C",
     "pub_date": "17/06/2026",
     "pub_date_raw": "2026-06-17T07:00:00",
@@ -5528,7 +5536,7 @@
   },
   "concretan-jornada-de-voluntariado-ambiental-en-la-reserva-de-unquillo-cordoba-interior-informa": {
     "title": "Concretan jornada de voluntariado ambiental en la Reserva de Unquillo - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0hXWExUV0lNNjRHMFlWZG9YRklnNkZLQXdKeGFxRzJ3QXcwT2JJeVcxVUNsMFlxRlpEdzJyUmNYYlNxOU9zU3VpOElvZktRTUM4aDc5aW56TGQ0WkJ2THFHb2JwS1FpcFNBbERzWWpxcFdBTEszaFJQTlhqS1llZjFfLW1PYl9ENXIzY0F1UkR2emNHTHB3aFVjMzlZZnQwem9tRzNGeHQ3TFFIY3JVeUJ2bERvWEU?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/08/concretan-jornada-de-voluntariado-ambiental-en-la-reserva-de-unquillo/",
     "description": "Concretan jornada de voluntariado ambiental en la Reserva de Unquillo Córdoba Interior Informa",
     "pub_date": "08/07/2026",
     "pub_date_raw": "2026-07-08T08:57:08",
@@ -5591,7 +5599,7 @@
   },
   "instalan-carteleria-y-nomencladores-urbanos-en-calles-de-unquillo-cordoba-interior-informa": {
     "title": "Instalan cartelería y nomencladores urbanos en calles de Unquillo | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS04zendNdVNSVml1LW5EbXZSSV9uY05NZlhNeEwtUTVSZU94cjBWeklYUllwZWtqay1Qc1ZRLXg4WDgwaERKLUloV3B6S1RubWNjYkZTV01BbjRFZ1pXZ0VmenMzNmVhSUhwaEtrTFBYXzh6Tm8yTGZWVzg1QXhNYmdvMnhHc0tENnBhYnQ0b1N4WGZqYmdxQlNISl82Wmp3TEYwOF9wQ3p3WlF4REQ1WG9n?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/15/instalan-carteleria-y-nomencladores-urbanos-en-calles-de-unquillo/",
     "description": "Instalan cartelería y nomencladores urbanos en calles de Unquillo | Córdoba Interior Informa",
     "pub_date": "15/07/2026",
     "pub_date_raw": "2026-07-15T09:10:35",
@@ -5616,7 +5624,7 @@
   },
   "unquillo-el-25-de-julio-realizaran-otra-caminata-de-reconocimiento-de-plantas-nativas-cordoba-interi": {
     "title": "Unquillo: El 25 de julio realizarán otra caminata de reconocimiento de plantas nativas | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdk52SW0xZUFLcERDWFpGcFlUWkJwTl9zUzhfZFd3cXNfd2x0TzlJSEtHT3loUjEwaU9JajBMQU1uRzBYbkhTOWpFS2xYNS1GY2RKcGFUOUk5NURjbFNRZDY3OTlUYU1rZVFLQlFqRVVnSzZsZkZKVXFrVjQzV3NKeGdhdWVZMjYxX2k4bjlweUFpZXBoZ3lCeFc0OUJnNnF6Qm1BUHNUWTAxTGR0RHJSazlPYS0wUjZmLUZncWY5RlhUajhiNDdycXNDdTE?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/16/unquillo-el-25-de-julio-realizaran-otra-caminata-de-reconocimiento-de-plantas-nativas/",
     "description": "Unquillo: El 25 de julio realizarán otra caminata de reconocimiento de plantas nativas | Córdoba Interior Informa",
     "pub_date": "16/07/2026",
     "pub_date_raw": "2026-07-16T09:00:18",
@@ -5666,7 +5674,7 @@
   },
   "se-abren-las-inscripciones-para-dos-propuestas-de-formacion-audiovisual-en-unquillo-gobierno-de-cord": {
     "title": "Se abren las inscripciones para dos propuestas de formación audiovisual en Unquillo - · Gobierno de Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREd5d0ZGaXJKUU9sNE5VNUZlYnotVE9BaURPU2hicFY3OHpwZE9GZzBTeEkzaTNaZHlhaUFCLXR4YjlFZXRSYkNuaVdPZGxXMEV5d2E2MmtuQVpuMFYxRGtKaGZRMGVEanQ1V1RRdEVuRDY4UUxJR3VfWk8yQ0NQa3dpcnFQbkxTQmwzMk1FWUx2MlhrVmc5NlpVMG5TZl9aZEVNQ1NCMl8zdVdXeTVIQ24xam5VMUxEMlVOWjlNMGN2QWdlMzJvLWZB?oc=5",
+    "link": "https://prensa.cba.gov.ar/informacion-general/se-abren-las-inscripciones-para-dos-propuestas-de-formacion-audiovisual-en-unquillo/",
     "description": "Se abren las inscripciones para dos propuestas de formación audiovisual en Unquillo · Gobierno de Córdoba",
     "pub_date": "24/06/2026",
     "pub_date_raw": "2026-06-24T07:00:00",
@@ -5678,7 +5686,7 @@
   },
   "concretan-nueva-jornada-de-voluntariado-ambiental-en-la-reserva-de-unquillo-cordoba-interior-informa": {
     "title": "Concretan nueva jornada de voluntariado ambiental en la Reserva de Unquillo | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORXdzUHYyMmJIMVRMRkJFZ2U5enAyZlNmZE5fUkx5T1Q3Wnh2c09CT0J5N2dfcHRhQUJGQURCT3pONVJIYjFiZnBiTXlGQlVvdDVtMzFpQU51TWhLVUFPQl9JZGpNdS1WUzVManJ0UVIyLUZiQ1R3ZmV5dDZHdlZadEpyVkt3S3dhdlJObmJmX2lycTIyNGFkUmxWbVlfd2lfSnpiRnFfbTlralA0OF9BczhkX3ZiLUdlbGhqakw3TQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/18/concretan-nueva-jornada-de-voluntariado-ambiental-en-la-reserva-de-unquillo/",
     "description": "Concretan nueva jornada de voluntariado ambiental en la Reserva de Unquillo | Córdoba Interior Informa",
     "pub_date": "18/07/2026",
     "pub_date_raw": "2026-07-18T09:16:11",
@@ -5742,7 +5750,7 @@
   },
   "argentina-paso-a-cuartos-de-final-del-mundial-2026-los-festejos-en-el-interior-de-cordoba-cba24n": {
     "title": "Argentina pasó a Cuartos de Final del Mundial 2026: los festejos en el interior de Córdoba - Cba24n",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM25WOVJYMEZ4STFyMnFPaTM2dW4yN3BZajV3aG5MNzgwNFRhOVBDNW1vQXdfcWNudTI5S2Vlc1hESExIZmw2NU11NnUyVndGVlRIbUN5MTVTQnZZRkhjU09HY3FUa0NfY3NTMTYyOGdzVDk0cm9sX0Joc1VmMk5saW1QcWlqdkJfcmpQV2hJbGFPcjBIR2g2a0pudGY2RTMxa2ttTU1PREEtMk1yak9mV3c1Si1aaDhReURiV0I1UDN3S0Uta1FRMm1vQmNrbk4zcUhyaFJ1dVZSb0V3X0xuQkhBTzVyM01JdU5xU2NyTTlxNXZRUkFN?oc=5",
+    "link": "https://www.cba24n.com.ar/deportes/mundial-2026/argentina-paso-a-cuartos-de-final-del-mundial-2026--los-festejos-en-el-interior-de-cordoba_a6a4d872150789dfe8576a661",
     "description": "Argentina pasó a Cuartos de Final del Mundial 2026: los festejos en el interior de Córdoba Cba24n",
     "pub_date": "07/07/2026",
     "pub_date_raw": "2026-07-07T07:00:00",
@@ -5806,7 +5814,7 @@
   },
   "investigan-un-robo-con-amenazas-en-un-salon-de-eventos-de-unquillo-telefe-cordoba": {
     "title": "Investigan un robo con amenazas en un salón de eventos de Unquillo - Telefe Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXVHVTlYcmotY2IxczdPWEt0ZzFoNm9heHk3ZUxwM2UxVERDNlA3Smo2VEVlQ1FFSk15Wk5nNFNWMEVaZndzaGVmajJRcHY2bld4RDNMMDh1bmxWZlJQaENiNXJ6ZXR2OHJia194TV8xS29SVzNVWTA0VFZUUW16NDdUbDFRNzB5azhBczZ3TGxsM0xJdDVpZmNjMFEtYWZaa2VWT0JhRnM0MUZFM09BWEduUnY?oc=5",
+    "link": "https://cordoba.mitelefe.com/cordoba/investigan-un-robo-con-amenazas-en-un-salon-de-eventos-de-unquillo-pid2560800",
     "description": "Investigan un robo con amenazas en un salón de eventos de Unquillo Telefe Córdoba",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T14:31:52",
@@ -5881,7 +5889,7 @@
   },
   "asalto-tras-la-pena-en-unquillo-encanonaron-a-los-duenos-y-se-llevaron-hasta-el-auto-recien-comprado": {
     "title": "Asalto tras la peña en Unquillo: encañonaron a los dueños y se llevaron hasta el auto recién comprado - Telefe Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORlBZUUQzeTJUd3c3WVRON1RDNHp0bkk1dVlqVm41ZnlpSlRpQkxRYkxMWDl1eTl1NHZVVERNM203bldZcEJfWjd4SDU4Y19leWtJSXZ5emVINmI0SzFkRVNJcFRhMGpMZXFXX2h4bk4wdjljUDQ1dlhKRXlvczdwRlloSFVHbnFDNVZBQ1pWNjVNQnhESTRCajg4dnNSUjBtcHRXd3YxbHhLT1V0M2pmVHQzcklyLTdXTkRhT3Y2eFdIV2pYd3V5bVI3RWpFVGt2MTdpVGdtYmgwdkUzRmp2dlV3?oc=5",
+    "link": "https://cordoba.mitelefe.com/cordoba/asalto-tras-la-pena-en-unquillo-encanonaron-a-los-duenos-y-se-llevaron-hasta-el-auto-recien-comprado-pid2560824",
     "description": "Asalto tras la peña en Unquillo: encañonaron a los dueños y se llevaron hasta el auto recién comprado Telefe Córdoba",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T18:01:45",
@@ -5956,7 +5964,7 @@
   },
   "de-la-pena-solidaria-al-drama-les-robaron-toda-la-recaudacion-y-una-chata-comprada-3-dias-antes-eldo": {
     "title": "De la peña solidaria al drama: les robaron toda la recaudación y una chata comprada 3 días antes - eldoce",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQzNHTFdSbDBodEh2VmlKWE16TVd0VTgyR2kzMl9LZ3BybUVrOXQ0SWZwel85bEo1T2ExVVdIaW9xb0RMUkpKd2pwQnJFMHdyZHBxb2dYUHpOaHYtN093eUJtdDVUcVFkMkUzZHRNVlA4UWNISDByZ2t0LTE5NUluTlJZaG5IMUlQNkVTbEZGUDdMbll3NlZSbmROckxTdHFjVk5oUjJEMDVBb3U3VzFDVmhuR2RwcEhUdWEtSVlSVFl3cEVJaUt2WVBrZUVYWGR0N0ZtdDBB0gHqAUFVX3lxTE5pMDhucVVaY2stTXpUalNRcFV0d2tNTXpIN05vRFZ4YlhBS2ZVTmpDbHBId2lqdE14dHh1c1YyNFItcUFYM2lOMExhTk5VWGQtQl85WUg5V3RDVzJINVZ4UnRFVjkzX0pTVkExWllMcmNodkxYWkp5ekhjQ28xcUV6MXZKaFV1NUpTU0NnS0p4N1JTcGlHbmNoYWx6MF9PWVN2aENaX3c3ZEg4VEFNNFdSZ0dyWWZqYzVwRTJucnpyOVJuVmdaWGtqREhDR1FmT0M2bndVVlVMM2xuVTlyV1ZMd0J6OHMwZGJGZw?oc=5",
+    "link": "https://eldoce.tv/el-doce-y-vos/2026/07/27/de-la-pena-solidaria-al-drama-les-robaron-toda-la-recaudacion-y-una-chata-comprada-3-dias-antes/",
     "description": "De la peña solidaria al drama: les robaron toda la recaudación y una chata comprada 3 días antes eldoce",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T16:37:10",
@@ -6020,7 +6028,7 @@
   },
   "el-sabado-concretaran-en-unquillo-un-safari-de-vida-silvestre-cordoba-interior-informa": {
     "title": "El sábado concretarán en Unquillo un safari de vida silvestre | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXZKejVNQUJYUGJJaTlkVERuQXhPeTNvenJ2QV9KNGNfeHN2b082QjV5Yi1teEQ0UEdMRXJJTzlUZjJ0UzdxVUNjYXJIUHNZWVFJMFFWSGU0S2pXSEstTDBpaWhlRERBa0tBWkhHcXJzWXFSTGYzRE5uUXJzNDkwcXVoNGlMTXpTcjhTb21sazZoY0pLeGduQktwd3FXTl9YdTZZYmtPUXVlTFI2?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/28/el-sabado-concretaran-en-unquillo-un-safari-de-vida-silvestre/",
     "description": "El sábado concretarán en Unquillo un safari de vida silvestre | Córdoba Interior Informa",
     "pub_date": "28/07/2026",
     "pub_date_raw": "2026-07-28T10:21:48",
@@ -6071,19 +6079,20 @@
   },
   "cordoba-un-auto-se-incendio-sobre-la-ruta-e-53-en-unquillo-y-se-solicita-transitar-con-precaucion-la": {
     "title": "Córdoba: un auto se incendió sobre la ruta E-53 en Unquillo y se solicita transitar con precaución - La Voz del Interior",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0hFYS0tMXJqdlg3a0NIRndJZDdqbExHR1ltSkpfU3NRdlN5Z2llZUhBVTdzUzN6ZS1rMVNwTHhNZktocFZpd293OVF3LW81RjEyVXVkWHVzS1dMLUQyZk0xZ09KTkxyVkJnV2l5TnhQMG5JMGxPZFM1TXBkYjJsMTBMRTMwX1NPeWktMVpMUW91bGdEX3ZKamF4ZEFZaFBtUTJQTjAtbnVLVkt1Q0lGUmZMOVZjQnFhUHJzV2F3?oc=5",
+    "link": "https://www.lavoz.com.ar/sucesos/cordoba-auto-incendio-ruta-e-53-unquillo-solicita-transitar-precaucion_0_YrgNJ6oRxP.html",
     "description": "Córdoba: un auto se incendió sobre la ruta E-53 en Unquillo y se solicita transitar con precaución La Voz del Interior",
     "pub_date": "29/07/2026",
     "pub_date_raw": "2026-07-29T21:41:33",
-    "image": null,
+    "image": "/img/afe2004ca959ad1d.jpg",
     "source_name": "La Voz del Interior",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "cordoba-un-auto-se-incendio-sobre-la-ruta-e-53-en-unquillo-y-se-solicita-transitar-con-precaucion-la"
+    "slug": "cordoba-un-auto-se-incendio-sobre-la-ruta-e-53-en-unquillo-y-se-solicita-transitar-con-precaucion-la",
+    "image_original": "https://www.lavoz.com.ar/2026/07/29/ufBsWhkZdH_1300x867.jpg"
   },
   "incendio-en-unquillo-fue-asistida-tras-la-destruccion-total-de-su-vivienda-cba24ncomar": {
     "title": "Incendio en Unquillo: fue asistida tras la destrucción total de su vivienda - cba24n.com.ar",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0Z5OXdvNzJaSElad2ZBRDJnaFR6NkZBMXprd1JLQ3ZYUDNNZzBmcWVOdEJHQkdNOEFzS3NtYXlPWF9sUE5vTjRoOUFPblpSN0FGc3dUXzBnOEk3cGdoSVpKamhnS1ZVWk1feFRFSktZV1JmckFEN1dteWNlVzk5ZDN1ay1FM0lqeVZvdmFVM0NDeElLRUktWXpmcWktb2xZVXZqUWh5UVJXMVdBOTBDcm1mSDRfNFIxekU4TFk2R3U3NGU1SXF0MmNhUm1zUG5z?oc=5",
+    "link": "https://www.cba24n.com.ar/cordoba/incendio-en-unquillo--fue-asistida-tras-la-destruccion-total-de-su-vivienda_a6a2d801bf8148d8e7b8b7de9",
     "description": "Incendio en Unquillo: fue asistida tras la destrucción total de su vivienda cba24n.com.ar",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T07:00:00",
@@ -6121,7 +6130,7 @@
   },
   "investigan-un-robo-con-amenazas-en-un-salon-de-eventos-de-unquillo-cordobamitelefecom": {
     "title": "Investigan un robo con amenazas en un salón de eventos de Unquillo - cordoba.mitelefe.com",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXVHVTlYcmotY2IxczdPWEt0ZzFoNm9heHk3ZUxwM2UxVERDNlA3Smo2VEVlQ1FFSk15Wk5nNFNWMEVaZndzaGVmajJRcHY2bld4RDNMMDh1bmxWZlJQaENiNXJ6ZXR2OHJia194TV8xS29SVzNVWTA0VFZUUW16NDdUbDFRNzB5azhBczZ3TGxsM0xJdDVpZmNjMFEtYWZaa2VWT0JhRnM0MUZFM09BWEduUnY?oc=5",
+    "link": "https://cordoba.mitelefe.com/cordoba/investigan-un-robo-con-amenazas-en-un-salon-de-eventos-de-unquillo-pid2560800",
     "description": "Investigan un robo con amenazas en un salón de eventos de Unquillo cordoba.mitelefe.com",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T14:31:52",
@@ -6159,7 +6168,7 @@
   },
   "cortes-de-luz-en-cordoba-las-zonas-afectadas-este-sabado-por-epec-canalccomar": {
     "title": "Cortes de luz en Córdoba: las zonas afectadas este sábado por EPEC - canalc.com.ar",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3RpakgwNUY3M2lsQmVjMGVxOVNJUHZ3REhsdUdiNEhDZHVNbmtfamtuUWROb2V3R29XNmpQV3RUaTRiQWxBZ2R6N29aX0NiZjV1OEVoUU82UzVpZVZieVBLQ29OX2tBSXRlX1V2dUplSHJjSUxUNGp0SGhrWDhCT1Fmc0ZWQ0NVeXM5TWdObG8wdw?oc=5",
+    "link": "https://canalc.com.ar/cortes-de-luz-en-cordoba-las-zonas-afectadas-este-sabado-por-epec/",
     "description": "Cortes de luz en Córdoba: las zonas afectadas este sábado por EPEC canalc.com.ar",
     "pub_date": "01/08/2026",
     "pub_date_raw": "2026-08-01T14:39:35",
@@ -6197,7 +6206,7 @@
   },
   "cortes-de-luz-en-cordoba-las-zonas-afectadas-este-sabado-por-epec-canal-c": {
     "title": "Cortes de luz en Córdoba: las zonas afectadas este sábado por EPEC - Canal C",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3RpakgwNUY3M2lsQmVjMGVxOVNJUHZ3REhsdUdiNEhDZHVNbmtfamtuUWROb2V3R29XNmpQV3RUaTRiQWxBZ2R6N29aX0NiZjV1OEVoUU82UzVpZVZieVBLQ29OX2tBSXRlX1V2dUplSHJjSUxUNGp0SGhrWDhCT1Fmc0ZWQ0NVeXM5TWdObG8wdw?oc=5",
+    "link": "https://canalc.com.ar/cortes-de-luz-en-cordoba-las-zonas-afectadas-este-sabado-por-epec/",
     "description": "Cortes de luz en Córdoba: las zonas afectadas este sábado por EPEC Canal C",
     "pub_date": "01/08/2026",
     "pub_date_raw": "2026-08-01T14:39:35",
@@ -6274,7 +6283,7 @@
   },
   "robo-asaltaron-a-trabajadores-tras-una-pena-se-llevaron-la-recaudacion-y-una-camioneta-en-unquillo-l": {
     "title": "Robo. Asaltaron a trabajadores tras una peña: se llevaron la recaudación y una camioneta en Unquillo - La Voz del Interior",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW8xS09BbUl1VGNOSjkzS2hRcjY4SFlIZUo4cHZ2TUluVDBqcGVwa0x2X1RPMFNHSnJReE9HSzZQTlpYQ3RVVTVJdHM4RG16c1hzX25XZ3VUVmVBSGdGN2llM1c1YkpWY204eVUzYndua1FjSjAwVFczc3VuanhobTNNVU16YUNaNVIyTzdZWkxFQ2pRSHd0cC1jLXQxMkhJN19MaGoyYkRYdmtDXzVUcjRBc2Y0RGR0N0E?oc=5",
+    "link": "https://www.lavoz.com.ar/sucesos/asaltaron-trabajadores-pena-llevaron-recaudacion-camioneta-unquillo_0_J2y6gzA9Lb.html",
     "description": "Robo. Asaltaron a trabajadores tras una peña: se llevaron la recaudación y una camioneta en Unquillo La Voz del Interior",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T07:00:00",
@@ -6337,7 +6346,7 @@
   },
   "solsticio-de-invierno-en-unquillo-una-jornada-cultural-con-musica-en-vivo-y-arte-elmilenioinfo": {
     "title": "Solsticio de invierno en Unquillo: una jornada cultural con música en vivo y arte - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUo1UldoVE5EYmJ5YUhaeEVaZTdGblZmTnk0QWsyQ3IyMGh1N0NJcU5iRktZamQ5Y1BLSGVxeElSTWNMck5WYlRycnlSWkdwWVQ2V3FQY0hDRzhqVmlYblpxZUg3UVpuMEZIbGg2c3lnRXNnR1JnUVNSU2dia3d3SUtOdGRRUDBHVkFIcFZTUWtKQmdjOUNJUTFXWkJIa1M5MjF3TXJuMlV1VDhMX2lxTDNReWxBZw?oc=5",
+    "link": "https://elmilenio.info/2026/06/17/solsticio-de-invierno-en-unquillo-una-jornada-cultural-con-musica-en-vivo-y-arte/",
     "description": "Solsticio de invierno en Unquillo: una jornada cultural con música en vivo y arte elmilenio.info",
     "pub_date": "17/06/2026",
     "pub_date_raw": "2026-06-17T07:00:00",
@@ -6375,7 +6384,7 @@
   },
   "el-bus-gamer-brinda-sus-servicios-turisticos-en-unquillo-cordobainteriorinformacom": {
     "title": "El Bus Gamer brinda sus servicios turísticos en Unquillo - cordobainteriorinforma.com",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXN5Y0pzY0swYTVfVTNSY3Iwek1vRmpBcDlSenRoVmh0d1k4QXVTZEFJeklUZDE2T0h0WHN2Yk9jZ2h4cnVOSXBaZUxUbndzZFNzQ2dpUDJxbE1zOGVId0QyVEtyUmIxSko1QmJsSlJNOU9PTXduU25RNFVmQUV3WnNmcWZQdnlweVNWOEwwS3NNbmdtUEhPTGNXcUM0SDI1YnU5M1R3?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/07/04/el-bus-gamer-brinda-sus-servicios-turisticos-en-unquillo/",
     "description": "El Bus Gamer brinda sus servicios turísticos en Unquillo cordobainteriorinforma.com",
     "pub_date": "04/07/2026",
     "pub_date_raw": "2026-07-04T09:42:25",
@@ -6490,7 +6499,7 @@
   },
   "unquillo-joven-en-estado-de-ebriedad-choca-dos-autos-estacionados-elmilenioinfo": {
     "title": "Unquillo: Joven en estado de ebriedad choca dos autos estacionados - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3FyeXp2VEEzUDU1QkZZTHJKdTVqZjBfOUVqVWNlVDRPWVJEOGRURVN6ZDNGcTRwQVJmNExzQ3d1MnFmeksxajktdk56eWNKQzVTaXlaVmoxWHBITllFcHJTNFF0U3hQZlgwMGZ0UDVtTHlUZXRicXFPODB4UlkyUDNWVWdLY0xRRGZEZzdrblpFeGRiME5yZE1KYjdLSHoyelE?oc=5",
+    "link": "https://elmilenio.info/2026/08/11/unquillo-joven-en-estado-de-ebriedad-choca-dos-autos-estacionados/",
     "description": "Unquillo: Joven en estado de ebriedad choca dos autos estacionados elmilenio.info",
     "pub_date": "11/08/2026",
     "pub_date_raw": "2026-08-11T15:44:22",
@@ -6540,7 +6549,7 @@
   },
   "violento-asalto-tras-una-pena-en-unquillo-ataron-a-empleados-y-se-robaron-la-recaudacion-cadena-3-ar": {
     "title": "Violento asalto tras una peña en Unquillo: ataron a empleados y se robaron la recaudación - Cadena 3 Argentina",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3h1amRDc2dBb2hIT203MjBwZmlHVkJQSlc3UjFMMUg2UUcwakp6dmJHdzNDTDlsYTlTd0xVajRPVnVfSXQ1Um1fc2c0akVmbFQzRDAwSjUzOFNsWDh0T0lSMDdmamJKdGhRMFpyVUxObnB2VUZ3WXZZZzRET3JtMkVnbklGXzZrTnA0SjYzZmRDQlVyNjVCOWllMHQ0SHhiQUNyN2Z1dGdZbkQ2blNuMXA1QTZiN3VKdjhCQnA3QWhqYU42bzRzQTNLZ1cteGlTd0Roeg?oc=5",
+    "link": "https://www.cadena3.com/noticia/ahora-pais/violento-asalto-tras-una-pena-en-unquillo-ataron-a-empleados-y-se-robaron-la-recaudacion_577419",
     "description": "Violento asalto tras una peña en Unquillo: ataron a empleados y se robaron la recaudación Cadena 3 Argentina",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T07:00:00",
@@ -6630,7 +6639,7 @@
   },
   "agosto-mes-de-las-infancias-en-unquillo-agencia-cordoba-cultura": {
     "title": "Agosto, mes de las infancias en Unquillo - Agencia Córdoba Cultura",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ad0tuTHNfMWZDcXgtMVExcUdYd3hLUVhCSFJ2eDhsbV81ZG53WThESnlMLTlhSVQzNnpXX292OGVhLTFTZmx6RFhXRFNTM2dWbUtESGJJdEFib0djdWZuaWlkVXl6ak1NVTdZa3V1T210bEZVSFRuTHJmUkstam8?oc=5",
+    "link": "https://cultura.cba.gov.ar/evento/agosto-mes-de-las-infancias-en-unquillo/",
     "description": "Agosto, mes de las infancias en Unquillo Agencia Córdoba Cultura",
     "pub_date": "17/08/2026",
     "pub_date_raw": "2026-08-17T03:03:23",
@@ -6642,7 +6651,7 @@
   },
   "con-exito-se-desarrollo-en-unquillo-la-muestra-automotriz-cordoba-interior-informa": {
     "title": "Con éxito se desarrolló en Unquillo la Muestra Automotriz | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVpiX2tzYWJWd0drWXQ3dzlBM0NEUjJBR29NWW5oRk5DanVQcGEtbmVubDdTRWswWmNoVXFzZGVMTWVhc1JCT0d6bDc3YmFPMTNEV3NpUktKNnZNQ25mMG9XcGN0b0FvZHJ0Qm9vZTZaYnd5SWFBQW9NS3pGX1lZc0FOQ2JCblJhYWpLRENJZFpfV0U0U3ROeVBfSUFpcjl1LUQ4UDhQQQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/08/03/con-exito-se-desarrollo-en-unquillo-la-muestra-automotriz/",
     "description": "Con éxito se desarrolló en Unquillo la Muestra Automotriz | Córdoba Interior Informa",
     "pub_date": "03/08/2026",
     "pub_date_raw": "2026-08-03T07:00:00",
@@ -6809,19 +6818,20 @@
   },
   "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldoce": {
     "title": "Trágico choque en Córdoba: murió una motociclista y una adolescente de 13 años resultó herida - eldoce",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTd5NWNJV0RsenBHcnRoV2JYcHIwMmNCckJEN1hsaUxlcWlldkNpSEd2ZGZPc01nVXBaUEY5OTEzbjdVeFdvZk9mLXR5VV95SzhuOWVhU3Vncms2bVJvVUhnaGw1M2hSODZQaG96dVgtcWdBbXpUM01QdHhmTWUxQkFNaDllRWJFdnJmYTVuWFlPU1R6anVaZ0MtSHNtOWd1dXUtWml4RDRodl9vRm5RQlYxX19fbWVRUHlDTng4a3ZEWm94UUh4cXJnbEtKZ9IB4gFBVV95cUxPNG82MUE1ZEg5THNjNVhaay12b2JKMTk4T1ZYM3Q0T213cXB4S243Q3B4RWI4YTItRGMxeU56aDFhWDRrSUo4WEJyVi1ocnE0NkZVakpxLXBRZ2IxRmhsdU1rQncyOFktNVhVQ25JS1FWQ1NKZExRQlRmY2NLaXE1ZmtxNkN4cDljZnNmVE11bkhuSnpKV2tpSzNkVGxvTXJrR0dha3hsMlpIVnZKQjY4SkxUcE4yM0hHcWZuRFBic0VQZEE5cUhMdndDWU5PUGdFaUU1OGpsSG9kMkNLaXdQNVVR?oc=5",
+    "link": "https://eldoce.tv/actualidad/2026/08/24/tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida/",
     "description": "Trágico choque en Córdoba: murió una motociclista y una adolescente de 13 años resultó herida eldoce",
     "pub_date": "24/08/2026",
     "pub_date_raw": "2026-08-24T21:43:07",
-    "image": null,
+    "image": "https://eldoce.tv/resizer/v2/la-muerte-se-constato-en-el-hospital-de-unquillo-ZLQYDVK3BZAERKCEB4VJ2ZXYYU.jpeg?auth=a9d3641f956989c442d82ebb74c774f36c2dabcbf2a1f046f3ef8004013fd58f&amp;width=1023",
     "source_name": "eldoce",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldoce"
+    "slug": "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldoce",
+    "image_original": "https://eldoce.tv/resizer/v2/la-muerte-se-constato-en-el-hospital-de-unquillo-ZLQYDVK3BZAERKCEB4VJ2ZXYYU.jpeg?auth=a9d3641f956989c442d82ebb74c774f36c2dabcbf2a1f046f3ef8004013fd58f&amp;width=1023"
   },
   "abre-en-unquillo-kaleidos-la-primera-escuela-de-ingles-con-pedagogia-montessori-elmilenioinfo": {
     "title": "Abre en Unquillo «Kaleidos», la primera escuela de inglés con pedagogía Montessori - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2txMmN2ZHNleEhaLU1QNXBJQTJWQ2RMRlgyVVlzS0VweHJHSWNva3ROWVJoWk1HT0VHZ1N6YXlMU3hTZm5oS3pMNUd6QWc4alJHUGRSWmI4VjBtdTBDZTdMdkVoRjFHVFNVdHVFUXZ6TWdxSGpHUlhXX1pKS3FfVTlZOUlnajdmeXh0ZEZ2Tk1uVzJTQ0FSTUY4TGw0S21nbi1MZ2JneWJ0VGZVNkZ2dFBsbnk?oc=5",
+    "link": "https://elmilenio.info/2026/07/31/abre-en-unquillo-kaleidos-la-primera-escuela-de-ingles-con-pedagogia-montessori/",
     "description": "Abre en Unquillo «Kaleidos», la primera escuela de inglés con pedagogía Montessori elmilenio.info",
     "pub_date": "31/07/2026",
     "pub_date_raw": "2026-07-31T07:00:00",
@@ -6962,7 +6972,7 @@
   },
   "la-sintesis-actualidad-de-sierras-chicas-y-cordoba-capital-la-unc-prepara-su-muestra-interactiva-de": {
     "title": "(La síntesis) Actualidad de Sierras Chicas y Córdoba Capital: La UNC prepara su muestra interactiva de carreras y Unquillo se llena de propuestas culturales para el fin de semana - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQTDJYa3dQbjEyZGdZMVh6T0hYdGNyOWZvNjVqdFFQQVF5ZUhZRmRObHJDSHEzcXpZZlBjUC1yQUEtd0pHNWszc3RJYzRzWXNQblZpVmIwbWx4Sk1CX2tFMGh1SFZsN1VkbjY2elVPOVhDNHdmT3BKRlRNZ3N2OEg1T0Y2M04xckNWbXBicGd0a2pDZzhEenJDeEE2d2VBNGZPUlJvalFhMXVvTEtHaUhoR1FmaC1WR1FaME11bnM0WGZpOWZNY184QU1EUVg3NWF6c2I1eTFVeEpTazM3UE5oYzhGc0NORW9waEhXbXEtQkQ0VlQ5LWMxTjlZbjc0RHhlSlVqanNuRXRoN3BsTzg3RmpIaGVsTS1SSjF0WnMyUXdCZWxDd2hmSndlOHdXY1dPU1ktTA?oc=5",
+    "link": "https://elmilenio.info/2026/08/28/la-sintesis-actualidad-de-sierras-chicas-y-cordoba-capital-la-unc-prepara-su-muestra-interactiva-de-carreras-y-unquillo-se-llena-de-propuestas-culturales-para-el-fin-de-semana/",
     "description": "(La síntesis) Actualidad de Sierras Chicas y Córdoba Capital: La UNC prepara su muestra interactiva de carreras y Unquillo se llena de propuestas culturales para el fin de semana elmilenio.info",
     "pub_date": "28/08/2026",
     "pub_date_raw": "2026-08-28T15:17:31",
@@ -6987,7 +6997,7 @@
   },
   "unquillo-recuerda-113-anos-de-su-fecha-fundacional-cordoba-interior-informa": {
     "title": "Unquillo recuerda 113 años de su fecha fundacional | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHpYZkFrdHFyNi05QmNYMS1jbDJTcDVoRFJieWU4QmFDcHlBUFJ3SUplc1huODBoT29jVTNfR293SldDeEtNYjVBRHpRQlpXX2xsZWkyMjY2bE9LcE9iVXZTNzh4NlFPVU5PWVBkcmlKOHBfbjNkdlRTZ1h6MWhEcmFkdHpzQVppdzRaYUtMTENQbkNNM2xhck9zMzV1QQ?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/08/29/unquillo-recuerda-113-anos-de-su-fecha-fundacional/",
     "description": "Unquillo recuerda 113 años de su fecha fundacional | Córdoba Interior Informa",
     "pub_date": "29/08/2026",
     "pub_date_raw": "2026-08-29T10:27:46",
@@ -7090,7 +7100,7 @@
   },
   "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldocet": {
     "title": "Trágico choque en Córdoba: murió una motociclista y una adolescente de 13 años resultó herida - eldoce.tv",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTd5NWNJV0RsenBHcnRoV2JYcHIwMmNCckJEN1hsaUxlcWlldkNpSEd2ZGZPc01nVXBaUEY5OTEzbjdVeFdvZk9mLXR5VV95SzhuOWVhU3Vncms2bVJvVUhnaGw1M2hSODZQaG96dVgtcWdBbXpUM01QdHhmTWUxQkFNaDllRWJFdnJmYTVuWFlPU1R6anVaZ0MtSHNtOWd1dXUtWml4RDRodl9vRm5RQlYxX19fbWVRUHlDTng4a3ZEWm94UUh4cXJnbEtKZ9IB4gFBVV95cUxPNG82MUE1ZEg5THNjNVhaay12b2JKMTk4T1ZYM3Q0T213cXB4S243Q3B4RWI4YTItRGMxeU56aDFhWDRrSUo4WEJyVi1ocnE0NkZVakpxLXBRZ2IxRmhsdU1rQncyOFktNVhVQ25JS1FWQ1NKZExRQlRmY2NLaXE1ZmtxNkN4cDljZnNmVE11bkhuSnpKV2tpSzNkVGxvTXJrR0dha3hsMlpIVnZKQjY4SkxUcE4yM0hHcWZuRFBic0VQZEE5cUhMdndDWU5PUGdFaUU1OGpsSG9kMkNLaXdQNVVR?oc=5",
+    "link": "https://eldoce.tv/actualidad/2026/08/24/tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida/",
     "description": "Trágico choque en Córdoba: murió una motociclista y una adolescente de 13 años resultó herida eldoce.tv",
     "pub_date": "24/08/2026",
     "pub_date_raw": "2026-08-24T07:00:00",
@@ -7115,7 +7125,7 @@
   },
   "choque-multiple-en-la-ruta-e-53-a-la-altura-de-las-corzuelas-cinco-personas-fueron-asistidas-la-voz": {
     "title": "Choque múltiple en la ruta E-53 a la altura de Las Corzuelas: cinco personas fueron asistidas - La Voz del Interior",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlltS3Y1NGxjY3hOcVRjdGpjSFNTaWVJV19JN1BlZ0k4VTR3ejY2LWpfV3RWdVVIalVnSTFTZW54Um1XYmhHRllUX29aMGJLMGlzd0FsbmRqZjJHTk9wVkRqUWstSVdMc2JqMUlXYWV6RldqMXNNdGx6NWdHdmJ3Y2tIaEV4QktBeE9QVEZVU0EwbENxZTd4ZVhxTDBkelVEMXd5cDVHR2huSUgtdGFXUDFn?oc=5",
+    "link": "https://www.lavoz.com.ar/sucesos/choque-multiple-ruta-e-53-altura-corzuelas-personas-asistidas_0_QyseNNyOEV.html",
     "description": "Choque múltiple en la ruta E-53 a la altura de Las Corzuelas: cinco personas fueron asistidas La Voz del Interior",
     "pub_date": "14/08/2026",
     "pub_date_raw": "2026-08-14T07:00:00",
@@ -7152,7 +7162,7 @@
   },
   "unquillo-a-25-anos-de-la-tragedia-que-desnudo-la-violencia-de-genero-antes-de-tener-nombre-elmilenio": {
     "title": "Unquillo: a 25 años de la tragedia que desnudó la violencia de género antes de tener nombre - elmilenio.info",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGZGcXlXX2FmZ3VGV3Q0REExT0t3TkM0WDBBc3FqZ2lzVDVZX2xpUGNfY2VfN05tVHVXNDNDU0JjY2UzY0NvYmVNUHhQY3dtcmRHcHZFc3dNdkFEZlhaNFZtX0ZvaXJRNEhXazNYUlJoOE0wYk5IMkNEbHhBNTQxLTJqaXVGWjFfd0dHNWQ4Sk52RHh5ZmU3S3RRWWRhNmUyNk10OFpLc2s2dlg1eHZlbVMyb2IzeHZqUWhYR1o5eVpORjQ?oc=5",
+    "link": "https://elmilenio.info/2026/08/12/unquillo-a-25-anos-de-la-tragedia-que-desnudo-la-violencia-de-genero-antes-de-tener-nombre/",
     "description": "Unquillo: a 25 años de la tragedia que desnudó la violencia de género antes de tener nombre elmilenio.info",
     "pub_date": "12/08/2026",
     "pub_date_raw": "2026-08-12T07:00:00",
@@ -7164,7 +7174,7 @@
   },
   "epec-anuncio-cortes-de-luz-programados-para-este-miercoles-en-rio-ceballos-y-unquillo-perfilcom": {
     "title": "EPEC anunció cortes de luz programados para este miércoles en Río Ceballos y Unquillo - perfil.com",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0U0dm9rOGRILWlJNzBVcXFGLUh0Z0ZJb0wxbGVNU0FreS1TbU5qN2FnN1MwVWRUd282MGRLSW9BbUJRN1VDQWNmakg4NDRUSVI5SHc2c2JnQWdPMklpMlhnd3J1cFh0V2UxcHRkb0Y3VlE5SnVGZnRlLXJJYnMtN3NxZ1dtUHNTWjZ4QjVTVENBT2lWWFFkMzc0NnAtMzktSFR6aVNkY1Z4czY2Y3g0b3kyekF2TzhGMmppbFkwZUxUTUJyTnJaTDcwZ9IB0AFBVV95cUxQZGNrWUJVNDU1RUNGUG5uOURsSDJISG9Ra3IwY0IzQzN1VHY0S2laTzFEamQ1VzlWZ1dTWGExXzdIQ1VoVEtiQnp5RVEwVFhtZ3BMUXhlMnhtV0RVMXZKc2hmdXZZeEd0NTlQMXNoYXdlMEs4VXJSTjI5eXNzMWNkZWllNDFmc2VsRzVUcGdxVmV1bVZaMkRmSDJUUm1zc3QzRkgxYlZJMjlyYk4zZ0w3bEZPSldnemVyRkJzV0JEZkxLVmI2OUxZNHFqUkw0LVZn?oc=5",
+    "link": "https://www.perfil.com/noticias/cordoba/epec-anuncio-cortes-de-luz-programados-para-este-miercoles-en-rio-ceballos-y-unquillo.phtml",
     "description": "EPEC anunció cortes de luz programados para este miércoles en Río Ceballos y Unquillo perfil.com",
     "pub_date": "16/06/2026",
     "pub_date_raw": "2026-06-16T07:00:00",
@@ -7215,15 +7225,16 @@
   },
   "unquillo-es-sede-de-la-7o-muestra-automotriz-del-falcon-club-cordoba-interior-informa": {
     "title": "Unquillo es sede de la 7º Muestra Automotriz del Falcon Club | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEIxazR5aVBFUHZpNDhJYnhjSjJVZ1pDOWhqdW9TOVJqcFpPWkFXazh1eTNYMG9BY3ZoZzJXWUpNUUtLZXJfNVF2dnlLdGVMR3pleWZ5aG8yUmJkRVo2cm51MkpwY1paZnhocC1FenUtdzlxbWNlME02TTB5SGNWYUNkWERMOC1TTlkyT0NpazEyNnBZenN0czlpR2dGR1dmVXZValo4Ty1STFU?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/08/02/unquillo-es-sede-de-la-7o-muestra-automotriz-del-falcon-club/",
     "description": "Unquillo es sede de la 7º Muestra Automotriz del Falcon Club | Córdoba Interior Informa",
     "pub_date": "02/08/2026",
     "pub_date_raw": "2026-08-02T07:00:00",
-    "image": null,
+    "image": "/img/9ca4d55ffcc2d30d.jpg",
     "source_name": "Córdoba Interior Informa",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-es-sede-de-la-7o-muestra-automotriz-del-falcon-club-cordoba-interior-informa"
+    "slug": "unquillo-es-sede-de-la-7o-muestra-automotriz-del-falcon-club-cordoba-interior-informa",
+    "image_original": "https://img.cordobainteriorinforma.com/2026/08/images-1.webp"
   },
   "denuncian-faena-clandestina-de-caballos-y-hechos-de-inseguridad-en-unquillo-cordobamitelefecom": {
     "title": "Denuncian faena clandestina de caballos y hechos de inseguridad en Unquillo - cordoba.mitelefe.com",
@@ -7264,19 +7275,20 @@
   },
   "filmaron-a-una-extrana-criatura-que-es-muy-dificil-de-ver-en-cordoba-fue-una-enorme-sorpresa-encontr": {
     "title": "Filmaron a una extraña criatura que es muy difícil de ver en Córdoba: “Fue una enorme sorpresa encontrarlo” - ElDoce.tv",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjl5U3AxOWtPR1haVGlpTzhBYTZQcWREbUg2a0ZJdEZqbFJ4WGEwcW4wZG5qTmRwcFZZalVsNE1vckJhRlJmZlJzVmt2RlJORnNvUDRHU2RpVUNiMWVfN2YzZTc2eldBeU9keEZHeVEwa3NzNzU4Xzh1eEFTNmdqSmZWZmVNbVg1dk1oS2piZlNfdlduN3Qwa1FtcnJ6UmVUT3hVVkRvZTMwQXFFV2N5dF92bF9DcnY3OWdzV09WUkpoVzVOWHB4SXVxZmZ0V01XM0JPNTgycXgzSTVKdXfSAfIBQVVfeXFMUGxCbDJOREZJak8wZ0N4VXNFYzlkZmFTdUVNdkYwdnRqUjBTc0h0bWxyNUkwMTFYLTI3OG1tM1VCOWhReWRWUnhvYlEtSnVIMmxnN0MtbDc1TnU2MHAzMF9yTVNsS0MzeFp2bzJRZllzOFhCTWwzMHBGbDUzOG5selktcDFHbURMcmhJc2E4Y2xQQWROUW9Xbzh4T01IWWlBUlp0R21EMjhKY1hFQ1dEM1dBLVVsMzhCcmV4blRiMW1COEF0LTBub1MyMXF0S2ZtS0o5c1dYV2huQ2paRlU3T1BwWjIzanp5SExDM1ZidDJPX3c?oc=5",
+    "link": "https://eldoce.tv/actualidad/2026/09/09/filmaron-a-una-extrana-criatura-que-es-muy-dificil-de-ver-en-cordoba-fue-una-enorme-sorpresa-encontrarlo/",
     "description": "Filmaron a una extraña criatura que es muy difícil de ver en Córdoba: “Fue una enorme sorpresa encontrarlo” ElDoce.tv",
     "pub_date": "09/09/2026",
     "pub_date_raw": "2026-09-09T20:28:57",
-    "image": null,
+    "image": "https://eldoce.tv/resizer/v2/el-avistaje-tuvo-lugar-en-unquillo-VIQIEYZ7UVCURPCTI7WTBGLJYM.jpg?auth=c106a98e98989994636ff294dfaf85a17cf3aa8daf3ded1dc59f5a3ba7d22e83&amp;width=1023",
     "source_name": "ElDoce.tv",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "filmaron-a-una-extrana-criatura-que-es-muy-dificil-de-ver-en-cordoba-fue-una-enorme-sorpresa-encontr"
+    "slug": "filmaron-a-una-extrana-criatura-que-es-muy-dificil-de-ver-en-cordoba-fue-una-enorme-sorpresa-encontr",
+    "image_original": "https://eldoce.tv/resizer/v2/el-avistaje-tuvo-lugar-en-unquillo-VIQIEYZ7UVCURPCTI7WTBGLJYM.jpg?auth=c106a98e98989994636ff294dfaf85a17cf3aa8daf3ded1dc59f5a3ba7d22e83&amp;width=1023"
   },
   "el-templo-en-cordoba-donde-el-sol-ilumina-un-amor-eterno-una-vez-al-ano-viapaiscomar": {
     "title": "El templo en Córdoba donde el sol ilumina un amor eterno una vez al año - viapais.com.ar",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHFldzZDUndweXF6N3d5R2FCYnZtU25BdEJWZ3YxM1dlQWJ0V1JacXhsNlRwb29qUjlLcUV6TTI5YkpocnJMZ3FsZ3ZPQWZIcV9idTNBUjBzSHZCZDhjWVFyWkIyTGtPallsQWRSdHZJd3JmUVhpQU45WlJKYmY5bmpHcFRpTUJZb3VPR1BBRkpfV2ktUDBOQXQ0OXkzZUZTem1DTFBoN3pfTUV2MXVlLWRmTjh4dw?oc=5",
+    "link": "https://viapais.com.ar/cordoba/capilla-oculta-cordoba-predice-sismos-guarda-secreto-tragedia-amor_0_OSaeGwhBWn.html",
     "description": "El templo en Córdoba donde el sol ilumina un amor eterno una vez al año viapais.com.ar",
     "pub_date": "09/09/2026",
     "pub_date_raw": "2026-09-09T17:48:00",
@@ -7288,7 +7300,7 @@
   },
   "el-templo-en-cordoba-donde-el-sol-ilumina-un-amor-eterno-una-vez-al-ano-via-pais": {
     "title": "El templo en Córdoba donde el sol ilumina un amor eterno una vez al año - Vía País",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHFldzZDUndweXF6N3d5R2FCYnZtU25BdEJWZ3YxM1dlQWJ0V1JacXhsNlRwb29qUjlLcUV6TTI5YkpocnJMZ3FsZ3ZPQWZIcV9idTNBUjBzSHZCZDhjWVFyWkIyTGtPallsQWRSdHZJd3JmUVhpQU45WlJKYmY5bmpHcFRpTUJZb3VPR1BBRkpfV2ktUDBOQXQ0OXkzZUZTem1DTFBoN3pfTUV2MXVlLWRmTjh4dw?oc=5",
+    "link": "https://viapais.com.ar/cordoba/capilla-oculta-cordoba-predice-sismos-guarda-secreto-tragedia-amor_0_OSaeGwhBWn.html",
     "description": "El templo en Córdoba donde el sol ilumina un amor eterno una vez al año Vía País",
     "pub_date": "09/09/2026",
     "pub_date_raw": "2026-09-09T17:48:00",
@@ -7423,7 +7435,7 @@
   },
   "unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-cordobamitelefecom": {
     "title": "Unquillo fue escenario de un raro avistaje de un espiguero pardo - cordoba.mitelefe.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXk0QVQ3NnRFaU1BZEhVeWxfQ1p5OWNIWWE0WFQwV3B1NnIycjI5amEySXYxYTA0emxmVmxteG0yYVJSc2NIVEstRVQxZE1sbkh4NlRaeHY4Wm9ZbE9QbU94VEtHSWxMaDFRUlB3TzBxOWpucUJWdVo1Z3dWNWtVZTVHa1NtRFpmZFFiTDdVLUJhVHJhel9nZ21aUi1KUVVjaGJOWkhIZkJWQzFqMHVNWDBn?oc=5",
+    "link": "https://cordoba.mitelefe.com/cordoba/unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-pid2566413",
     "description": "Unquillo fue escenario de un raro avistaje de un espiguero pardo cordoba.mitelefe.com",
     "pub_date": "15/09/2026",
     "pub_date_raw": "2026-09-15T14:44:56",
@@ -7435,15 +7447,16 @@
   },
   "unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-telefe-cordoba": {
     "title": "Unquillo fue escenario de un raro avistaje de un espiguero pardo - Telefe Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXk0QVQ3NnRFaU1BZEhVeWxfQ1p5OWNIWWE0WFQwV3B1NnIycjI5amEySXYxYTA0emxmVmxteG0yYVJSc2NIVEstRVQxZE1sbkh4NlRaeHY4Wm9ZbE9QbU94VEtHSWxMaDFRUlB3TzBxOWpucUJWdVo1Z3dWNWtVZTVHa1NtRFpmZFFiTDdVLUJhVHJhel9nZ21aUi1KUVVjaGJOWkhIZkJWQzFqMHVNWDBn?oc=5",
+    "link": "https://cordoba.mitelefe.com/cordoba/unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-pid2566413",
     "description": "Unquillo fue escenario de un raro avistaje de un espiguero pardo Telefe Córdoba",
     "pub_date": "15/09/2026",
     "pub_date_raw": "2026-09-15T14:44:56",
-    "image": null,
+    "image": "/img/b387b1c2443a65e3.jpg",
     "source_name": "Telefe Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-telefe-cordoba"
+    "slug": "unquillo-fue-escenario-de-un-raro-avistaje-de-un-espiguero-pardo-telefe-cordoba",
+    "image_original": "https://cordoba.mitelefe.com/media/cache/post16x9/2026/09/image-3-6aa959e7ef7e7.jpg"
   },
   "en-septiembre-unquillo-se-camina": {
     "title": "En septiembre: Unquillo se camina",
@@ -7545,14 +7558,15 @@
   },
   "unquillo-propone-para-hoy-la-fiesta-de-la-primavera-de-los-adultos-mayores-cordoba-interior-informa": {
     "title": "Unquillo propone para hoy la Fiesta de la Primavera de los Adultos Mayores | - Córdoba Interior Informa",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDB6OC14bEZxNkw0UE1xdDRaZmxMSHZwSFBUSXJYSDh1U2dSLTlodVF5dlg5ZGNqbmVvRXAyYUFtVExvOEpialpLZjhBdldVT2lraTNYdmNJLWxrT25ramxMdGtyRTk3Z0NQTkFuV0draDVtaU1hNEZCV3pTNTJMclVCMzhsRXFoeTB3TzVKVGVtZkl6ZjM3dEo1c21YcG9yeGpicmRYQnByQXd1aFpWS3BFcDdxRGhWTnVIelh3?oc=5",
+    "link": "https://cordobainteriorinforma.com/2026/09/20/unquillo-propone-para-hoy-la-fiesta-de-la-primavera-de-los-adultos-mayores/",
     "description": "Unquillo propone para hoy la Fiesta de la Primavera de los Adultos Mayores | Córdoba Interior Informa",
     "pub_date": "20/09/2026",
     "pub_date_raw": "2026-09-20T09:21:12",
-    "image": null,
+    "image": "/img/923ae5e846d59ae4.jpg",
     "source_name": "Córdoba Interior Informa",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-propone-para-hoy-la-fiesta-de-la-primavera-de-los-adultos-mayores-cordoba-interior-informa"
+    "slug": "unquillo-propone-para-hoy-la-fiesta-de-la-primavera-de-los-adultos-mayores-cordoba-interior-informa",
+    "image_original": "https://img.cordobainteriorinforma.com/2026/09/festejo_primavera.jpg"
   }
 }
