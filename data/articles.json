@@ -130,7 +130,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "pagina12-pagina12",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "murio-una-mujer-de-76-anos-al-incendiarse-su-casa-mientras-dormia-en-cordoba-eldocetv": {
     "title": "Murió una mujer de 76 años al incendiarse su casa mientras dormía en Córdoba - ElDoce.tv",
@@ -1148,7 +1148,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "ailen-sabando-y-agustin-milo-medina-los-modelos-cordobeses-que-suenan-con-conquistar-europa-novacord",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-la-pena-trashumante-lanzo-mas-entradas-elmilenioinfo": {
     "title": "Unquillo: la Peña Trashumante lanzó más entradas - elmilenio.info",
@@ -1553,7 +1553,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-recorrio-en-unquillo-la-obra-de-pavimentacion-de-la-ruta-provincial-s-441-novacordobacom",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "comienzan-los-convocantes-corsos-de-unquillo-cordobainteriorinformacom": {
     "title": "Comienzan los convocantes Corsos de Unquillo - cordobainteriorinforma.com",
@@ -1913,7 +1913,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -4796,11 +4796,12 @@
     "description": "Incendio en Unquillo: fue asistida tras la destrucción total de su vivienda Cba24n",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T16:33:17",
-    "image": null,
+    "image": "/img/b284ccd97d0c0aab.jpg",
     "source_name": "Cba24n",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "incendio-en-unquillo-fue-asistida-tras-la-destruccion-total-de-su-vivienda-cba24n"
+    "slug": "incendio-en-unquillo-fue-asistida-tras-la-destruccion-total-de-su-vivienda-cba24n",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6a2d801bf8148d8e7b8b7de9/facebook?v=bb2468e41a133f4418f15e06e6341022&s=afbdbec2761823157fec55592cd925dd"
   },
   "incendio-en-unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda-13-d": {
     "title": "Incendio en Unquillo: una mujer fue hospitalizada por inhalación de humo tras perder su vivienda | 13 de - hoydia.com.ar",
@@ -4808,11 +4809,12 @@
     "description": "Incendio en Unquillo: una mujer fue hospitalizada por inhalación de humo tras perder su vivienda | 13 de hoydia.com.ar",
     "pub_date": "13/06/2026",
     "pub_date_raw": "2026-06-13T17:44:28",
-    "image": null,
+    "image": "/img/023f6c9b84df8845.jpg",
     "source_name": "hoydia.com.ar",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "incendio-en-unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda-13-d"
+    "slug": "incendio-en-unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda-13-d",
+    "image_original": "https://hoydia.com.ar/wp-content/uploads/2026/06/Incendio-en-Unquillo-una-mujer-fue-hospitalizada-por-inhalacion-de-humo-tras-perder-su-vivienda-optimized.jpg"
   },
   "unquillo-esta-tarde-se-concretara-la-feria-de-reciclados-y-productos-sustentables-cordoba-interior-i": {
     "title": "Unquillo: Esta tarde se concretará la Feria de Reciclados y Productos Sustentables - Córdoba Interior Informa",
@@ -7612,5 +7614,18 @@
     "source_type": "youtube",
     "video_id": "px5d4rpu5Qg",
     "slug": "denuncia-por-abuso-contra-un-changarin-en-unquillo"
+  },
+  "dos-detenidos-por-distintos-hechos-en-unquillo-y-salsipuedes": {
+    "title": "Dos detenidos por distintos hechos en Unquillo y Salsipuedes",
+    "link": "https://www.sierraschicasvivo.com/2026/09/dos-detenidos-por-distintos-hechos-en-unquillo-y-salsipuedes/",
+    "description": "Una mujer sufrió un traumatismo de cráneo leve tras ser atacada en su vivienda. En otro procedimiento, un hombre fue sorprendido cuando se retiraba de un predio privado con cuatro chapas.",
+    "pub_date": "22/09/2026",
+    "pub_date_raw": "2026-09-22T13:57:48",
+    "image": "/img/543019c95326083b.jpg",
+    "source_name": "Sierras Chicas Vivo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "dos-detenidos-por-distintos-hechos-en-unquillo-y-salsipuedes",
+    "image_original": "https://www.sierraschicasvivo.com/wp/wp-content/uploads/2026/09/DEtenido-2.jpg"
   }
 }
