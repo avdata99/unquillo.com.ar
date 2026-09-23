@@ -1913,7 +1913,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -6688,11 +6688,12 @@
     "description": "El arte contemporáneo y la Semana Santa se dan la mano en Unquillo cba24n.com.ar",
     "pub_date": "01/04/2026",
     "pub_date_raw": "2026-04-01T07:00:00",
-    "image": null,
+    "image": "/img/721d240cb1917762.jpg",
     "source_name": "cba24n.com.ar",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "el-arte-contemporaneo-y-la-semana-santa-se-dan-la-mano-en-unquillo-cba24ncomar"
+    "slug": "el-arte-contemporaneo-y-la-semana-santa-se-dan-la-mano-en-unquillo-cba24ncomar",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/69cd396f6270583482a94dff/facebook?v=8d892c9084df843632a72facebe2c41b&s=ca5ec14e35fc0a42d2b425efc7f7cca9"
   },
   "unquillo-invitan-a-una-tarde-de-lectura-en-la-biblioteca-popular-cawana": {
     "title": "Unquillo: invitan a una tarde de lectura en la Biblioteca Popular Cawana",
@@ -7627,5 +7628,31 @@
     "video_id": null,
     "slug": "dos-detenidos-por-distintos-hechos-en-unquillo-y-salsipuedes",
     "image_original": "https://www.sierraschicasvivo.com/wp/wp-content/uploads/2026/09/DEtenido-2.jpg"
+  },
+  "antigal-celebra-20-anos-de-musica-en-la-casa-museo-spilimbergo": {
+    "title": "ANTIGAL CELEBRA 20 AÑOS DE MÚSICA EN LA CASA MUSEO SPILIMBERGO",
+    "link": "https://unquillo.gov.ar/antigal-celebra-20-anos-de-musica-en-la-casa-museo-spilimbergo/",
+    "description": "La Casa Museo Spilimbergo será escenario de un concierto especial con el que el grupo ANTIGAL celebrará sus 20 años de trayectoria. La presentación tendrá lugar el próximo viernes 9 de octubre a las 20 h, en el museo ubicado en Spilimbergo 740 de la ciudad de Unquillo.",
+    "pub_date": "22/09/2026",
+    "pub_date_raw": "2026-09-22T16:15:03",
+    "image": "/img/8d514fa936a8f800.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "antigal-celebra-20-anos-de-musica-en-la-casa-museo-spilimbergo",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/09/Antigalazo_Unquillo_02-1024x576.png"
+  },
+  "los-exilios-de-carlos-alonso-como-la-ausencia-de-paloma-moldeo-su-obra-en-europa-y-su-retiro-en-cord": {
+    "title": "Los exilios de Carlos Alonso: cómo la ausencia de Paloma moldeó su obra en Europa y su retiro en Córdoba - Infobae",
+    "link": "https://www.infobae.com/cultura/2026/09/22/los-exilios-de-carlos-alonso-como-la-ausencia-de-paloma-moldeo-su-obra-en-europa-y-su-retiro-en-cordoba/",
+    "description": "Los exilios de Carlos Alonso: cómo la ausencia de Paloma moldeó su obra en Europa y su retiro en Córdoba Infobae",
+    "pub_date": "22/09/2026",
+    "pub_date_raw": "2026-09-22T15:59:00",
+    "image": "https://www.infobae.com/resizer/v2/7IDWXXTIRFBTVCVE55AFDSQE5U.jpg?auth=be2e78e45c937385a49777a5fee1e72de16d35bcf809f695bc85b45321f7312d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+    "source_name": "Infobae",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "los-exilios-de-carlos-alonso-como-la-ausencia-de-paloma-moldeo-su-obra-en-europa-y-su-retiro-en-cord",
+    "image_original": "https://www.infobae.com/resizer/v2/7IDWXXTIRFBTVCVE55AFDSQE5U.jpg?auth=be2e78e45c937385a49777a5fee1e72de16d35bcf809f695bc85b45321f7312d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85"
   }
 }
