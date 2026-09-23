@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/amalia-antonini-inaugura-su-muestra-de-pinturas-en-unquillo/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/el-presente-y-futuro-del-boxeo-argentino-melanie-martinez-y-santiago-tulian-entrevista-la-voz/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/antigal-celebra-20-anos-de-musica-en-la-casa-museo-spilimbergo/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,7 +37,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/denuncia-por-abuso-contra-un-changarin-en-unquillo/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -170,12 +194,6 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/filmaron-a-una-extrana-criatura-que-es-muy-dificil-de-ver-en-cordoba-fue-una-enorme-sorpresa-encontr/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://unquillo.com.ar/articles/schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -913,12 +931,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://unquillo.com.ar/articles/ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://unquillo.com.ar/articles/animacion-al-poder/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -926,6 +938,12 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/pronostico-del-tiempo-y-condiciones-meteorologicas-para-unquillo-provincia-de-cordoba-argentina-the/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/unquillo-provincia-de-cordoba-argentina-the-weather-channel/</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
