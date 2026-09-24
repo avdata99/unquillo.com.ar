@@ -1164,10 +1164,10 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - novacordoba.com",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEcS02YjN2OHl0dkNjS2V6cFdJenBNVWFlZVYzaDBoMlAzaEJNS0ZLVGpEQ1dUWl8tWGRfTXlvOFFTSGZxd1VjWUtvbW5QaEdzYXB0WFdRY2tGWWVlazkyMjdmVHBZQklTbDFsT0FJX0VtMFBTeHV3U0JaX21UZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50REFiZ2wwZHVPMVR1VHo5YnhyTXE3QV9qNnlXQ2lvakxMS3V3U0k0M1BMMUtubjFOUHZMOHlsVUlOZ2hPbmV1aDJfS1Y0b3BIVU81MF93UzRKTXZkMDQ0M0lSaTlXa3dYbHA3SzRJczl3SDhRWmhKdG1RSzVEZw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo novacordoba.com",
-    "pub_date": "21/09/2026",
-    "pub_date_raw": "2026-09-21T18:27:32",
+    "pub_date": "24/09/2026",
+    "pub_date_raw": "2026-09-24T00:39:06",
     "image": null,
     "source_name": "novacordoba.com",
     "source_type": "google_news",
@@ -1428,7 +1428,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -7691,5 +7691,18 @@
     "source_type": "youtube",
     "video_id": "5v70S_dO-eU",
     "slug": "el-presente-y-futuro-del-boxeo-argentino-melanie-martinez-y-santiago-tulian-entrevista-la-voz"
+  },
+  "el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24n": {
+    "title": "“El Club de Pesca\" se proyecta en Unquillo: estreno en la Semana del Cine Cordobés - Cba24n",
+    "link": "https://www.cba24n.com.ar/espectaculos/-el-club-de-pesca--se-proyecta-en-unquillo--estreno-en-la-semana-del-cine-cordobes_a6ab3f27fed240397dd175a56",
+    "description": "“El Club de Pesca\" se proyecta en Unquillo: estreno en la Semana del Cine Cordobés Cba24n",
+    "pub_date": "23/09/2026",
+    "pub_date_raw": "2026-09-23T19:45:30",
+    "image": "/img/0500e1730d2beede.jpg",
+    "source_name": "Cba24n",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24n",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6ab3f27fed240397dd175a56/facebook?v=2790417b541f62e57dc0c46fbc4a717e&s=4125e5eb8b8ec0a7a91d7430e409b2a9"
   }
 }
