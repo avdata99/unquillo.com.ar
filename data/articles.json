@@ -1173,7 +1173,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-celebra-la-primera-fiesta-de-la-animacion-nacional-talleres-proyecciones-y-musica-cba24n": {
     "title": "Unquillo celebra la primera Fiesta de la Animación Nacional: talleres, proyecciones y música - Cba24n",
@@ -1904,16 +1904,16 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEcS02YjN2OHl0dkNjS2V6cFdJenBNVWFlZVYzaDBoMlAzaEJNS0ZLVGpEQ1dUWl8tWGRfTXlvOFFTSGZxd1VjWUtvbW5QaEdzYXB0WFdRY2tGWWVlazkyMjdmVHBZQklTbDFsT0FJX0VtMFBTeHV3U0JaX21UZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50REFiZ2wwZHVPMVR1VHo5YnhyTXE3QV9qNnlXQ2lvakxMS3V3U0k0M1BMMUtubjFOUHZMOHlsVUlOZ2hPbmV1aDJfS1Y0b3BIVU81MF93UzRKTXZkMDQ0M0lSaTlXa3dYbHA3SzRJczl3SDhRWmhKdG1RSzVEZw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "21/09/2026",
-    "pub_date_raw": "2026-09-21T18:27:32",
+    "pub_date": "24/09/2026",
+    "pub_date_raw": "2026-09-24T00:39:06",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 3
+    "link_intentos": 1
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7704,5 +7704,18 @@
     "video_id": null,
     "slug": "el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24n",
     "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6ab3f27fed240397dd175a56/facebook?v=2790417b541f62e57dc0c46fbc4a717e&s=4125e5eb8b8ec0a7a91d7430e409b2a9"
+  },
+  "pintura-y-memoria-murio-el-artista-carlos-alonso-pagina12": {
+    "title": "Pintura y memoria: murió el artista Carlos Alonso - Página|12",
+    "link": "https://www.pagina12.com.ar/2026/09/21/pintura-y-memoria-murio-el-artista-carlos-alonso/",
+    "description": "Pintura y memoria: murió el artista Carlos Alonso Página|12",
+    "pub_date": "21/09/2026",
+    "pub_date_raw": "2026-09-21T14:40:42",
+    "image": "https://www.pagina12.com.ar/resizer/v2/ABISMXMGZZDNHLR6FF6BOWDU7I.jpg?smart=true&amp;auth=19f0317609d2a53ea086b2ec542b003bab9583d69d99bfd1aaeed4b484326564&amp;width=1200&amp;height=630",
+    "source_name": "Página|12",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "pintura-y-memoria-murio-el-artista-carlos-alonso-pagina12",
+    "image_original": "https://www.pagina12.com.ar/resizer/v2/ABISMXMGZZDNHLR6FF6BOWDU7I.jpg?smart=true&amp;auth=19f0317609d2a53ea086b2ec542b003bab9583d69d99bfd1aaeed4b484326564&amp;width=1200&amp;height=630"
   }
 }
