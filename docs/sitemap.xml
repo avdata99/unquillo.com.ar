@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://unquillo.com.ar/articles/manos-al-arroyo-vecinos-de-unquillo-vuelven-a-limpiar/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/agenda-del-finde-viernes-25-al-domingo-27-de-septiembre/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://unquillo.com.ar/articles/schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -20,6 +32,12 @@
   </url>
   <url>
     <loc>https://unquillo.com.ar/articles/el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24n/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unquillo.com.ar/articles/el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24ncomar/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

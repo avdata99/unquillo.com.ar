@@ -1913,7 +1913,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -3905,11 +3905,12 @@
     "description": "Dos hombres iban en moto, chocaron contra el CARTEL de ingreso de Unquillo y uno murió eldoce",
     "pub_date": "29/03/2026",
     "pub_date_raw": "2026-03-29T07:00:00",
-    "image": null,
+    "image": "https://eldoce.tv/resizer/v2/el-accidente-ocurrio-en-el-ingreso-de-unquillo-CKTZPDRU7JAQZHPS2JYBF7IRBI.png?auth=a3f88e039bfe660ca0a94fe8329b8c3e65ac81658feb2fb139015310352fe1d2&amp;width=1023",
     "source_name": "eldoce",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "dos-hombres-iban-en-moto-chocaron-contra-el-cartel-de-ingreso-de-unquillo-y-uno-murio-eldoce"
+    "slug": "dos-hombres-iban-en-moto-chocaron-contra-el-cartel-de-ingreso-de-unquillo-y-uno-murio-eldoce",
+    "image_original": "https://eldoce.tv/resizer/v2/el-accidente-ocurrio-en-el-ingreso-de-unquillo-CKTZPDRU7JAQZHPS2JYBF7IRBI.png?auth=a3f88e039bfe660ca0a94fe8329b8c3e65ac81658feb2fb139015310352fe1d2&amp;width=1023"
   },
   "unquillo-amplia-la-ley-sonia-torres-con-una-mirada-social-e-inclusiva": {
     "title": "Unquillo amplía la Ley Sonia Torres con una mirada social e inclusiva",
@@ -7717,5 +7718,44 @@
     "video_id": null,
     "slug": "pintura-y-memoria-murio-el-artista-carlos-alonso-pagina12",
     "image_original": "https://www.pagina12.com.ar/resizer/v2/ABISMXMGZZDNHLR6FF6BOWDU7I.jpg?smart=true&amp;auth=19f0317609d2a53ea086b2ec542b003bab9583d69d99bfd1aaeed4b484326564&amp;width=1200&amp;height=630"
+  },
+  "agenda-del-finde-viernes-25-al-domingo-27-de-septiembre": {
+    "title": "AGENDA DEL FINDE: VIERNES 25 AL DOMINGO 27 DE SEPTIEMBRE",
+    "link": "https://unquillo.gov.ar/agenda-del-finde-viernes-25-al-domingo-27-de-septiembre-2026/",
+    "description": "Este viernes se inaugurará la exposición “Diálogos Internos” de Amalia Antonini y será noche de Milonga. El sábado tendremos senderismo urbano con el sector de Turismo de Bienestar y Paseo de Artesanos. El domingo habrá caminata de reconocimiento de plantas medicinales en la Reserva Los Quebrachitos, presentación de Toki Kura en el Teatrino de la Casa Museo Buffo y edición especial del Paseo de Artesanos. Además, actividades en museos, Camino de Artesanos y estrenos en el Cine Teatro Municipal.",
+    "pub_date": "25/09/2026",
+    "pub_date_raw": "2026-09-25T11:02:31",
+    "image": "/img/761ab214ec1e3efd.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "agenda-del-finde-viernes-25-al-domingo-27-de-septiembre",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/09/Huellas-del-tiempo-cupo-completo.jpeg"
+  },
+  "el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24ncomar": {
+    "title": "“El Club de Pesca\" se proyecta en Unquillo: estreno en la Semana del Cine Cordobés - cba24n.com.ar",
+    "link": "https://www.cba24n.com.ar/espectaculos/-el-club-de-pesca--se-proyecta-en-unquillo--estreno-en-la-semana-del-cine-cordobes_a6ab3f27fed240397dd175a56",
+    "description": "“El Club de Pesca\" se proyecta en Unquillo: estreno en la Semana del Cine Cordobés cba24n.com.ar",
+    "pub_date": "23/09/2026",
+    "pub_date_raw": "2026-09-23T19:45:30",
+    "image": "/img/0500e1730d2beede.jpg",
+    "source_name": "cba24n.com.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "el-club-de-pesca-se-proyecta-en-unquillo-estreno-en-la-semana-del-cine-cordobes-cba24ncomar",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6ab3f27fed240397dd175a56/facebook?v=2790417b541f62e57dc0c46fbc4a717e&s=4125e5eb8b8ec0a7a91d7430e409b2a9"
+  },
+  "manos-al-arroyo-vecinos-de-unquillo-vuelven-a-limpiar": {
+    "title": "Manos al arroyo: vecinos de Unquillo vuelven a limpiar",
+    "link": "https://nexofm.com.ar/manos-al-arroyo-vecinos-de-unquillo-vuelven-a-limpiar/",
+    "description": "Cuidadores del Arroyo vuelve a convocar a la comunidad para una nueva jornada de limpieza este sábado 26 de septiembre. La iniciativa nació durante la pandemia y se sostiene desde hace años. La entrada Manos al arroyo: vecinos de Unquillo vuelven a limpiar se publicó primero en NEXO FM.",
+    "pub_date": "25/09/2026",
+    "pub_date_raw": "2026-09-25T15:15:54",
+    "image": "/img/efb423129484e3e1.jpg",
+    "source_name": "Nexo FM",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "manos-al-arroyo-vecinos-de-unquillo-vuelven-a-limpiar",
+    "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/09/cuidado-arroyos-1024x1010.jpg"
   }
 }
