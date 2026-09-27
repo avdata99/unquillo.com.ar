@@ -77,11 +77,12 @@
     "description": "FPA REALIZÓ UN ALLANAMIENTO Y SECUESTRÓ ESTUPEFACIENTES EN UNQUILLO Ministerio Público Fiscal Córdoba",
     "pub_date": "26/10/2025",
     "pub_date_raw": "2025-10-26T07:00:00",
-    "image": null,
+    "image": "/img/b3c3c953331624c8.jpg",
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "fpa-realizo-un-allanamiento-y-secuestro-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordob"
+    "slug": "fpa-realizo-un-allanamiento-y-secuestro-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordob",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2025/10/1.jpeg"
   },
   "corsos-unquillo-2026-cordoba-turismo": {
     "title": "Corsos Unquillo 2026 - Córdoba Turismo",
@@ -1165,16 +1166,16 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - novacordoba.com",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50REFiZ2wwZHVPMVR1VHo5YnhyTXE3QV9qNnlXQ2lvakxMS3V3U0k0M1BMMUtubjFOUHZMOHlsVUlOZ2hPbmV1aDJfS1Y0b3BIVU81MF93UzRKTXZkMDQ0M0lSaTlXa3dYbHA3SzRJczl3SDhRWmhKdG1RSzVEZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVSjhlWmpTLUZKcndZWVlDUkpiemQzSVgtNWFvLThKYS1QeDRmZnc0VGw3WnZ5OUNJZ2haSm03SWd3N3NhWFNzbXlpRm50b25XM2dBOUNPbnRXazhMNS1GR0dXNjRpVmZKMC1LZHhSYXkwUGpZSEwtWlZVS01NZw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo novacordoba.com",
-    "pub_date": "24/09/2026",
-    "pub_date_raw": "2026-09-24T00:39:06",
+    "pub_date": "26/09/2026",
+    "pub_date_raw": "2026-09-26T15:39:46",
     "image": null,
     "source_name": "novacordoba.com",
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom",
-    "link_intentos": 3
+    "link_intentos": 1
   },
   "unquillo-celebra-la-primera-fiesta-de-la-animacion-nacional-talleres-proyecciones-y-musica-cba24n": {
     "title": "Unquillo celebra la primera Fiesta de la Animación Nacional: talleres, proyecciones y música - Cba24n",
@@ -1914,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7759,5 +7760,18 @@
     "video_id": null,
     "slug": "manos-al-arroyo-vecinos-de-unquillo-vuelven-a-limpiar",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/09/cuidado-arroyos-1024x1010.jpg"
+  },
+  "punto-53-lidera-la-expansion-de-los-parques-industriales-en-la-zona-norte-del-gran-cordoba-eldocetv": {
+    "title": "Punto 53 lidera la expansión de los parques industriales en la zona norte del Gran Córdoba - eldoce.tv",
+    "link": "https://eldoce.tv/patrocinado/punto53parquelogisticoindustrial/punto-53-lidera-la-expansion-de-los-parques-industriales-en-la-zona-norte-del-gran-cordoba/",
+    "description": "Punto 53 lidera la expansión de los parques industriales en la zona norte del Gran Córdoba eldoce.tv",
+    "pub_date": "25/09/2026",
+    "pub_date_raw": "2026-09-25T19:11:47",
+    "image": "https://eldoce.tv/resizer/v2/H5V6DFXRNNCDPKRFQMJ2BWZ55E.jpeg?auth=979d25500ea8ad67fa2c311d1e6fbb3ce7ef4fd4f9006ffb5fcd1cf28e89a0f4&amp;width=1023",
+    "source_name": "eldoce.tv",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "punto-53-lidera-la-expansion-de-los-parques-industriales-en-la-zona-norte-del-gran-cordoba-eldocetv",
+    "image_original": "https://eldoce.tv/resizer/v2/H5V6DFXRNNCDPKRFQMJ2BWZ55E.jpeg?auth=979d25500ea8ad67fa2c311d1e6fbb3ce7ef4fd4f9006ffb5fcd1cf28e89a0f4&amp;width=1023"
   }
 }
