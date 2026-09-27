@@ -842,11 +842,12 @@
     "description": "UNQUILLO: FPA CERRÓ UN PUNTO DE VENTA Y DETUVO A UN SUJETO POR COMERCIALIZACIÓN DE ESTUPEFACIENTES Ministerio Público Fiscal Córdoba",
     "pub_date": "11/02/2026",
     "pub_date_raw": "2026-02-11T08:00:00",
-    "image": null,
+    "image": "/img/b241f949bac29b5d.jpg",
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-fpa-cerro-un-punto-de-venta-y-detuvo-a-un-sujeto-por-comercializacion-de-estupefacientes-mi"
+    "slug": "unquillo-fpa-cerro-un-punto-de-venta-y-detuvo-a-un-sujeto-por-comercializacion-de-estupefacientes-mi",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-10-at-14.25.44.jpeg"
   },
   "john-wick-estaba-en-unquillo-cayo-un-hombre-con-cuatro-armas-silenciador-y-mas-de-100-cartuchos-perf": {
     "title": "John Wick estaba en Unquillo: cayó un hombre con cuatro armas, silenciador y más de 100 cartuchos - Perfil",
@@ -1904,16 +1905,16 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBROHM0Q09uOHJfUUJnbTU1bXBRakNqVkxpenpDSDVpZVJHdjF4ODhTM1kzSklXYUxuVUljMWcxS25kTVRfVHNFM200MHZETUF0TzU5LTNxV2hWSUxpMFB5U0hXazloN1VOQVVfYTJJUTd1bzZGeXFXTUxTMG5IZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVSjhlWmpTLUZKcndZWVlDUkpiemQzSVgtNWFvLThKYS1QeDRmZnc0VGw3WnZ5OUNJZ2haSm03SWd3N3NhWFNzbXlpRm50b25XM2dBOUNPbnRXazhMNS1GR0dXNjRpVmZKMC1LZHhSYXkwUGpZSEwtWlZVS01NZw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "25/09/2026",
-    "pub_date_raw": "2026-09-25T08:44:29",
+    "pub_date": "26/09/2026",
+    "pub_date_raw": "2026-09-26T15:39:46",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 1
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
