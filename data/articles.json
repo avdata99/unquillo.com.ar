@@ -1175,7 +1175,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "unquillo-celebra-la-primera-fiesta-de-la-animacion-nacional-talleres-proyecciones-y-musica-cba24n": {
     "title": "Unquillo celebra la primera Fiesta de la Animación Nacional: talleres, proyecciones y música - Cba24n",
@@ -1915,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7117,11 +7117,12 @@
     "description": "Trágico choque en Córdoba: murió una motociclista y una adolescente de 13 años resultó herida eldoce.tv",
     "pub_date": "24/08/2026",
     "pub_date_raw": "2026-08-24T07:00:00",
-    "image": null,
+    "image": "https://eldoce.tv/resizer/v2/la-muerte-se-constato-en-el-hospital-de-unquillo-ZLQYDVK3BZAERKCEB4VJ2ZXYYU.jpeg?auth=a9d3641f956989c442d82ebb74c774f36c2dabcbf2a1f046f3ef8004013fd58f&amp;width=1023",
     "source_name": "eldoce.tv",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldocet"
+    "slug": "tragico-choque-en-cordoba-murio-una-motociclista-y-una-adolescente-de-13-anos-resulto-herida-eldocet",
+    "image_original": "https://eldoce.tv/resizer/v2/la-muerte-se-constato-en-el-hospital-de-unquillo-ZLQYDVK3BZAERKCEB4VJ2ZXYYU.jpeg?auth=a9d3641f956989c442d82ebb74c774f36c2dabcbf2a1f046f3ef8004013fd58f&amp;width=1023"
   },
   "unquillo-santiago-tulian-representara-a-argentina-en-los-juegos-sudamericanos-santa-fe-2026": {
     "title": "Unquillo: Santiago Tulian representará a Argentina en los Juegos Sudamericanos Santa Fe 2026",
