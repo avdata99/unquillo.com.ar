@@ -1175,7 +1175,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-novacordobacom",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-celebra-la-primera-fiesta-de-la-animacion-nacional-talleres-proyecciones-y-musica-cba24n": {
     "title": "Unquillo celebra la primera Fiesta de la Animación Nacional: talleres, proyecciones y música - Cba24n",
@@ -1906,16 +1906,16 @@
   },
   "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba": {
     "title": "Schiaretti supervisó el final de obra en dos barrios de Unquillo - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVSjhlWmpTLUZKcndZWVlDUkpiemQzSVgtNWFvLThKYS1QeDRmZnc0VGw3WnZ5OUNJZ2haSm03SWd3N3NhWFNzbXlpRm50b25XM2dBOUNPbnRXazhMNS1GR0dXNjRpVmZKMC1LZHhSYXkwUGpZSEwtWlZVS01NZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QbXhDaVZJQzdQS1N1VFRCMTFhelJWUnNBcG15Y3BNYVgyUWJWbTZGWmZ2Q1VqNGtXdHJjU011dTZFSkthaEcxUVg5dEcwdl80OTdFZHhLOWZxY0NFYkh3T0NmV3hSS3UtWWdoRl8zSUFJc1VnM2RaTjVMekkydw?oc=5",
     "description": "Schiaretti supervisó el final de obra en dos barrios de Unquillo NOVA Córdoba",
-    "pub_date": "26/09/2026",
-    "pub_date_raw": "2026-09-26T15:39:46",
+    "pub_date": "27/09/2026",
+    "pub_date_raw": "2026-09-27T19:46:48",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 3
+    "link_intentos": 1
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7774,5 +7774,146 @@
     "video_id": null,
     "slug": "punto-53-lidera-la-expansion-de-los-parques-industriales-en-la-zona-norte-del-gran-cordoba-eldocetv",
     "image_original": "https://eldoce.tv/resizer/v2/H5V6DFXRNNCDPKRFQMJ2BWZ55E.jpeg?auth=979d25500ea8ad67fa2c311d1e6fbb3ce7ef4fd4f9006ffb5fcd1cf28e89a0f4&amp;width=1023"
+  },
+  "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas": {
+    "title": "Cayó granizo en Córdoba: Unquillo y Mendiolaza, los más afectados, y rige alerta amarilla por tormentas - Perfil",
+    "link": "https://www.perfil.com/noticias/cordoba/cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas.phtml",
+    "description": "Cayó granizo en Córdoba: Unquillo y Mendiolaza, los más afectados, y rige alerta amarilla por tormentas Perfil",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T12:40:48",
+    "image": "/img/ace42f4473c361b1.jpg",
+    "source_name": "Perfil",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas",
+    "image_original": "https://fotos.perfil.com/2026/09/28/trim/1140/641/granizada-en-cordoba-2335340.jpg"
+  },
+  "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-canal-do": {
+    "title": "Impresionante tormenta de granizo sacudió a Córdoba: hubo destrozos en Unquillo y Mendiolaza - Canal Doce Misiones",
+    "link": "https://www.canal12misiones.com/nacionales/tormenta-granizo-cordoba",
+    "description": "Impresionante tormenta de granizo sacudió a Córdoba: hubo destrozos en Unquillo y Mendiolaza Canal Doce Misiones",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T12:08:52",
+    "image": "/img/3c0ea583e32c3d08.jpg",
+    "source_name": "Canal Doce Misiones",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-canal-do",
+    "image_original": "https://www.canal12misiones.com/wp-content/uploads/2026/09/cordoba-granizo-tormenta-3.jpg"
+  },
+  "impresionante-tormenta-de-granizo-en-cordoba-con-piedras-del-tamano-de-una-mandarina-hubo-destrozos": {
+    "title": "Impresionante tormenta de granizo en Córdoba con piedras del tamaño de una mandarina: hubo destrozos en Unquillo y Mendiolaza - Clarin.com",
+    "link": "https://www.clarin.com/sociedad/impresionante-tormenta-granizo-azoto-cordoba-causo-destrozos-unquillo-mendiolaza_0_6Z0Q2rOb0d.html",
+    "description": "Impresionante tormenta de granizo en Córdoba con piedras del tamaño de una mandarina: hubo destrozos en Unquillo y Mendiolaza Clarin.com",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T11:38:50",
+    "image": "/img/ca163b531669532a.jpg",
+    "source_name": "Clarin.com",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "impresionante-tormenta-de-granizo-en-cordoba-con-piedras-del-tamano-de-una-mandarina-hubo-destrozos",
+    "image_original": "https://www.clarin.com/img/2026/09/28/idKCKev2L_2000x1500__1.jpg"
+  },
+  "fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas-pagina12": {
+    "title": "Fuerte tormenta de granizo en Córdoba: Unquillo y Mendiolaza, las ciudades más afectadas - Página|12",
+    "link": "https://www.pagina12.com.ar/2026/09/28/fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas/",
+    "description": "Fuerte tormenta de granizo en Córdoba: Unquillo y Mendiolaza, las ciudades más afectadas Página|12",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:39:07",
+    "image": "https://www.pagina12.com.ar/resizer/v2/V2VVHCYHNBGYNDM3TOX4TVY4BM.webp?smart=true&amp;auth=4df5770a5e8d2ee29e2fbf6bf1f294358e79a544141bb0c3e1b3b4247d508928&amp;width=1200&amp;height=630",
+    "source_name": "Página|12",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas-pagina12",
+    "image_original": "https://www.pagina12.com.ar/resizer/v2/V2VVHCYHNBGYNDM3TOX4TVY4BM.webp?smart=true&amp;auth=4df5770a5e8d2ee29e2fbf6bf1f294358e79a544141bb0c3e1b3b4247d508928&amp;width=1200&amp;height=630"
+  },
+  "granizo-de-gran-tamano-causo-destrozos-en-unquillo-asi-quedaron-los-autos-tras-la-tormenta-telediari": {
+    "title": "Granizo de gran tamaño causó destrozos en Unquillo: así quedaron los autos tras la tormenta - telediariodigital.com.ar",
+    "link": "https://www.telediariodigital.com.ar/post/granizo-de-gran-tama%C3%B1o-caus%C3%B3-destrozos-en-unquillo-as%C3%AD-quedaron-los-autos-tras-la-tormenta",
+    "description": "Granizo de gran tamaño causó destrozos en Unquillo: así quedaron los autos tras la tormenta telediariodigital.com.ar",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T11:35:15",
+    "image": null,
+    "source_name": "telediariodigital.com.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "granizo-de-gran-tamano-causo-destrozos-en-unquillo-asi-quedaron-los-autos-tras-la-tormenta-telediari"
+  },
+  "record-en-cordoba-peso-un-granizo-y-el-resultado-fue-impactante-eldocetv": {
+    "title": "¿Récord en Córdoba? Pesó un granizo y el resultado fue impactante - ElDoce.tv",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWNSVDZhbEFmVXBjN0twMmY4dEN0ck1zTERHU0c1Q21GMXBQSjFSbXJKUnU2ZjkzUGhMTVFmMlBmQVZEVURGZGlzdkpwVm5tODZOaXRFYmxsUzBhX2RreWt1bU0zakVxZHdzOEtCSFgyelBKUUZfeE5PM1N0eUNoWHRsT2d1cXlfbzYydlotaVh2aWtsZlVTbHNLSDdaRi1KVFFvOFJsREZxVDU3a1dESzQ5UnAxNk9SeWRJ0gG7AUFVX3lxTE95Y1JUNmFsQWZVcGM3S3AyZjh0Q3RyTXNMREdTRzVDbUYxcFBKMVJtckpSdTZmOTNQaExNUWYyUGZBVkRVREZkaXN2SnBWbm04Nk5pdEVibGxTMGFfZGt5a3VtTTNqRXFkd3M4S0JIWDJ6UEpRRl94Tk8zU3R5Q2hYdGxPZ3VxeV9vNjJ2Wi1pWHZpa2xmVVNsc0tIN1pGLUpUUW84UmxERnFUNTdrV0RLNDlScDE2T1J5ZEk?oc=5",
+    "description": "¿Récord en Córdoba? Pesó un granizo y el resultado fue impactante ElDoce.tv",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:03:05",
+    "image": null,
+    "source_name": "ElDoce.tv",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "record-en-cordoba-peso-un-granizo-y-el-resultado-fue-impactante-eldocetv",
+    "link_intentos": 1
+  },
+  "granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla-infobae": {
+    "title": "Granizo, destrozos y fuertes lluvias en Córdoba: rige una alerta amarilla - Infobae",
+    "link": "https://www.infobae.com/sociedad/2026/09/28/granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla/",
+    "description": "Granizo, destrozos y fuertes lluvias en Córdoba: rige una alerta amarilla Infobae",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:15:49",
+    "image": "https://www.infobae.com/resizer/v2/3YAEOYV255G7LACVTV5YNC2R3A.jpg?auth=3bf05d3af72a0caf71ac1623d576460641dadb29fda5c23be7826b3aadaca939&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+    "source_name": "Infobae",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla-infobae",
+    "image_original": "https://www.infobae.com/resizer/v2/3YAEOYV255G7LACVTV5YNC2R3A.jpg?auth=3bf05d3af72a0caf71ac1623d576460641dadb29fda5c23be7826b3aadaca939&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85"
+  },
+  "unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-telefe-cordoba": {
+    "title": "Unquillo sufrió un intenso granizo que dejó destrozos, cortes de luz y aves muertas - Telefe Córdoba",
+    "link": "https://cordoba.mitelefe.com/cordoba/unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-pid2567795",
+    "description": "Unquillo sufrió un intenso granizo que dejó destrozos, cortes de luz y aves muertas Telefe Córdoba",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:53:32",
+    "image": "/img/6004704954b11f9c.jpg",
+    "source_name": "Telefe Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-telefe-cordoba",
+    "image_original": "https://cordoba.mitelefe.com/media/cache/post16x9/2026/09/Copia-de-Copia-de-Copia-de-Copia-de-Ansiedad-por-el-futuro-en-jovenes-45-6aba8d7c34fe5.jpg"
+  },
+  "fuerte-tormenta-en-cordoba-cayo-granizo-del-tamano-de-una-pelota-de-golf-el-litoral": {
+    "title": "Fuerte tormenta en Córdoba: cayó granizo del tamaño de una pelota de golf - El Litoral",
+    "link": "https://www.ellitoral.com/informacion-general/cordoba-granizo-alertaamarilla-tormenta-unquillo-viviendas-danos-inestabilidad-serviciometeorologiconacional-video_0_Jc0LFLTf9G.html",
+    "description": "Fuerte tormenta en Córdoba: cayó granizo del tamaño de una pelota de golf El Litoral",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T12:42:19",
+    "image": "/img/fea247774cbe5baf.jpg",
+    "source_name": "El Litoral",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "fuerte-tormenta-en-cordoba-cayo-granizo-del-tamano-de-una-pelota-de-golf-el-litoral",
+    "image_original": "https://www.ellitoral.com/images/2026/09/28/5TYuNPxSQ_1300x655__1.jpg"
+  },
+  "temporal-en-cordoba-impresionante-tormenta-de-granizo-causo-graves-destrozos-en-unquillo-y-mendiolaz": {
+    "title": "Temporal en Córdoba: impresionante tormenta de granizo causó graves destrozos en Unquillo y Mendiolaza - Los Primeros TV",
+    "link": "https://www.losprimeros.tv/actualidad/temporal-en-cordoba--impresionante-tormenta-de-granizo-causo-graves-destrozos-en-unquillo-y-mendiolaza_a6aba46ad5660902efa33426b",
+    "description": "Temporal en Córdoba: impresionante tormenta de granizo causó graves destrozos en Unquillo y Mendiolaza Los Primeros TV",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T10:53:26",
+    "image": "/img/b926a32d8b6f7983.jpg",
+    "source_name": "Los Primeros TV",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "temporal-en-cordoba-impresionante-tormenta-de-granizo-causo-graves-destrozos-en-unquillo-y-mendiolaz",
+    "image_original": "https://flex-app.tadevel-cdn.com/hostname/www.losprimeros.tv/api/v1/image/article/6aba46ad5660902efa33426b/facebook?v=2800be1a9731d1b8a9a6ea6dcba6d41c&s=d3917938ee54f6f761d27d6fb1e2c8d3"
+  },
+  "impresionante-caida-de-granizo-en-cordoba-destrozos-por-la-fuerte-tormenta": {
+    "title": "Impresionante caída de granizo en Córdoba: destrozos por la fuerte tormenta",
+    "link": "https://www.youtube.com/shorts/3adhpGzLcz0",
+    "description": "La tormenta continúa durante la mañana y el granizo provocó daños en distintos sectores de la provincia. Mendiolaza, Unquillo, Alicia y Alta Córdoba, entre las zonas afectadas. ▶️ Si todavía no lo hiciste, SUSCRIBITE: https://youtube.com/eldoce ✅ Informate en nuestra web y seguinos en las redes: → WEB: https://www.eldoce.tv → INSTAGRAM: https://www.instagram.com/eldocetv/ → FACEBOOK: https://www.facebook.com/eldocetv → X: https://www.x.com/eldoceoficial → TIKTOK: https://www.tiktok.com/@eldocetv",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:49:54",
+    "image": "https://i4.ytimg.com/vi/3adhpGzLcz0/hqdefault.jpg",
+    "source_name": "eldoce",
+    "source_type": "youtube",
+    "video_id": "3adhpGzLcz0",
+    "slug": "impresionante-caida-de-granizo-en-cordoba-destrozos-por-la-fuerte-tormenta"
   }
 }
