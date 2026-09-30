@@ -1915,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7990,7 +7990,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "la-provincia-coordina-asistencia-para-familias-afectadas-por-el-temporal-en-unquillo-y-ciudad-de-cor",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "tormenta-de-granizo-causo-graves-destrozos-en-unquillo-y-mendiolaza-la-voz-de-san-justo": {
     "title": "Tormenta de granizo causó graves destrozos en Unquillo y Mendiolaza - La Voz de San Justo",
@@ -8106,7 +8106,7 @@
     "link": "https://cordobainteriorinforma.com/2026/09/29/provincia-asiste-a-familias-de-unquillo-afectadas-por-el-temporal-de-ayer/",
     "description": "Provincia asiste a familias de Unquillo afectadas por el temporal de ayer | Córdoba Interior Informa",
     "pub_date": "29/09/2026",
-    "pub_date_raw": "2026-09-29T12:19:56",
+    "pub_date_raw": "2026-09-29T12:22:03",
     "image": "/img/c9e654b9a4d0940f.jpg",
     "source_name": "Córdoba Interior Informa",
     "source_type": "google_news",
@@ -8151,5 +8151,94 @@
     "source_type": "youtube",
     "video_id": "Ol65nQlHgYI",
     "slug": "unquillo-fuerte-tormenta-de-granizo-causo-destrozos-y-la-provincia-asistio-a-las-familias"
+  },
+  "unquillo-el-municipio-realiza-trabajos-de-mantenimiento-y-recuperacion-tras-la-tormenta": {
+    "title": "UNQUILLO: EL MUNICIPIO REALIZA TRABAJOS DE MANTENIMIENTO Y RECUPERACIÓN TRAS LA TORMENTA",
+    "link": "https://unquillo.gov.ar/unquillo-el-municipio-realiza-trabajos-de-mantenimiento-y-recuperacion-tras-la-tormenta/",
+    "description": "Desde los momentos posteriores a la caída de granizo en la mañana del lunes 28 de septiembre, las diferentes áreas de la Municipalidad de Unquillo se encuentran trabajando para responder a la situación ocasionada por las condiciones climáticas recientes.",
+    "pub_date": "30/09/2026",
+    "pub_date_raw": "2026-09-30T00:01:52",
+    "image": "/img/9ddd4e4256dd4787.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "unquillo-el-municipio-realiza-trabajos-de-mantenimiento-y-recuperacion-tras-la-tormenta",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/09/IMG_20260928_105301506-1024x576.jpg"
+  },
+  "fenomeno-el-nino-unquillo-se-prepara": {
+    "title": "FENÓMENO EL NIÑO: UNQUILLO SE PREPARA",
+    "link": "https://unquillo.gov.ar/fenomeno-el-nino-unquillo-se-prepara/",
+    "description": "Ante la posible llegada del fenómeno climático El Niño durante esta primavera y verano, la Municipalidad de Unquillo lleva adelante un conjunto de obras, tareas de mantenimiento y acciones preventivas, al tiempo que profundiza la planificación de medidas de contingencia para acompañar a la comunidad ante eventuales situaciones climáticas adversas.",
+    "pub_date": "18/09/2026",
+    "pub_date_raw": "2026-09-18T00:06:28",
+    "image": "/img/fe6270539934b69e.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "fenomeno-el-nino-unquillo-se-prepara",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/09/Nino-2026-prevencion-1024x576.png"
+  },
+  "unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-cordobamitelefeco": {
+    "title": "Unquillo sufrió un intenso granizo que dejó destrozos, cortes de luz y aves muertas - cordoba.mitelefe.com",
+    "link": "https://cordoba.mitelefe.com/cordoba/unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-pid2567795",
+    "description": "Unquillo sufrió un intenso granizo que dejó destrozos, cortes de luz y aves muertas cordoba.mitelefe.com",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T15:53:32",
+    "image": "/img/6004704954b11f9c.jpg",
+    "source_name": "cordoba.mitelefe.com",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-sufrio-un-intenso-granizo-que-dejo-destrozos-cortes-de-luz-y-aves-muertas-cordobamitelefeco",
+    "image_original": "https://cordoba.mitelefe.com/media/cache/post16x9/2026/09/Copia-de-Copia-de-Copia-de-Copia-de-Ansiedad-por-el-futuro-en-jovenes-45-6aba8d7c34fe5.jpg"
+  },
+  "un-pitbull-ataco-a-una-jubilada-y-los-vecinos-tuvieron-que-apunalarlo-la-gaceta": {
+    "title": "Un pitbull atacó a una jubilada y los vecinos tuvieron que apuñalarlo - La Gaceta",
+    "link": "https://www.lagaceta.com.ar/nota/1156085/sociedad/pitbull-ataco-jubilada-vecinos-tuvieron-apunalarlo.html",
+    "description": "Un pitbull atacó a una jubilada y los vecinos tuvieron que apuñalarlo La Gaceta",
+    "pub_date": "29/09/2026",
+    "pub_date_raw": "2026-09-29T01:14:33",
+    "image": "/img/f42318a8b8294ddf.jpg",
+    "source_name": "La Gaceta",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "un-pitbull-ataco-a-una-jubilada-y-los-vecinos-tuvieron-que-apunalarlo-la-gaceta",
+    "image_original": "https://img.lagaceta.com.ar/fotos/notas/2023/10/10/1009380_202310092312520000002.jpg"
+  },
+  "una-fuerte-granizada-azoto-unquillo-y-dejo-autos-destrozados-y-graves-danos-en-viviendas-cordobamite": {
+    "title": "Una fuerte granizada azotó Unquillo y dejó autos destrozados y graves daños en viviendas - cordoba.mitelefe.com",
+    "link": "https://cordoba.mitelefe.com/cordoba/una-fuerte-granizada-azoto-unquillo-y-dejo-autos-destrozados-y-graves-danos-en-viviendas-pid2567819",
+    "description": "Una fuerte granizada azotó Unquillo y dejó autos destrozados y graves daños en viviendas cordoba.mitelefe.com",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T19:32:04",
+    "image": "/img/d77622eda8c879e4.jpg",
+    "source_name": "cordoba.mitelefe.com",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "una-fuerte-granizada-azoto-unquillo-y-dejo-autos-destrozados-y-graves-danos-en-viviendas-cordobamite",
+    "image_original": "https://cordoba.mitelefe.com/media/cache/post16x9/2026/09/WhatsApp-Image-2026-09-28-at-2-12-03-PM-1-6abac0b449f8b.jpg"
+  },
+  "el-dia-despues-del-granizo-en-unquillo": {
+    "title": "El día después del granizo en Unquillo",
+    "link": "https://www.youtube.com/watch?v=UBeJNXcKE1w",
+    "description": "👀 Mirá toda nuestra programación en vivo desde nuestra web https://cordoba.mitelefe.com/vivo 👉 Seguinos en nuestras Redes Sociales 📲 ▶ YOUTUBE - https://www.youtube.com/channel/UC3OQ66wEJaOPHK25IBdWR_g?sub_confirmation=1 ✅ ▶ FACEBOOK - https://www.facebook.com/telefecordoba ✅ ▶ INSTAGRAM - https://www.instagram.com/telefecordo... ✅ ▶ TWITTER - https://twitter.com/telefecordoba ✅ ▶ WEB - https://cordoba.telefe.com/ ✅ -------------------------------------------------------------------------------- Envianos fotos y videos vía WhatsApp al 3517338888 #TelefeCordoba #Córdoba #Noticias",
+    "pub_date": "29/09/2026",
+    "pub_date_raw": "2026-09-29T19:23:22",
+    "image": "https://i2.ytimg.com/vi/UBeJNXcKE1w/hqdefault.jpg",
+    "source_name": "Telefe Córdoba",
+    "source_type": "youtube",
+    "video_id": "UBeJNXcKE1w",
+    "slug": "el-dia-despues-del-granizo-en-unquillo"
+  },
+  "pitbull-ataco-a-una-jubilada-y-vecinos-relataron-el-dramatico-rescate-era-el-perro-o-juanita": {
+    "title": "PITBULL ATACÓ a una JUBILADA y vecinos relataron el DRAMÁTICO RESCATE: “Era el perro o Juanita”",
+    "link": "https://www.youtube.com/watch?v=u4wlLdKFhyU",
+    "description": "Una mujer de 82 años resultó gravemente herida después de ser atacada por un pitbull en barrio Lomas Sur, Villa Allende. La jubilada sufrió lesiones en las piernas y fracturas y fue trasladada al hospital de Unquillo, donde permanece bajo atención médica. Vecinos intervinieron para detener el ataque y, durante el rescate, hirieron al animal con un arma blanca. En #TelenocheCórdoba, habitantes del sector aseguraron que ya habían realizado denuncias por el perro. “Escuché un grito y salí, ya me imaginaba que era el perro”, relató una vecina. Otro resumió la desesperación del momento: “Era el perro o Juanita”. Momento emitido en Telenoche el 29 de septiembre de 2026 ▶️ Si todavía no lo hiciste, SUSCRIBITE: https://youtube.com/eldoce ✅ Informate en nuestra web y seguinos en las redes: → WEB: https://www.eldoce.tv → INSTAGRAM: https://www.instagram.com/eldocetv/ → FACEBOOK: https://www.facebook.com/eldocetv → X: https://www.x.com/eldoceoficial → TIKTOK: https://www.tiktok.com/@eldocetv",
+    "pub_date": "30/09/2026",
+    "pub_date_raw": "2026-09-30T00:20:02",
+    "image": "https://i2.ytimg.com/vi/u4wlLdKFhyU/hqdefault.jpg",
+    "source_name": "eldoce",
+    "source_type": "youtube",
+    "video_id": "u4wlLdKFhyU",
+    "slug": "pitbull-ataco-a-una-jubilada-y-vecinos-relataron-el-dramatico-rescate-era-el-perro-o-juanita"
   }
 }
