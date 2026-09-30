@@ -1915,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -7781,11 +7781,12 @@
     "description": "Cayó granizo en Córdoba: Unquillo y Mendiolaza, los más afectados, y rige alerta amarilla por tormentas Perfil",
     "pub_date": "28/09/2026",
     "pub_date_raw": "2026-09-28T12:47:54",
-    "image": null,
+    "image": "/img/ace42f4473c361b1.jpg",
     "source_name": "Perfil",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas"
+    "slug": "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas",
+    "image_original": "https://fotos.perfil.com/2026/09/28/trim/1140/641/granizada-en-cordoba-2335340.jpg"
   },
   "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-canal-do": {
     "title": "Impresionante tormenta de granizo sacudió a Córdoba: hubo destrozos en Unquillo y Mendiolaza - Canal Doce Misiones",
@@ -7818,7 +7819,7 @@
     "link": "https://www.pagina12.com.ar/2026/09/28/fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas/",
     "description": "Fuerte tormenta de granizo en Córdoba: Unquillo y Mendiolaza, las ciudades más afectadas Página|12",
     "pub_date": "28/09/2026",
-    "pub_date_raw": "2026-09-28T15:39:07",
+    "pub_date_raw": "2026-09-28T15:40:31",
     "image": "https://www.pagina12.com.ar/resizer/v2/V2VVHCYHNBGYNDM3TOX4TVY4BM.webp?smart=true&amp;auth=4df5770a5e8d2ee29e2fbf6bf1f294358e79a544141bb0c3e1b3b4247d508928&amp;width=1200&amp;height=630",
     "source_name": "Página|12",
     "source_type": "google_news",
@@ -8196,7 +8197,7 @@
     "link": "https://www.lagaceta.com.ar/nota/1156085/sociedad/pitbull-ataco-jubilada-vecinos-tuvieron-apunalarlo.html",
     "description": "Un pitbull atacó a una jubilada y los vecinos tuvieron que apuñalarlo La Gaceta",
     "pub_date": "29/09/2026",
-    "pub_date_raw": "2026-09-29T01:14:33",
+    "pub_date_raw": "2026-09-29T23:43:48",
     "image": "/img/f42318a8b8294ddf.jpg",
     "source_name": "La Gaceta",
     "source_type": "google_news",
@@ -8240,5 +8241,31 @@
     "source_type": "youtube",
     "video_id": "u4wlLdKFhyU",
     "slug": "pitbull-ataco-a-una-jubilada-y-vecinos-relataron-el-dramatico-rescate-era-el-perro-o-juanita"
+  },
+  "la-piedra-cayo-en-seco-testimonios-de-la-impresionante-granizada-que-golpeo-a-varias-ciudades-cordob": {
+    "title": "“La piedra cayó en seco”: testimonios de la impresionante granizada que golpeó a varias ciudades cordobesas - La Voz del Interior",
+    "link": "https://www.lavoz.com.ar/ciudadanos/cordoba-granizo-tormenta-piedra-pedrada-mendiolaza-unquillo_0_CKSFMGq2Ez.html",
+    "description": "“La piedra cayó en seco”: testimonios de la impresionante granizada que golpeó a varias ciudades cordobesas La Voz del Interior",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T20:07:07",
+    "image": "/img/46b8006a82d4331c.jpg",
+    "source_name": "La Voz del Interior",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "la-piedra-cayo-en-seco-testimonios-de-la-impresionante-granizada-que-golpeo-a-varias-ciudades-cordob",
+    "image_original": "https://www.lavoz.com.ar/2026/09/28/e8yxOtKsmO_1300x867.jpg"
+  },
+  "temporal-en-cordoba-coordinan-asistencia-a-familias-afectadas-en-unquillo-y-capital-pagina12": {
+    "title": "Temporal en Córdoba: coordinan asistencia a familias afectadas en Unquillo y Capital - Página|12",
+    "link": "https://www.pagina12.com.ar/2026/09/29/temporal-en-cordoba-coordinan-asistencia-a-familias-afectadas-en-unquillo-y-capital/",
+    "description": "Temporal en Córdoba: coordinan asistencia a familias afectadas en Unquillo y Capital Página|12",
+    "pub_date": "29/09/2026",
+    "pub_date_raw": "2026-09-29T12:43:54",
+    "image": "https://www.pagina12.com.ar/resizer/v2/K47BSY7Z3ZCP7JOICJXD7PS2IY.jpg?smart=true&amp;auth=7e069cb85d847902400cd2a6b6c09e5555a5cd8e551e4aead799cc7736079f31&amp;width=1200&amp;height=630",
+    "source_name": "Página|12",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "temporal-en-cordoba-coordinan-asistencia-a-familias-afectadas-en-unquillo-y-capital-pagina12",
+    "image_original": "https://www.pagina12.com.ar/resizer/v2/K47BSY7Z3ZCP7JOICJXD7PS2IY.jpg?smart=true&amp;auth=7e069cb85d847902400cd2a6b6c09e5555a5cd8e551e4aead799cc7736079f31&amp;width=1200&amp;height=630"
   }
 }
