@@ -2857,7 +2857,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-recorrio-en-unquillo-la-obra-de-pavimentacion-de-la-ruta-provincial-s-441-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-fundacion-mil-aves-repudio-el-ataque-a-las-lechuzas-en-las-corzuelas": {
     "title": "Unquillo: Fundación Mil Aves repudió el ataque a las lechuzas en Las Corzuelas",
@@ -8292,5 +8292,31 @@
     "video_id": null,
     "slug": "provincia-asiste-a-familias-de-unquillo-afectadas-por-el-temporal-de-ayer-cordobainteriorinformacom",
     "image_original": "https://img.cordobainteriorinforma.com/2026/09/unquillo-1.jpg"
+  },
+  "agenda-del-finde-viernes-2-al-domingo-4-de-octubre": {
+    "title": "AGENDA DEL FINDE: VIERNES 2 AL DOMINGO 4 DE OCTUBRE",
+    "link": "https://unquillo.gov.ar/agenda-del-finde-viernes-2-al-domingo-4-de-octubre-2026/",
+    "description": "El primer fin de semana de octubre en Unquillo abre con la Milonga recibiendo a los artistas Natalia Gigena y Héctor Tortosa. El sábado tendrá senderismo mixto en la Reserva Los Quebrachitos y por la tarde Paseo de Artesanos. Además, muestras en museos municipales, Camino de Artesanos y Cine Teatro Municipal.",
+    "pub_date": "02/10/2026",
+    "pub_date_raw": "2026-10-02T12:14:46",
+    "image": "/img/e8cf038110dfbdff.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "agenda-del-finde-viernes-2-al-domingo-4-de-octubre",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/Amalia-Antoni_Dialogos-internos-1024x576.png"
+  },
+  "tras-la-tormenta-asisten-a-familias-afectadas-en-cordoba-y-unquillo-eldiariodecarlospazcomar": {
+    "title": "Tras la tormenta, asisten a familias afectadas en Córdoba y Unquillo - eldiariodecarlospaz.com.ar",
+    "link": "https://www.eldiariodecarlospaz.com.ar/sucesos/2026/9/28/tras-la-fuerte-tormenta-asisten-a-familias-afectadas-en-cordoba-y-unquillo-260821.html",
+    "description": "Tras la tormenta, asisten a familias afectadas en Córdoba y Unquillo eldiariodecarlospaz.com.ar",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T22:20:00",
+    "image": "/img/0abbe7e6615a3fa1.jpg",
+    "source_name": "eldiariodecarlospaz.com.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "tras-la-tormenta-asisten-a-familias-afectadas-en-cordoba-y-unquillo-eldiariodecarlospazcomar",
+    "image_original": "https://img.eldiariodecarlospaz.com.ar/fkNfWdGX3yUxJiji0R-NEXhxcxdP8Z-GOxKUCQmGroU/rs:fill:1200:630:0/g:fp:0.5:0.5/f:jpg/aHR0cHM6Ly9hc3NldHMuZWxkaWFyaW9kZWNhcmxvc3Bhei5jb20uYXIvaW1nLzE3OTA2MzM5Nzg2NTktYmlkMGZoLnBuZw"
   }
 }
