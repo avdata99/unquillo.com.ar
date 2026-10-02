@@ -1915,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -2857,7 +2857,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-recorrio-en-unquillo-la-obra-de-pavimentacion-de-la-ruta-provincial-s-441-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "unquillo-fundacion-mil-aves-repudio-el-ataque-a-las-lechuzas-en-las-corzuelas": {
     "title": "Unquillo: Fundación Mil Aves repudió el ataque a las lechuzas en Las Corzuelas",
@@ -8279,5 +8279,18 @@
     "source_type": "youtube",
     "video_id": "C5TSCDrDUBo",
     "slug": "ataque-de-un-pitbull-en-villa-allende-una-mujer-de-74-anos-esta-grave"
+  },
+  "provincia-asiste-a-familias-de-unquillo-afectadas-por-el-temporal-de-ayer-cordobainteriorinformacom": {
+    "title": "Provincia asiste a familias de Unquillo afectadas por el temporal de ayer | - cordobainteriorinforma.com",
+    "link": "https://cordobainteriorinforma.com/2026/09/29/provincia-asiste-a-familias-de-unquillo-afectadas-por-el-temporal-de-ayer/",
+    "description": "Provincia asiste a familias de Unquillo afectadas por el temporal de ayer | cordobainteriorinforma.com",
+    "pub_date": "29/09/2026",
+    "pub_date_raw": "2026-09-29T12:22:03",
+    "image": "/img/c9e654b9a4d0940f.jpg",
+    "source_name": "cordobainteriorinforma.com",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "provincia-asiste-a-familias-de-unquillo-afectadas-por-el-temporal-de-ayer-cordobainteriorinformacom",
+    "image_original": "https://img.cordobainteriorinforma.com/2026/09/unquillo-1.jpg"
   }
 }
