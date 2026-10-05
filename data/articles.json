@@ -1555,7 +1555,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-recorrio-en-unquillo-la-obra-de-pavimentacion-de-la-ruta-provincial-s-441-novacordobacom",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-convocantes-corsos-de-unquillo-cordobainteriorinformacom": {
     "title": "Comienzan los convocantes Corsos de Unquillo - cordobainteriorinforma.com",
@@ -8369,5 +8369,17 @@
     "video_id": null,
     "slug": "un-pitbull-ataco-a-una-jubilada-y-los-vecinos-tuvieron-que-apunalarlo-lagacetacomar",
     "image_original": "https://img.lagaceta.com.ar/fotos/notas/2023/10/10/1009380_202310092312520000002.jpg"
+  },
+  "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-multimed": {
+    "title": "Impresionante tormenta de granizo sacudió a Córdoba: hubo destrozos en Unquillo y Mendiolaza - multimediosgenesis.com.ar",
+    "link": "https://multimediosgenesis.com.ar/articulo/2026/09/impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza.php",
+    "description": "Impresionante tormenta de granizo sacudió a Córdoba: hubo destrozos en Unquillo y Mendiolaza multimediosgenesis.com.ar",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T14:18:00",
+    "image": null,
+    "source_name": "multimediosgenesis.com.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-multimed"
   }
 }
