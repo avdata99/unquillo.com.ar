@@ -1915,7 +1915,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "schiaretti-superviso-el-final-de-obra-en-dos-barrios-de-unquillo-nova-cordoba",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "comienzan-los-talleres-de-la-escuela-municipal-de-artes-de-carnaval-2026": {
     "title": "COMIENZAN LOS TALLERES DE LA ESCUELA MUNICIPAL DE ARTES DE CARNAVAL 2026",
@@ -6565,11 +6565,12 @@
     "description": "Violento asalto tras una peña en Unquillo: ataron a empleados y se robaron la recaudación Cadena 3 Argentina",
     "pub_date": "27/07/2026",
     "pub_date_raw": "2026-07-27T07:00:00",
-    "image": null,
+    "image": "/img/5c114cc23f63e761.jpg",
     "source_name": "Cadena 3 Argentina",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "violento-asalto-tras-una-pena-en-unquillo-ataron-a-empleados-y-se-robaron-la-recaudacion-cadena-3-ar"
+    "slug": "violento-asalto-tras-una-pena-en-unquillo-ataron-a-empleados-y-se-robaron-la-recaudacion-cadena-3-ar",
+    "image_original": "https://images-tools.cadena3.com/tools/r/62b8f531-0f73-45ad-a19c-e0988fe0dc71.jpg?width=1200&height=738"
   },
   "unquillo-realizaran-un-ciclo-de-cine-debate-con-observacion-del-cielo-en-casa-29": {
     "title": "Unquillo: realizarán un ciclo de cine debate con observación del cielo en Casa 29",
@@ -8395,5 +8396,31 @@
     "video_id": null,
     "slug": "a-una-semana-del-granizo-vecinos-de-unquillo-reclaman-respuestas-del-municipio",
     "image_original": "https://infosierras.com/wp-content/uploads/2026/10/Techo-danado-por-granizo-unquillo.png"
+  },
+  "quedo-inaugurada-la-nueva-sede-de-la-sala-cuna-de-villa-forchieri": {
+    "title": "QUEDÓ INAUGURADA LA NUEVA SEDE DE LA SALA CUNA DE VILLA FORCHIERI",
+    "link": "https://unquillo.gov.ar/quedo-inaugurada-la-nueva-sede-de-la-sala-cuna-de-villa-forchieri/",
+    "description": "El edificio fue adquirido con fondos municipales y remodelado completamente con el propósito de brindar a las infancias y sus familias un espacio adecuado a sus necesidades de desarrollo. El intendente Guillermo Valli resaltó que tras 40 años de funcionamiento, ahora la institución cuenta con edificio propio.",
+    "pub_date": "09/10/2026",
+    "pub_date_raw": "2026-10-09T15:46:50",
+    "image": "/img/0a9df246b77cfbb0.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "quedo-inaugurada-la-nueva-sede-de-la-sala-cuna-de-villa-forchieri",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/Sala-Cuna-Forchieri-Unquillo-2026-1024x576.png"
+  },
+  "agenda-del-finde-viernes-9-al-lunes-12-de-octubre": {
+    "title": "AGENDA DEL FINDE: VIERNES 9 AL LUNES 12 DE OCTUBRE",
+    "link": "https://unquillo.gov.ar/agenda-del-finde-viernes-9-al-lunes-12-de-octubre-2026/",
+    "description": "Este fin de semana en Unquillo comienza con música y baile de la mano del Antigalazo en Museo Spilimbergo y la Milonga a Cielo Abierto. El sábado, un nuevo encuentro de adolescentes dibujantes y Paseo de Artesanos en el Parque Integrador. Además, Camino de Artesanos, actividades en museos y cartelera renovada en el Cine Teatro.",
+    "pub_date": "09/10/2026",
+    "pub_date_raw": "2026-10-09T13:08:56",
+    "image": "/img/e8cf038110dfbdff.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "agenda-del-finde-viernes-9-al-lunes-12-de-octubre",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/Amalia-Antoni_Dialogos-internos-1024x576.png"
   }
 }
