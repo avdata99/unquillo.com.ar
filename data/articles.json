@@ -1430,7 +1430,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
-    "link_intentos": 1
+    "link_intentos": 2
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -8422,5 +8422,18 @@
     "video_id": null,
     "slug": "agenda-del-finde-viernes-9-al-lunes-12-de-octubre",
     "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/Amalia-Antoni_Dialogos-internos-1024x576.png"
+  },
+  "estudiantina-unquillo-diez-anos-fortaleciendo-la-construccion-colectiva": {
+    "title": "ESTUDIANTINA UNQUILLO: DIEZ AÑOS FORTALECIENDO LA CONSTRUCCIÓN COLECTIVA",
+    "link": "https://unquillo.gov.ar/estudiantina-unquillo-diez-anos-fortaleciendo-la-construccion-colectiva/",
+    "description": "La Municipalidad de Unquillo conmemoró los diez años de la creación de la Mesa de Organización Conjunta de la Estudiantina con un encuentro en el Cine Teatro Municipal, en el que se reconoció a las instituciones educativas que forman parte de esta historia y se presentó el documental que recorre una década de construcción colectiva.",
+    "pub_date": "09/10/2026",
+    "pub_date_raw": "2026-10-09T18:00:22",
+    "image": "/img/8730139fe445f5d7.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "estudiantina-unquillo-diez-anos-fortaleciendo-la-construccion-colectiva",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/20261007_095559-1024x461.jpg"
   }
 }
