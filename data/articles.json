@@ -1430,7 +1430,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -8435,5 +8435,56 @@
     "video_id": null,
     "slug": "estudiantina-unquillo-diez-anos-fortaleciendo-la-construccion-colectiva",
     "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/20261007_095559-1024x461.jpg"
+  },
+  "fenomeno-el-nino-asistencia-a-familias-afectadas-por-el-granizo": {
+    "title": "FENÓMENO EL NIÑO: ASISTENCIA A FAMILIAS AFECTADAS POR EL GRANIZO",
+    "link": "https://unquillo.gov.ar/fenomeno-el-nino-asistencia-a-familias-afectadas-por-el-granizo/",
+    "description": "La Municipalidad de Unquillo continúa trabajando en la atención de las familias afectadas por el fuerte granizo registrado el lunes […]",
+    "pub_date": "10/10/2026",
+    "pub_date_raw": "2026-10-10T18:12:59",
+    "image": "/img/77ffb021d147ed95.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "fenomeno-el-nino-asistencia-a-familias-afectadas-por-el-granizo",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/IMG_6849-2-scaled-e1791655653236-1024x594.jpg"
+  },
+  "estudiantina-unquillo-a-10-anos-de-la-creacion-de-la-mesa-de-organizacion-conjunta": {
+    "title": "Estudiantina Unquillo: A 10 años de la creación de la Mesa de Organización Conjunta",
+    "link": "https://www.youtube.com/watch?v=V63VoOHlD4k",
+    "description": "En la edición 2026 de la Estudiantina Unquillo, conmemoramos los 10 años de la Mesa de Organización Conjunta. En este video, realizamos un recorrido de lo vivido en esta década, destacando la importancia del trabajo conjunto entre el municipio y las comunidades educativas, y poniendo en valor el rol activo de las juventudes en esta fiesta que año a año se consolida en base a la construcción colectiva, el ejercicio de ciudadanía y los vínculos intergeneracionales.",
+    "pub_date": "10/10/2026",
+    "pub_date_raw": "2026-10-10T18:42:03",
+    "image": "https://i3.ytimg.com/vi/V63VoOHlD4k/hqdefault.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "youtube",
+    "video_id": "V63VoOHlD4k",
+    "slug": "estudiantina-unquillo-a-10-anos-de-la-creacion-de-la-mesa-de-organizacion-conjunta"
+  },
+  "unquillo-recibira-en-noviembre-el-festival-mercado-53-cordoba-interior-informa": {
+    "title": "Unquillo recibirá en noviembre el Festival Mercado 53 | - Córdoba Interior Informa",
+    "link": "https://cordobainteriorinforma.com/2026/10/10/unquillo-recibira-en-noviembre-el-festival-mercado-53/",
+    "description": "Unquillo recibirá en noviembre el Festival Mercado 53 | Córdoba Interior Informa",
+    "pub_date": "10/10/2026",
+    "pub_date_raw": "2026-10-10T20:45:57",
+    "image": "/img/ac4f6c79311e9f36.jpg",
+    "source_name": "Córdoba Interior Informa",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-recibira-en-noviembre-el-festival-mercado-53-cordoba-interior-informa",
+    "image_original": "https://img.cordobainteriorinforma.com/2026/10/carla.jpg"
+  },
+  "impresionante-tormenta-de-granizo-causo-destrozos-en-cordoba-se-mantiene-la-alerta-amarilla-la-voz-d": {
+    "title": "Impresionante tormenta de granizo causó destrozos en Córdoba: se mantiene la alerta amarilla - La Voz del Interior",
+    "link": "https://www.lavoz.com.ar/ciudadanos/impresionante-tormenta-granizo-causo-graves-destrozos-unquillo-mendiolaza_0_OEJDjBqPcB.html",
+    "description": "Impresionante tormenta de granizo causó destrozos en Córdoba: se mantiene la alerta amarilla La Voz del Interior",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T07:00:00",
+    "image": "/img/9084327b602f7fc0.jpg",
+    "source_name": "La Voz del Interior",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "impresionante-tormenta-de-granizo-causo-destrozos-en-cordoba-se-mantiene-la-alerta-amarilla-la-voz-d",
+    "image_original": "https://www.lavoz.com.ar/2026/09/28/XjMyxuhKJj_1300x867.jpg"
   }
 }
