@@ -8640,5 +8640,31 @@
     "video_id": null,
     "slug": "clausuras-en-los-quebrachitos-alertan-por-desmontes-y-danos-ambientales",
     "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/10/reserva-quebrachitos-unquillo-II-1024x461.jpg"
+  },
+  "clima-en-unquillo-cordoba-por-horas-spaceref": {
+    "title": "Clima en Unquillo, Córdoba por horas - SpaceRef",
+    "link": "https://www.spaceref.com/tiempo/argentina/unquillo",
+    "description": "Clima en Unquillo, Córdoba por horas SpaceRef",
+    "pub_date": "17/10/2026",
+    "pub_date_raw": "2026-10-17T19:23:09",
+    "image": "https://www.spaceref.com/images/meteo-tiempo-argentina-unquillo.jpg",
+    "source_name": "SpaceRef",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "clima-en-unquillo-cordoba-por-horas-spaceref",
+    "image_original": "https://www.spaceref.com/images/meteo-tiempo-argentina-unquillo.jpg"
+  },
+  "temporal-de-piedra-devastador-en-unquillo-danos-cuantiosos-y-aves-muertas-cadena-3-argentina": {
+    "title": "Temporal de piedra devastador en Unquillo: daños cuantiosos y aves muertas - Cadena 3 Argentina",
+    "link": "https://www.cadena3.com/noticia/informados-al-regreso/temporal-de-piedra-devastador-en-unquillo-danos-cuantiosos-y-aves-muertas_598459",
+    "description": "Temporal de piedra devastador en Unquillo: daños cuantiosos y aves muertas Cadena 3 Argentina",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T07:00:00",
+    "image": "/img/1746d973ae8acadd.jpg",
+    "source_name": "Cadena 3 Argentina",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "temporal-de-piedra-devastador-en-unquillo-danos-cuantiosos-y-aves-muertas-cadena-3-argentina",
+    "image_original": "https://images-tools.cadena3.com/tools/r/1975fcd7-4323-4473-80cc-6a93f6c1e3d8.jpg?width=1200&height=900"
   }
 }
