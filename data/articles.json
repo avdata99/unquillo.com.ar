@@ -187,11 +187,12 @@
     "description": "UNQUILLO: PAREJA DETENIDA POR VENTA DE COCAÍNA Ministerio Público Fiscal Córdoba",
     "pub_date": "26/11/2025",
     "pub_date_raw": "2025-11-26T09:54:02",
-    "image": null,
+    "image": "/img/55cd2ec801b1f04a.jpg",
     "source_name": "Ministerio Público Fiscal Córdoba",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "unquillo-pareja-detenida-por-venta-de-cocaina-ministerio-publico-fiscal-cordoba"
+    "slug": "unquillo-pareja-detenida-por-venta-de-cocaina-ministerio-publico-fiscal-cordoba",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-20-at-19.21.06.jpg"
   },
   "unquillo-se-anticipa-a-la-temporada-cordoba-turismo": {
     "title": "Unquillo se anticipa a la temporada - Córdoba Turismo",
@@ -856,11 +857,12 @@
     "description": "John Wick estaba en Unquillo: cayó un hombre con cuatro armas, silenciador y más de 100 cartuchos Perfil",
     "pub_date": "13/06/2025",
     "pub_date_raw": "2025-06-13T07:00:00",
-    "image": null,
+    "image": "/img/2c18e26f0255690c.jpg",
     "source_name": "Perfil",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "john-wick-estaba-en-unquillo-cayo-un-hombre-con-cuatro-armas-silenciador-y-mas-de-100-cartuchos-perf"
+    "slug": "john-wick-estaba-en-unquillo-cayo-un-hombre-con-cuatro-armas-silenciador-y-mas-de-100-cartuchos-perf",
+    "image_original": "https://fotos.perfil.com/2025/06/13/trim/1140/641/policia-de-cordoba-allanamiento-2042903.jpg"
   },
   "agenda-de-verano-viernes-06-al-domingo-08-de-marzo": {
     "title": "AGENDA DE VERANO: VIERNES 06 AL DOMINGO 08 DE MARZO",
@@ -8704,5 +8706,92 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "granizo-de-gran-tamano-causo-destrozos-en-unquillo-asi-quedaron-los-autos-tras-la-tormenta-wwwteledi"
+  },
+  "agenda-del-finde-viernes-23-al-domingo-25-de-octubre": {
+    "title": "AGENDA DEL FINDE: VIERNES 23 AL DOMINGO 25 DE OCTUBRE",
+    "link": "https://unquillo.gov.ar/agenda-del-finde-viernes-23-al-domingo-25-de-octubre-2026/",
+    "description": "Este viernes habrá masterclass de zumba en el marco del Octubre Rosa, la Milonga recibirá a Nicolás Mercel y la muestra Refugios Fugaces tendrá su activación de cierre. El sábado, la película Cordobeces tendrá una función especial y el Paseo de Artesanos nos espera para disfrutar la tarde noche. Encontrá la agenda completa en esta nota.",
+    "pub_date": "23/10/2026",
+    "pub_date_raw": "2026-10-23T10:45:42",
+    "image": "/img/e8cf038110dfbdff.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "agenda-del-finde-viernes-23-al-domingo-25-de-octubre",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/10/Amalia-Antoni_Dialogos-internos-1024x576.png"
+  },
+  "capilla-de-buffo-un-homenaje-al-amor-en-unquillo-cordoba-turismo": {
+    "title": "Capilla de Buffo, un homenaje al amor en Unquillo - Córdoba Turismo",
+    "link": "https://cordobaturismo.gov.ar/experiencias/capilla-de-buffo-un-homenaje-al-amor-en-unquillo/",
+    "description": "Capilla de Buffo, un homenaje al amor en Unquillo Córdoba Turismo",
+    "pub_date": "29/07/2024",
+    "pub_date_raw": "2024-07-29T07:00:00",
+    "image": null,
+    "source_name": "Córdoba Turismo",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "capilla-de-buffo-un-homenaje-al-amor-en-unquillo-cordoba-turismo"
+  },
+  "alumnos-de-unquillo-y-brasil-visitaron-la-legislatura-de-cordoba-legislatura-de-la-provincia-de-cord": {
+    "title": "Alumnos de Unquillo y Brasil visitaron la Legislatura de Córdoba - Legislatura de la Provincia de Córdoba",
+    "link": "https://legislaturacba.gob.ar/alumnos-de-unquillo-y-brasil-visitaron-la-legislatura-de-cordoba/",
+    "description": "Alumnos de Unquillo y Brasil visitaron la Legislatura de Córdoba Legislatura de la Provincia de Córdoba",
+    "pub_date": "14/03/2025",
+    "pub_date_raw": "2025-03-14T07:00:00",
+    "image": "/img/4eb4f85d510d7c16.jpg",
+    "source_name": "Legislatura de la Provincia de Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "alumnos-de-unquillo-y-brasil-visitaron-la-legislatura-de-cordoba-legislatura-de-la-provincia-de-cord",
+    "image_original": "https://legislaturacba.gob.ar/wp-content/uploads/2025/03/Portada-2.jpg"
+  },
+  "radar-del-tiempo-de-unquillo-cordoba-argentina-accuweather": {
+    "title": "Radar del tiempo de Unquillo, Córdoba, Argentina - AccuWeather",
+    "link": "https://www.accuweather.com/es/ar/unquillo/8538/weather-radar/8538",
+    "description": "Radar del tiempo de Unquillo, Córdoba, Argentina AccuWeather",
+    "pub_date": "17/09/2020",
+    "pub_date_raw": "2020-09-17T18:32:39",
+    "image": null,
+    "source_name": "AccuWeather",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "radar-del-tiempo-de-unquillo-cordoba-argentina-accuweather"
+  },
+  "unquillo-estrena-escuela-proa-y-se-consolida-como-polo-educativo-con-mirada-al-futuro-gobierno-de-co": {
+    "title": "Unquillo estrena escuela ProA y se consolida como polo educativo con mirada al futuro - · Gobierno de Córdoba",
+    "link": "https://www.cba.gov.ar/cba-no-para/unquillo-estrena-escuela-proa-y-se-consolida-como-polo-educativo-con-mirada-al-futuro/",
+    "description": "Unquillo estrena escuela ProA y se consolida como polo educativo con mirada al futuro · Gobierno de Córdoba",
+    "pub_date": "30/10/2025",
+    "pub_date_raw": "2025-10-30T01:32:43",
+    "image": null,
+    "source_name": "· Gobierno de Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-estrena-escuela-proa-y-se-consolida-como-polo-educativo-con-mirada-al-futuro-gobierno-de-co"
+  },
+  "unquillo-pavimentacion-de-la-ruta-provincial-s-441-gobierno-de-cordoba": {
+    "title": "Unquillo: pavimentación de la Ruta Provincial S-441 - · Gobierno de Córdoba",
+    "link": "https://www.cba.gov.ar/cba-no-para/unquillo-pavimentacion-de-la-ruta-provincial-s-441/",
+    "description": "Unquillo: pavimentación de la Ruta Provincial S-441 · Gobierno de Córdoba",
+    "pub_date": "04/02/2022",
+    "pub_date_raw": "2022-02-04T09:55:51",
+    "image": null,
+    "source_name": "· Gobierno de Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-pavimentacion-de-la-ruta-provincial-s-441-gobierno-de-cordoba"
+  },
+  "una-familia-detenida-por-comercializar-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordoba": {
+    "title": "UNA FAMILIA DETENIDA POR COMERCIALIZAR ESTUPEFACIENTES EN UNQUILLO - Ministerio Público Fiscal Córdoba",
+    "link": "https://www.mpfcordoba.gob.ar/una-familia-detenida-por-comercializar-estupefacientes-en-unquillo/",
+    "description": "UNA FAMILIA DETENIDA POR COMERCIALIZAR ESTUPEFACIENTES EN UNQUILLO Ministerio Público Fiscal Córdoba",
+    "pub_date": "09/06/2024",
+    "pub_date_raw": "2024-06-09T07:00:00",
+    "image": "/img/f1c31d78c19cb424.jpg",
+    "source_name": "Ministerio Público Fiscal Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "una-familia-detenida-por-comercializar-estupefacientes-en-unquillo-ministerio-publico-fiscal-cordoba",
+    "image_original": "https://www.mpfcordoba.gob.ar/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-09-at-10.41.09-1.jpeg"
   }
 }
