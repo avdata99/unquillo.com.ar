@@ -1423,16 +1423,16 @@
   },
   "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel": {
     "title": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel - NOVA Córdoba",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92N1VBVS1LLTFoaUpDQlc5NE5wbl9SVC14aDZ3SVVYMDBnOWZvcjA3NFF3RW14bmZoVFZvNVBaWXVKSVlEZ3dGeFQzemRybWNYVnkyRjBtdUk0aDN6b1Z6Zm1rWjlvaWZVZHo1OFV4YVg3MTlKSWpEMjhlZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OOVkzOTVXYTBkR0xFcGp6bV9iR1l2aUwtUW9sbkhIQW1HWm9GZDgxMFVwQjZPcnVraWYyMmhXb0ZsVGNYUTJESFFxeDdXOGFNaUJqWnZWTTl1TEI3MUJGVGdEUHN2dHJMWWxvNGVMRmhPOG1keXRySG9vbw?oc=5",
     "description": "\"Ohana\", la banda folclórica de Unquillo que la rompe y cuenta con un padrino muy especial; Kike Teruel NOVA Córdoba",
-    "pub_date": "08/10/2026",
-    "pub_date_raw": "2026-10-08T23:05:05",
+    "pub_date": "02/11/2026",
+    "pub_date_raw": "2026-11-02T19:02:49",
     "image": null,
     "source_name": "NOVA Córdoba",
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
-    "link_intentos": 3
+    "link_intentos": 1
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -8934,5 +8934,17 @@
     "video_id": null,
     "slug": "pueblos-cordobeses-con-nombres-raros-unquillo-cordoba-interior-informa",
     "image_original": "https://img.cordobainteriorinforma.com/2026/11/unquillo-1-1170x658-1.jpeg"
+  },
+  "unquillo-esta-abierta-la-preventa-de-la-novela-la-muerte-es-el-punto-final-de-un-poema-de-leticia-fl": {
+    "title": "Unquillo: está abierta la preventa de la novela “La muerte es el punto final de un poema”, de Leticia Floriani - El Milenio",
+    "link": "https://elmilenio.info/2026/10/27/unquillo-esta-abierta-la-preventa-de-la-novela-la-muerte-es-el-punto-final-de-un-poema-de-leticia-floriani/",
+    "description": "Unquillo: está abierta la preventa de la novela “La muerte es el punto final de un poema”, de Leticia Floriani El Milenio",
+    "pub_date": "27/10/2026",
+    "pub_date_raw": "2026-10-27T20:46:46",
+    "image": null,
+    "source_name": "El Milenio",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "unquillo-esta-abierta-la-preventa-de-la-novela-la-muerte-es-el-punto-final-de-un-poema-de-leticia-fl"
   }
 }
