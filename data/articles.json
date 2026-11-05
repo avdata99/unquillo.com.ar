@@ -1432,7 +1432,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "ohana-la-banda-folclorica-de-unquillo-que-la-rompe-y-cuenta-con-un-padrino-muy-especial-kike-teruel",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "unquillo-este-domingo-se-realizara-la-caminata-sendero-de-los-sentidos": {
     "title": "Unquillo: este domingo se realizará la caminata “Sendero de los sentidos”",
@@ -8946,5 +8946,18 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "unquillo-esta-abierta-la-preventa-de-la-novela-la-muerte-es-el-punto-final-de-un-poema-de-leticia-fl"
+  },
+  "la-pena-trashumante-celebra-20-anos-con-una-nueva-edicion-en-unquillo-4-de-noviembre-de-2026-hoy-dia": {
+    "title": "La Peña Trashumante celebra 20 años con una nueva edición en Unquillo | 4 de noviembre de 2026 - Hoy Día Córdoba",
+    "link": "https://hoydia.com.ar/espectaculos/pena-trashumante-nueva-edicion-unquillo/",
+    "description": "La Peña Trashumante celebra 20 años con una nueva edición en Unquillo | 4 de noviembre de 2026 Hoy Día Córdoba",
+    "pub_date": "05/11/2026",
+    "pub_date_raw": "2026-11-05T02:32:06",
+    "image": "/img/c62381bbbe0381dd.jpg",
+    "source_name": "Hoy Día Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "la-pena-trashumante-celebra-20-anos-con-una-nueva-edicion-en-unquillo-4-de-noviembre-de-2026-hoy-dia",
+    "image_original": "https://hoydia.com.ar/wp-content/uploads/2026/11/Pena-T-optimized.webp"
   }
 }
