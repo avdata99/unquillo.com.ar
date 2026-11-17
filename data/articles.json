@@ -9123,5 +9123,31 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "b-san-miguel-y-b-villa-forquieri-unquillo-ministerio-de-desarrollo-social-y-promocion-del-empleo"
+  },
+  "tango-para-contar-llega-por-primera-vez-a-unquillo": {
+    "title": "TANGO PARA CONTAR LLEGA POR PRIMERA VEZ A UNQUILLO",
+    "link": "https://unquillo.gov.ar/tango-para-contar-unquillo/",
+    "description": "El espectáculo narrativo de tango-café concert se presentará el miércoles 25 de noviembre a las 21 horas en el Cine Teatro Municipal de Unquillo, en una función única.",
+    "pub_date": "17/11/2026",
+    "pub_date_raw": "2026-11-17T11:29:41",
+    "image": "/img/625b8ae9ee68e565.jpg",
+    "source_name": "Municipalidad de Unquillo",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "tango-para-contar-llega-por-primera-vez-a-unquillo",
+    "image_original": "https://unquillo.gov.ar/wp-content/uploads/2026/11/Portada-Tango-para-contar-1024x576.png"
+  },
+  "una-serenata-perdida-llega-a-unquillo": {
+    "title": "Una serenata perdida llega a Unquillo",
+    "link": "https://nexofm.com.ar/una-serenata-perdida-llega-a-unquillo/",
+    "description": "Música, teatro y juegos para compartir en familia. La propuesta llega este domingo a La Casita Verde, con entrada libre y salida a la gorra. La entrada Una serenata perdida llega a Unquillo se publicó primero en NEXO FM.",
+    "pub_date": "17/11/2026",
+    "pub_date_raw": "2026-11-17T14:59:41",
+    "image": "/img/b330163617295a84.jpg",
+    "source_name": "Nexo FM",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "una-serenata-perdida-llega-a-unquillo",
+    "image_original": "https://nexofm.com.ar/wp-content/uploads/2026/11/la-casita-verde-unquillo.jpg"
   }
 }
